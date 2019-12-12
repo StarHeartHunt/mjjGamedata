@@ -1,0 +1,1552 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 74445, 
+        "03:02:string": "guild_boss_bonus0", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 74448
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 74446, 
+        "03:02:string": "guild_boss_bonus1", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 74448
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 74447, 
+        "03:02:string": "guild_boss_bonus2", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 74448
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77424, 
+        "03:02:string": "guild_boss_bonus3", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 74448
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77425, 
+        "03:02:string": "guild_boss_bonus4", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 74448
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77426, 
+        "03:02:string": "guild_boss_bonus5", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 74448
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77427, 
+        "03:02:string": "guild_boss_bonus6", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 74448
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77428, 
+        "03:02:string": "guild_boss_bonus7", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 74448
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77429, 
+        "03:02:string": "guild_boss_bonus8", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 74448
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77430, 
+        "03:02:string": "guild_boss_bonus9", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 74448
+    }, 
+    "01:100:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77521, 
+        "03:02:string": "guild_boss_bonus100", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:101:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77522, 
+        "03:02:string": "guild_boss_bonus101", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:102:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77523, 
+        "03:02:string": "guild_boss_bonus102", 
+        "04:03:Varint": 13, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:103:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77524, 
+        "03:02:string": "guild_boss_bonus103", 
+        "04:03:Varint": 14, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:104:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77525, 
+        "03:02:string": "guild_boss_bonus104", 
+        "04:03:Varint": 15, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:105:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77526, 
+        "03:02:string": "guild_boss_bonus105", 
+        "04:03:Varint": 16, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:106:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77527, 
+        "03:02:string": "guild_boss_bonus106", 
+        "04:03:Varint": 17, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:107:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77528, 
+        "03:02:string": "guild_boss_bonus107", 
+        "04:03:Varint": 18, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:108:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77529, 
+        "03:02:string": "guild_boss_bonus108", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:109:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77530, 
+        "03:02:string": "guild_boss_bonus109", 
+        "04:03:Varint": 20, 
+        "05:04:Varint": 77344, 
+        "05:05:Varint": 77364, 
+        "05:06:Varint": 77384, 
+        "06:07:Varint": 74448
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77431, 
+        "03:02:string": "guild_boss_bonus10", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:110:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77531, 
+        "03:02:string": "guild_boss_bonus110", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:111:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77532, 
+        "03:02:string": "guild_boss_bonus111", 
+        "04:03:Varint": 22, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:112:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77533, 
+        "03:02:string": "guild_boss_bonus112", 
+        "04:03:Varint": 23, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:113:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77534, 
+        "03:02:string": "guild_boss_bonus113", 
+        "04:03:Varint": 24, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:114:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77535, 
+        "03:02:string": "guild_boss_bonus114", 
+        "04:03:Varint": 25, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:115:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77536, 
+        "03:02:string": "guild_boss_bonus115", 
+        "04:03:Varint": 26, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:116:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77537, 
+        "03:02:string": "guild_boss_bonus116", 
+        "04:03:Varint": 27, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:117:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77538, 
+        "03:02:string": "guild_boss_bonus117", 
+        "04:03:Varint": 28, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:118:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77539, 
+        "03:02:string": "guild_boss_bonus118", 
+        "04:03:Varint": 29, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:119:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77540, 
+        "03:02:string": "guild_boss_bonus119", 
+        "04:03:Varint": 30, 
+        "05:04:Varint": 77345, 
+        "05:05:Varint": 77365, 
+        "05:06:Varint": 77385, 
+        "06:07:Varint": 74448
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77432, 
+        "03:02:string": "guild_boss_bonus11", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:120:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77541, 
+        "03:02:string": "guild_boss_bonus120", 
+        "04:03:Varint": 31, 
+        "05:04:Varint": 77331, 
+        "05:05:Varint": 77351, 
+        "05:06:Varint": 77371, 
+        "06:07:Varint": 74448
+    }, 
+    "01:121:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77542, 
+        "03:02:string": "guild_boss_bonus121", 
+        "04:03:Varint": 31, 
+        "05:04:Varint": 77336, 
+        "05:05:Varint": 77356, 
+        "05:06:Varint": 77376, 
+        "06:07:Varint": 74448
+    }, 
+    "01:122:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77543, 
+        "03:02:string": "guild_boss_bonus122", 
+        "04:03:Varint": 31, 
+        "05:04:Varint": 77341, 
+        "05:05:Varint": 77361, 
+        "05:06:Varint": 77381, 
+        "06:07:Varint": 74448
+    }, 
+    "01:123:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77544, 
+        "03:02:string": "guild_boss_bonus123", 
+        "04:03:Varint": 31, 
+        "05:04:Varint": 77346, 
+        "05:05:Varint": 77366, 
+        "05:06:Varint": 77386, 
+        "06:07:Varint": 74448
+    }, 
+    "01:124:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129301, 
+        "03:02:string": "guild_boss_bonus124", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 129337, 
+        "05:05:Varint": 129342, 
+        "05:06:Varint": 129347, 
+        "06:07:Varint": 74448
+    }, 
+    "01:125:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129302, 
+        "03:02:string": "guild_boss_bonus125", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 129337, 
+        "05:05:Varint": 129342, 
+        "05:06:Varint": 129347, 
+        "06:07:Varint": 74448
+    }, 
+    "01:126:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129303, 
+        "03:02:string": "guild_boss_bonus126", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 129337, 
+        "05:05:Varint": 129342, 
+        "05:06:Varint": 129347, 
+        "06:07:Varint": 74448
+    }, 
+    "01:127:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129304, 
+        "03:02:string": "guild_boss_bonus127", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 129337, 
+        "05:05:Varint": 129342, 
+        "05:06:Varint": 129347, 
+        "06:07:Varint": 74448
+    }, 
+    "01:128:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129305, 
+        "03:02:string": "guild_boss_bonus128", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 129337, 
+        "05:05:Varint": 129342, 
+        "05:06:Varint": 129347, 
+        "06:07:Varint": 74448
+    }, 
+    "01:129:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129306, 
+        "03:02:string": "guild_boss_bonus129", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 129338, 
+        "05:05:Varint": 129343, 
+        "05:06:Varint": 129348, 
+        "06:07:Varint": 74448
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77433, 
+        "03:02:string": "guild_boss_bonus12", 
+        "04:03:Varint": 13, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:130:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129307, 
+        "03:02:string": "guild_boss_bonus130", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 129338, 
+        "05:05:Varint": 129343, 
+        "05:06:Varint": 129348, 
+        "06:07:Varint": 74448
+    }, 
+    "01:131:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129308, 
+        "03:02:string": "guild_boss_bonus131", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 129338, 
+        "05:05:Varint": 129343, 
+        "05:06:Varint": 129348, 
+        "06:07:Varint": 74448
+    }, 
+    "01:132:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129309, 
+        "03:02:string": "guild_boss_bonus132", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 129338, 
+        "05:05:Varint": 129343, 
+        "05:06:Varint": 129348, 
+        "06:07:Varint": 74448
+    }, 
+    "01:133:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129310, 
+        "03:02:string": "guild_boss_bonus133", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 129338, 
+        "05:05:Varint": 129343, 
+        "05:06:Varint": 129348, 
+        "06:07:Varint": 74448
+    }, 
+    "01:134:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129311, 
+        "03:02:string": "guild_boss_bonus134", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:135:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129312, 
+        "03:02:string": "guild_boss_bonus135", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:136:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129313, 
+        "03:02:string": "guild_boss_bonus136", 
+        "04:03:Varint": 13, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:137:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129314, 
+        "03:02:string": "guild_boss_bonus137", 
+        "04:03:Varint": 14, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:138:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129315, 
+        "03:02:string": "guild_boss_bonus138", 
+        "04:03:Varint": 15, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:139:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129316, 
+        "03:02:string": "guild_boss_bonus139", 
+        "04:03:Varint": 16, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77434, 
+        "03:02:string": "guild_boss_bonus13", 
+        "04:03:Varint": 14, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:140:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129317, 
+        "03:02:string": "guild_boss_bonus140", 
+        "04:03:Varint": 17, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:141:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129318, 
+        "03:02:string": "guild_boss_bonus141", 
+        "04:03:Varint": 18, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:142:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129319, 
+        "03:02:string": "guild_boss_bonus142", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:143:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129320, 
+        "03:02:string": "guild_boss_bonus143", 
+        "04:03:Varint": 20, 
+        "05:04:Varint": 129339, 
+        "05:05:Varint": 129344, 
+        "05:06:Varint": 129349, 
+        "06:07:Varint": 74448
+    }, 
+    "01:144:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129321, 
+        "03:02:string": "guild_boss_bonus144", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:145:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129322, 
+        "03:02:string": "guild_boss_bonus145", 
+        "04:03:Varint": 22, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:146:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129323, 
+        "03:02:string": "guild_boss_bonus146", 
+        "04:03:Varint": 23, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:147:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129324, 
+        "03:02:string": "guild_boss_bonus147", 
+        "04:03:Varint": 24, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:148:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129325, 
+        "03:02:string": "guild_boss_bonus148", 
+        "04:03:Varint": 25, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:149:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129326, 
+        "03:02:string": "guild_boss_bonus149", 
+        "04:03:Varint": 26, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77435, 
+        "03:02:string": "guild_boss_bonus14", 
+        "04:03:Varint": 15, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:150:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129327, 
+        "03:02:string": "guild_boss_bonus150", 
+        "04:03:Varint": 27, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:151:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129328, 
+        "03:02:string": "guild_boss_bonus151", 
+        "04:03:Varint": 28, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:152:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129329, 
+        "03:02:string": "guild_boss_bonus152", 
+        "04:03:Varint": 29, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:153:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129330, 
+        "03:02:string": "guild_boss_bonus153", 
+        "04:03:Varint": 30, 
+        "05:04:Varint": 129340, 
+        "05:05:Varint": 129345, 
+        "05:06:Varint": 129350, 
+        "06:07:Varint": 74448
+    }, 
+    "01:154:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 129331, 
+        "03:02:string": "guild_boss_bonus154", 
+        "04:03:Varint": 31, 
+        "05:04:Varint": 129341, 
+        "05:05:Varint": 129346, 
+        "05:06:Varint": 129351, 
+        "06:07:Varint": 74448
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77436, 
+        "03:02:string": "guild_boss_bonus15", 
+        "04:03:Varint": 16, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77437, 
+        "03:02:string": "guild_boss_bonus16", 
+        "04:03:Varint": 17, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77438, 
+        "03:02:string": "guild_boss_bonus17", 
+        "04:03:Varint": 18, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77439, 
+        "03:02:string": "guild_boss_bonus18", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77440, 
+        "03:02:string": "guild_boss_bonus19", 
+        "04:03:Varint": 20, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "06:07:Varint": 74448
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77441, 
+        "03:02:string": "guild_boss_bonus20", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77442, 
+        "03:02:string": "guild_boss_bonus21", 
+        "04:03:Varint": 22, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77443, 
+        "03:02:string": "guild_boss_bonus22", 
+        "04:03:Varint": 23, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77444, 
+        "03:02:string": "guild_boss_bonus23", 
+        "04:03:Varint": 24, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77445, 
+        "03:02:string": "guild_boss_bonus24", 
+        "04:03:Varint": 25, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77446, 
+        "03:02:string": "guild_boss_bonus25", 
+        "04:03:Varint": 26, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:26:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77447, 
+        "03:02:string": "guild_boss_bonus26", 
+        "04:03:Varint": 27, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:27:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77448, 
+        "03:02:string": "guild_boss_bonus27", 
+        "04:03:Varint": 28, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:28:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77449, 
+        "03:02:string": "guild_boss_bonus28", 
+        "04:03:Varint": 29, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:29:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77450, 
+        "03:02:string": "guild_boss_bonus29", 
+        "04:03:Varint": 30, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 74448
+    }, 
+    "01:30:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77451, 
+        "03:02:string": "guild_boss_bonus30", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 77332, 
+        "05:05:Varint": 77352, 
+        "05:06:Varint": 77372, 
+        "06:07:Varint": 74448
+    }, 
+    "01:31:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77452, 
+        "03:02:string": "guild_boss_bonus31", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 77332, 
+        "05:05:Varint": 77352, 
+        "05:06:Varint": 77372, 
+        "06:07:Varint": 74448
+    }, 
+    "01:32:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77453, 
+        "03:02:string": "guild_boss_bonus32", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 77332, 
+        "05:05:Varint": 77352, 
+        "05:06:Varint": 77372, 
+        "06:07:Varint": 74448
+    }, 
+    "01:33:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77454, 
+        "03:02:string": "guild_boss_bonus33", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 77332, 
+        "05:05:Varint": 77352, 
+        "05:06:Varint": 77372, 
+        "06:07:Varint": 74448
+    }, 
+    "01:34:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77455, 
+        "03:02:string": "guild_boss_bonus34", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 77332, 
+        "05:05:Varint": 77352, 
+        "05:06:Varint": 77372, 
+        "06:07:Varint": 74448
+    }, 
+    "01:35:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77456, 
+        "03:02:string": "guild_boss_bonus35", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 74448
+    }, 
+    "01:36:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77457, 
+        "03:02:string": "guild_boss_bonus36", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 74448
+    }, 
+    "01:37:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77458, 
+        "03:02:string": "guild_boss_bonus37", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 74448
+    }, 
+    "01:38:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77459, 
+        "03:02:string": "guild_boss_bonus38", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 74448
+    }, 
+    "01:39:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77460, 
+        "03:02:string": "guild_boss_bonus39", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 74448
+    }, 
+    "01:40:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77461, 
+        "03:02:string": "guild_boss_bonus40", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:41:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77462, 
+        "03:02:string": "guild_boss_bonus41", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:42:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77463, 
+        "03:02:string": "guild_boss_bonus42", 
+        "04:03:Varint": 13, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:43:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77464, 
+        "03:02:string": "guild_boss_bonus43", 
+        "04:03:Varint": 14, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:44:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77465, 
+        "03:02:string": "guild_boss_bonus44", 
+        "04:03:Varint": 15, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:45:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77466, 
+        "03:02:string": "guild_boss_bonus45", 
+        "04:03:Varint": 16, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:46:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77467, 
+        "03:02:string": "guild_boss_bonus46", 
+        "04:03:Varint": 17, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:47:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77468, 
+        "03:02:string": "guild_boss_bonus47", 
+        "04:03:Varint": 18, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:48:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77469, 
+        "03:02:string": "guild_boss_bonus48", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:49:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77470, 
+        "03:02:string": "guild_boss_bonus49", 
+        "04:03:Varint": 20, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 74448
+    }, 
+    "01:50:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77471, 
+        "03:02:string": "guild_boss_bonus50", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:51:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77472, 
+        "03:02:string": "guild_boss_bonus51", 
+        "04:03:Varint": 22, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:52:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77473, 
+        "03:02:string": "guild_boss_bonus52", 
+        "04:03:Varint": 23, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:53:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77474, 
+        "03:02:string": "guild_boss_bonus53", 
+        "04:03:Varint": 24, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:54:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77475, 
+        "03:02:string": "guild_boss_bonus54", 
+        "04:03:Varint": 25, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:55:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77476, 
+        "03:02:string": "guild_boss_bonus55", 
+        "04:03:Varint": 26, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:56:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77477, 
+        "03:02:string": "guild_boss_bonus56", 
+        "04:03:Varint": 27, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:57:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77478, 
+        "03:02:string": "guild_boss_bonus57", 
+        "04:03:Varint": 28, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:58:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77479, 
+        "03:02:string": "guild_boss_bonus58", 
+        "04:03:Varint": 29, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:59:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77480, 
+        "03:02:string": "guild_boss_bonus59", 
+        "04:03:Varint": 30, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 74448
+    }, 
+    "01:60:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77481, 
+        "03:02:string": "guild_boss_bonus60", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 77337, 
+        "05:05:Varint": 77357, 
+        "05:06:Varint": 77377, 
+        "06:07:Varint": 74448
+    }, 
+    "01:61:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77482, 
+        "03:02:string": "guild_boss_bonus61", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 77337, 
+        "05:05:Varint": 77357, 
+        "05:06:Varint": 77377, 
+        "06:07:Varint": 74448
+    }, 
+    "01:62:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77483, 
+        "03:02:string": "guild_boss_bonus62", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 77337, 
+        "05:05:Varint": 77357, 
+        "05:06:Varint": 77377, 
+        "06:07:Varint": 74448
+    }, 
+    "01:63:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77484, 
+        "03:02:string": "guild_boss_bonus63", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 77337, 
+        "05:05:Varint": 77357, 
+        "05:06:Varint": 77377, 
+        "06:07:Varint": 74448
+    }, 
+    "01:64:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77485, 
+        "03:02:string": "guild_boss_bonus64", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 77337, 
+        "05:05:Varint": 77357, 
+        "05:06:Varint": 77377, 
+        "06:07:Varint": 74448
+    }, 
+    "01:65:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77486, 
+        "03:02:string": "guild_boss_bonus65", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 77338, 
+        "05:05:Varint": 77358, 
+        "05:06:Varint": 77378, 
+        "06:07:Varint": 74448
+    }, 
+    "01:66:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77487, 
+        "03:02:string": "guild_boss_bonus66", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 77338, 
+        "05:05:Varint": 77358, 
+        "05:06:Varint": 77378, 
+        "06:07:Varint": 74448
+    }, 
+    "01:67:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77488, 
+        "03:02:string": "guild_boss_bonus67", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 77338, 
+        "05:05:Varint": 77358, 
+        "05:06:Varint": 77378, 
+        "06:07:Varint": 74448
+    }, 
+    "01:68:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77489, 
+        "03:02:string": "guild_boss_bonus68", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 77338, 
+        "05:05:Varint": 77358, 
+        "05:06:Varint": 77378, 
+        "06:07:Varint": 74448
+    }, 
+    "01:69:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77490, 
+        "03:02:string": "guild_boss_bonus69", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 77338, 
+        "05:05:Varint": 77358, 
+        "05:06:Varint": 77378, 
+        "06:07:Varint": 74448
+    }, 
+    "01:70:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77491, 
+        "03:02:string": "guild_boss_bonus70", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:71:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77492, 
+        "03:02:string": "guild_boss_bonus71", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:72:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77493, 
+        "03:02:string": "guild_boss_bonus72", 
+        "04:03:Varint": 13, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:73:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77494, 
+        "03:02:string": "guild_boss_bonus73", 
+        "04:03:Varint": 14, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:74:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77495, 
+        "03:02:string": "guild_boss_bonus74", 
+        "04:03:Varint": 15, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:75:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77496, 
+        "03:02:string": "guild_boss_bonus75", 
+        "04:03:Varint": 16, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:76:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77497, 
+        "03:02:string": "guild_boss_bonus76", 
+        "04:03:Varint": 17, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:77:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77498, 
+        "03:02:string": "guild_boss_bonus77", 
+        "04:03:Varint": 18, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:78:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77499, 
+        "03:02:string": "guild_boss_bonus78", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:79:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77500, 
+        "03:02:string": "guild_boss_bonus79", 
+        "04:03:Varint": 20, 
+        "05:04:Varint": 77339, 
+        "05:05:Varint": 77359, 
+        "05:06:Varint": 77379, 
+        "06:07:Varint": 74448
+    }, 
+    "01:80:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77501, 
+        "03:02:string": "guild_boss_bonus80", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:81:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77502, 
+        "03:02:string": "guild_boss_bonus81", 
+        "04:03:Varint": 22, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:82:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77503, 
+        "03:02:string": "guild_boss_bonus82", 
+        "04:03:Varint": 23, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:83:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77504, 
+        "03:02:string": "guild_boss_bonus83", 
+        "04:03:Varint": 24, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:84:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77505, 
+        "03:02:string": "guild_boss_bonus84", 
+        "04:03:Varint": 25, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:85:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77506, 
+        "03:02:string": "guild_boss_bonus85", 
+        "04:03:Varint": 26, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:86:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77507, 
+        "03:02:string": "guild_boss_bonus86", 
+        "04:03:Varint": 27, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:87:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77508, 
+        "03:02:string": "guild_boss_bonus87", 
+        "04:03:Varint": 28, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:88:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77509, 
+        "03:02:string": "guild_boss_bonus88", 
+        "04:03:Varint": 29, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:89:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77510, 
+        "03:02:string": "guild_boss_bonus89", 
+        "04:03:Varint": 30, 
+        "05:04:Varint": 77340, 
+        "05:05:Varint": 77360, 
+        "05:06:Varint": 77380, 
+        "06:07:Varint": 74448
+    }, 
+    "01:90:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77511, 
+        "03:02:string": "guild_boss_bonus90", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 77342, 
+        "05:05:Varint": 77362, 
+        "05:06:Varint": 77382, 
+        "06:07:Varint": 74448
+    }, 
+    "01:91:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77512, 
+        "03:02:string": "guild_boss_bonus91", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 77342, 
+        "05:05:Varint": 77362, 
+        "05:06:Varint": 77382, 
+        "06:07:Varint": 74448
+    }, 
+    "01:92:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77513, 
+        "03:02:string": "guild_boss_bonus92", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 77342, 
+        "05:05:Varint": 77362, 
+        "05:06:Varint": 77382, 
+        "06:07:Varint": 74448
+    }, 
+    "01:93:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77514, 
+        "03:02:string": "guild_boss_bonus93", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 77342, 
+        "05:05:Varint": 77362, 
+        "05:06:Varint": 77382, 
+        "06:07:Varint": 74448
+    }, 
+    "01:94:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77515, 
+        "03:02:string": "guild_boss_bonus94", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 77342, 
+        "05:05:Varint": 77362, 
+        "05:06:Varint": 77382, 
+        "06:07:Varint": 74448
+    }, 
+    "01:95:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77516, 
+        "03:02:string": "guild_boss_bonus95", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 77343, 
+        "05:05:Varint": 77363, 
+        "05:06:Varint": 77383, 
+        "06:07:Varint": 74448
+    }, 
+    "01:96:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77517, 
+        "03:02:string": "guild_boss_bonus96", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 77343, 
+        "05:05:Varint": 77363, 
+        "05:06:Varint": 77383, 
+        "06:07:Varint": 74448
+    }, 
+    "01:97:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77518, 
+        "03:02:string": "guild_boss_bonus97", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 77343, 
+        "05:05:Varint": 77363, 
+        "05:06:Varint": 77383, 
+        "06:07:Varint": 74448
+    }, 
+    "01:98:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77519, 
+        "03:02:string": "guild_boss_bonus98", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 77343, 
+        "05:05:Varint": 77363, 
+        "05:06:Varint": 77383, 
+        "06:07:Varint": 74448
+    }, 
+    "01:99:embedded message": {
+        "01:00:Varint": 225, 
+        "02:01:Varint": 77520, 
+        "03:02:string": "guild_boss_bonus99", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 77343, 
+        "05:05:Varint": 77363, 
+        "05:06:Varint": 77383, 
+        "06:07:Varint": 74448
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 208, 
+        "02:01:Varint": 71946, 
+        "03:02:string": "chan_0", 
+        "04:03:Varint": 71947, 
+        "05:04:Varint": 71947
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 208, 
+        "02:01:Varint": 74333, 
+        "03:02:string": "chan_1", 
+        "04:03:Varint": 72029, 
+        "04:04:Varint": 71947, 
+        "05:05:Varint": 72029
+    }
+}

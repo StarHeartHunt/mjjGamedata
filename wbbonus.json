@@ -1,0 +1,431 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 129365, 
+        "03:02:string": "world_boss_bonus0", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "05:07:Varint": 135386, 
+        "06:08:Varint": 135242
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130754, 
+        "03:02:string": "world_boss_bonus1", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "05:07:Varint": 135385, 
+        "06:08:Varint": 135243
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130755, 
+        "03:02:string": "world_boss_bonus2", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "05:07:Varint": 135384, 
+        "06:08:Varint": 135244
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130756, 
+        "03:02:string": "world_boss_bonus3", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 135245
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130757, 
+        "03:02:string": "world_boss_bonus4", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 135245
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130758, 
+        "03:02:string": "world_boss_bonus5", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130759, 
+        "03:02:string": "world_boss_bonus6", 
+        "04:03:Varint": 51, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130760, 
+        "03:02:string": "world_boss_bonus7", 
+        "04:03:Varint": 101, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130761, 
+        "03:02:string": "world_boss_bonus8", 
+        "04:03:Varint": 201, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130762, 
+        "03:02:string": "world_boss_bonus9", 
+        "04:03:Varint": 501, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130763, 
+        "03:02:string": "world_boss_bonus10", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 77332, 
+        "05:05:Varint": 77352, 
+        "05:06:Varint": 77372, 
+        "06:07:Varint": 135242
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130764, 
+        "03:02:string": "world_boss_bonus11", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 135243
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130765, 
+        "03:02:string": "world_boss_bonus12", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 77334, 
+        "05:05:Varint": 77354, 
+        "05:06:Varint": 77374, 
+        "06:07:Varint": 135244
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130766, 
+        "03:02:string": "world_boss_bonus13", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 77335, 
+        "05:05:Varint": 77355, 
+        "05:06:Varint": 77375, 
+        "06:07:Varint": 135245
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130767, 
+        "03:02:string": "world_boss_bonus14", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 77332, 
+        "05:05:Varint": 77352, 
+        "05:06:Varint": 77372, 
+        "06:07:Varint": 135245
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130768, 
+        "03:02:string": "world_boss_bonus15", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 135245
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130769, 
+        "03:02:string": "world_boss_bonus16", 
+        "04:03:Varint": 51, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 135245
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130770, 
+        "03:02:string": "world_boss_bonus17", 
+        "04:03:Varint": 101, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 135245
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130771, 
+        "03:02:string": "world_boss_bonus18", 
+        "04:03:Varint": 201, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 135245
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130772, 
+        "03:02:string": "world_boss_bonus19", 
+        "04:03:Varint": 501, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 135245
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130773, 
+        "03:02:string": "world_boss_bonus20", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 74448
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 130791, 
+        "03:02:string": "world_boss_bonus21", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 77333, 
+        "05:05:Varint": 77353, 
+        "05:06:Varint": 77373, 
+        "06:07:Varint": 74448
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137385, 
+        "03:02:string": "world_boss_bonus22", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "05:07:Varint": 137379, 
+        "06:08:Varint": 135242
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137386, 
+        "03:02:string": "world_boss_bonus23", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "05:07:Varint": 137380, 
+        "06:08:Varint": 135243
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137387, 
+        "03:02:string": "world_boss_bonus24", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "05:07:Varint": 137381, 
+        "06:08:Varint": 135244
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137388, 
+        "03:02:string": "world_boss_bonus25", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 135245
+    }, 
+    "01:26:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137389, 
+        "03:02:string": "world_boss_bonus26", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 135245
+    }, 
+    "01:27:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137390, 
+        "03:02:string": "world_boss_bonus27", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:28:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137391, 
+        "03:02:string": "world_boss_bonus28", 
+        "04:03:Varint": 51, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:29:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137392, 
+        "03:02:string": "world_boss_bonus29", 
+        "04:03:Varint": 101, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:30:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137393, 
+        "03:02:string": "world_boss_bonus30", 
+        "04:03:Varint": 201, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:31:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137394, 
+        "03:02:string": "world_boss_bonus31", 
+        "04:03:Varint": 501, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:32:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137395, 
+        "03:02:string": "world_boss_bonus32", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "05:07:Varint": 137382, 
+        "06:08:Varint": 135242
+    }, 
+    "01:33:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137396, 
+        "03:02:string": "world_boss_bonus33", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "05:07:Varint": 137383, 
+        "06:08:Varint": 135243
+    }, 
+    "01:34:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137397, 
+        "03:02:string": "world_boss_bonus34", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 77329, 
+        "05:05:Varint": 77349, 
+        "05:06:Varint": 77369, 
+        "05:07:Varint": 137384, 
+        "06:08:Varint": 135244
+    }, 
+    "01:35:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137398, 
+        "03:02:string": "world_boss_bonus35", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 77330, 
+        "05:05:Varint": 77350, 
+        "05:06:Varint": 77370, 
+        "06:07:Varint": 135245
+    }, 
+    "01:36:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137399, 
+        "03:02:string": "world_boss_bonus36", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 77327, 
+        "05:05:Varint": 77347, 
+        "05:06:Varint": 77367, 
+        "06:07:Varint": 135245
+    }, 
+    "01:37:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137400, 
+        "03:02:string": "world_boss_bonus37", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:38:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137401, 
+        "03:02:string": "world_boss_bonus38", 
+        "04:03:Varint": 51, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:39:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137402, 
+        "03:02:string": "world_boss_bonus39", 
+        "04:03:Varint": 101, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:40:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137403, 
+        "03:02:string": "world_boss_bonus40", 
+        "04:03:Varint": 201, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }, 
+    "01:41:embedded message": {
+        "01:00:Varint": 263, 
+        "02:01:Varint": 137404, 
+        "03:02:string": "world_boss_bonus41", 
+        "04:03:Varint": 501, 
+        "05:04:Varint": 77328, 
+        "05:05:Varint": 77348, 
+        "05:06:Varint": 77368, 
+        "06:07:Varint": 135245
+    }
+}

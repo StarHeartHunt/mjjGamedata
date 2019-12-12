@@ -1,0 +1,182 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3457, 
+        "03:02:string": "GIFT_1", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 104, 
+        "07:06:Varint": 104, 
+        "08:07:Varint": 50
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3458, 
+        "03:02:string": "GIFT_2", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 300, 
+        "06:05:Varint": 104, 
+        "07:06:Varint": 104, 
+        "08:07:Varint": 80
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3460, 
+        "03:02:string": "GIFT_4", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 3600, 
+        "06:05:Varint": 104, 
+        "07:06:Varint": 104, 
+        "08:07:Varint": 150
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3461, 
+        "03:02:string": "GIFT_5", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 32400, 
+        "06:05:Varint": 78, 
+        "07:06:Varint": 40751, 
+        "08:07:Varint": 1
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3462, 
+        "03:02:string": "GIFT_6", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 79200, 
+        "06:05:Varint": 78, 
+        "07:06:Varint": 40751, 
+        "08:07:Varint": 1
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3463, 
+        "03:02:string": "GIFT_7", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 79200, 
+        "06:05:Varint": 78, 
+        "07:06:Varint": 40751, 
+        "08:07:Varint": 1
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3464, 
+        "03:02:string": "GIFT_8", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 79200, 
+        "06:05:Varint": 78, 
+        "07:06:Varint": 40751, 
+        "08:07:Varint": 1
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3465, 
+        "03:02:string": "GIFT_9", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 79200, 
+        "06:05:Varint": 78, 
+        "07:06:Varint": 40751, 
+        "08:07:Varint": 1
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 3466, 
+        "03:02:string": "GIFT_10", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 79200, 
+        "06:05:Varint": 78, 
+        "07:06:Varint": 45032, 
+        "08:07:Varint": 1
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 10499, 
+        "03:02:string": "GIFT_11", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 79200, 
+        "06:05:Varint": 78, 
+        "07:06:Varint": 45032, 
+        "08:07:Varint": 1
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 10503, 
+        "03:02:string": "GIFT_12", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 13476, 
+        "03:02:string": "GIFT_13", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 13477, 
+        "03:02:string": "GIFT_14", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 13478, 
+        "03:02:string": "GIFT_15", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 13479, 
+        "03:02:string": "GIFT_16", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 13480, 
+        "03:02:string": "GIFT_17", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 13481, 
+        "03:02:string": "GIFT_18", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 33, 
+        "02:01:Varint": 13554, 
+        "03:02:string": "GIFT_19", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }
+}

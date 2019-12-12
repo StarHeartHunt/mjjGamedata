@@ -1,0 +1,42 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 58, 
+        "02:01:Varint": 22033, 
+        "03:02:string": "AI_BEHAVIOR_01", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 100
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 58, 
+        "02:01:Varint": 36219, 
+        "03:02:string": "AI_BEHAVIOR_02", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 100
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 58, 
+        "02:01:Varint": 36220, 
+        "03:02:string": "AI_BEHAVIOR_03", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 100
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 58, 
+        "02:01:Varint": 36225, 
+        "03:02:string": "AI_BEHAVIOR_04", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 100
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 58, 
+        "02:01:Varint": 36666, 
+        "03:02:string": "AI_BEHAVIOR_05", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 100
+    }
+}

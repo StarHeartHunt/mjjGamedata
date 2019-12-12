@@ -1,0 +1,42 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 57, 
+        "02:01:Varint": 22032, 
+        "03:02:string": "AI_CONDITION_01", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 57, 
+        "02:01:Varint": 36221, 
+        "03:02:string": "AI_CONDITION_02", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 57, 
+        "02:01:Varint": 36222, 
+        "03:02:string": "AI_CONDITION_03", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 57, 
+        "02:01:Varint": 39715, 
+        "03:02:string": "AI_CONDITION_04", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 50, 
+        "08:07:Varint": 0
+    }
+}

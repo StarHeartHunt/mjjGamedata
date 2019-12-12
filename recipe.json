@@ -1,0 +1,50 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 6, 
+        "02:01:Varint": 59, 
+        "03:02:string": "Recipe_001", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 1, 
+        "07:06:Varint": 1, 
+        "08:07:Varint": 1, 
+        "09:08:Varint": 1, 
+        "10:09:Varint": 1
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 6, 
+        "02:01:Varint": 60, 
+        "03:02:string": "Recipe_002", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 200, 
+        "06:05:Varint": 6, 
+        "07:06:Varint": 200, 
+        "08:07:Varint": 5, 
+        "09:08:Varint": 200, 
+        "10:09:Varint": 2
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 6, 
+        "02:01:Varint": 61, 
+        "03:02:string": "Recipe_003", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 500, 
+        "06:05:Varint": 6, 
+        "07:06:Varint": 500, 
+        "08:07:Varint": 7, 
+        "09:08:Varint": 500, 
+        "10:09:Varint": 1
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 6, 
+        "02:01:Varint": 62, 
+        "03:02:string": "Recipe_004", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 999, 
+        "06:05:Varint": 1, 
+        "07:06:Varint": 999, 
+        "08:07:Varint": 1, 
+        "09:08:Varint": 999, 
+        "10:09:Varint": 2
+    }
+}

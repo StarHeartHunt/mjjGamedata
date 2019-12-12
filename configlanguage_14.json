@@ -1,0 +1,4466 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 128240, 
+        "03:02:string": "LOCAL_TEXT_27896", 
+        "04:03:string": "表头数据十四", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136362, 
+        "03:02:string": "LOCAL_TEXT_30633", 
+        "04:03:string": "异客再临", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136363, 
+        "03:02:string": "LOCAL_TEXT_30634", 
+        "04:03:string": "各自的路", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136364, 
+        "03:02:string": "LOCAL_TEXT_30635", 
+        "04:03:string": "萍水相逢", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136365, 
+        "03:02:string": "LOCAL_TEXT_30636", 
+        "04:03:string": "相得益彰", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136366, 
+        "03:02:string": "LOCAL_TEXT_30637", 
+        "04:03:string": "改日再会", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136379, 
+        "03:02:string": "LOCAL_TEXT_30638", 
+        "04:03:string": "我定会倾尽全力。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136380, 
+        "03:02:string": "LOCAL_TEXT_30639", 
+        "04:03:string": "支援就交给我吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136381, 
+        "03:02:string": "LOCAL_TEXT_30640", 
+        "04:03:string": "会是谁呢？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136382, 
+        "03:02:string": "LOCAL_TEXT_30641", 
+        "04:03:string": "这些更适合留给你。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:100:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136866, 
+        "03:02:string": "LOCAL_TEXT_30732", 
+        "04:03:string": "（术法竟不能顺利施展……莫非西沙净土设置了结界？）", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:101:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136867, 
+        "03:02:string": "LOCAL_TEXT_30733", 
+        "04:03:string": "（但我这副躯壳，又是怎么一回事？）", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:102:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136868, 
+        "03:02:string": "LOCAL_TEXT_30734", 
+        "04:03:string": "青年简单活动了下手脚，似乎在确认它们属于自己，而不是别的人。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:103:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136869, 
+        "03:02:string": "LOCAL_TEXT_30735", 
+        "04:03:string": "少顷，惟闻仙乐入耳，如梦似幻。\\n青年心中暗喜，循声而去，期望那人能解心中疑惑。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:104:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136870, 
+        "03:02:string": "LOCAL_TEXT_30736", 
+        "04:03:string": "在下驭魂引，敢问姑娘芳名。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:105:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136871, 
+        "03:02:string": "LOCAL_TEXT_30737", 
+        "04:03:string": "伽蓝凰鸣，称我伽蓝便好。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:106:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136872, 
+        "03:02:string": "LOCAL_TEXT_30738", 
+        "04:03:string": "伽蓝姑娘既是天华弟子，在下有一事想请教。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:107:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136873, 
+        "03:02:string": "LOCAL_TEXT_30739", 
+        "04:03:string": "我虽与天华有些渊源，却并非天华弟子，正如你与鬼道一般。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:108:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136874, 
+        "03:02:string": "LOCAL_TEXT_30740", 
+        "04:03:string": "依你所言，这方天地确是异界无疑。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:109:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136875, 
+        "03:02:string": "LOCAL_TEXT_30741", 
+        "04:03:string": "伽蓝点头示意。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136383, 
+        "03:02:string": "LOCAL_TEXT_30642", 
+        "04:03:string": "你需要的话就都拿去吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:110:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136876, 
+        "03:02:string": "LOCAL_TEXT_30742", 
+        "04:03:string": "你能在此悠然抚琴，想必对返程一事胸有成竹？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:111:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136877, 
+        "03:02:string": "LOCAL_TEXT_30743", 
+        "04:03:string": "让阁下见笑了，正因毫无头绪，方才抚琴舒缓心情。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:112:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136878, 
+        "03:02:string": "LOCAL_TEXT_30744", 
+        "04:03:string": "你我虽身份不同，但同为异界来客，不如联手寻找脱困之法？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:113:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136879, 
+        "03:02:string": "LOCAL_TEXT_30745", 
+        "04:03:string": "我正有此意。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:114:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136880, 
+        "03:02:string": "LOCAL_TEXT_30746", 
+        "04:03:string": "看周围景致，估计西沙净土就在此地西北方。\\n虽是异界，但或许去到那里能寻得蛛丝马迹。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:115:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136881, 
+        "03:02:string": "LOCAL_TEXT_30747", 
+        "04:03:string": "你可随我一道前往。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:116:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136882, 
+        "03:02:string": "LOCAL_TEXT_30748", 
+        "04:03:string": "你既已决意西行，我便往东走。\\n咱们兵分两路，事半功倍。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:117:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136883, 
+        "03:02:string": "LOCAL_TEXT_30749", 
+        "04:03:string": "也好，那请多加小心。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:118:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136884, 
+        "03:02:string": "LOCAL_TEXT_30750", 
+        "04:03:string": "无论是否有所收获，十天后就在那边城镇中的客栈会合。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:119:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136885, 
+        "03:02:string": "LOCAL_TEXT_30751", 
+        "04:03:string": "若是在故乡，伽蓝依靠瑶琴施展强大术法可以轻松应对魍魉的围攻。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136384, 
+        "03:02:string": "LOCAL_TEXT_30643", 
+        "04:03:string": "我乃驭魂引，自裂隙那边而来，可能要叨扰一段时间，还请见谅。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:120:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136886, 
+        "03:02:string": "LOCAL_TEXT_30752", 
+        "04:03:string": "但在剑境，她的术法受到了极大限制，仅能为自己争得逃跑的时间。\\n然而，地面接连窜起的火柱逼迫她不断调整路线。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:121:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136887, 
+        "03:02:string": "LOCAL_TEXT_30753", 
+        "04:03:string": "朱炎鬼摆阵念咒，挥出炽热剑火。\\n伽蓝转身拨动琴弦，音律化作炫光绘成的曲谱飘扬而出，其上字符将烈焰尽数接下。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:122:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136888, 
+        "03:02:string": "LOCAL_TEXT_30754", 
+        "04:03:string": "伽蓝随即反手按弦，字符按琴音顺序依次将烈焰放出。\\n尽管朱炎鬼阵脚大乱，可飞驰而至的冥狼爪没让她有喘息之机。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:123:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136889, 
+        "03:02:string": "LOCAL_TEXT_30755", 
+        "04:03:string": "方才能借力打力，正因朱炎鬼恰好是以术法攻击为主。\\n但面对近身的牙齿与利爪，她就力不从心了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:124:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136890, 
+        "03:02:string": "LOCAL_TEXT_30756", 
+        "04:03:string": "未等炫光曲谱缠住四肢，冥狼爪早已跃出好几个身位，寒光直指伽蓝脖颈。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:125:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136891, 
+        "03:02:string": "LOCAL_TEXT_30757", 
+        "04:03:string": "千钧一发之际，剑气如雨后初虹，我闪身而至，将伽蓝护在身后。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:126:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136892, 
+        "03:02:string": "LOCAL_TEXT_30758", 
+        "04:03:string": "多谢，不知……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:127:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136893, 
+        "03:02:string": "LOCAL_TEXT_30759", 
+        "04:03:string": "我做了个噤声的手势，伽蓝心领神会。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:128:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136894, 
+        "03:02:string": "LOCAL_TEXT_30760", 
+        "04:03:string": "请继续往前走，我来断后。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:129:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136895, 
+        "03:02:string": "LOCAL_TEXT_30761", 
+        "04:03:string": "望着远去的背影，我回身面对熟悉得不能再熟悉的敌人。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136385, 
+        "03:02:string": "LOCAL_TEXT_30644", 
+        "04:03:string": "我是伽蓝凰鸣，来自裂隙的另一边。在返回故土之前，请让我留在剑冢助你一臂之力。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:130:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136896, 
+        "03:02:string": "LOCAL_TEXT_30762", 
+        "04:03:string": "纵使我翻阅了剑冢藏书，也没能找到挽回它们心魄的方法。\\n时至今日，我们依然没有选择。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:131:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136897, 
+        "03:02:string": "LOCAL_TEXT_30763", 
+        "04:03:string": "寂静的林间，铁链叮当作响，好似鬼差倾巢而出狩猎生魂。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:132:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136898, 
+        "03:02:string": "LOCAL_TEXT_30764", 
+        "04:03:string": "驭魂与伽蓝分开走了不到一炷香的时间，就遭到了魍魉袭击。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:133:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136899, 
+        "03:02:string": "LOCAL_TEXT_30765", 
+        "04:03:string": "“喀嚓”一声，粗壮的树干被铁锤击成碎屑，好在他机敏地低头闪身，否则后果不堪设想。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:134:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136900, 
+        "03:02:string": "LOCAL_TEXT_30766", 
+        "04:03:string": "驭魂完全暴露在魍魉视野中，捆星锁的远程攻击愈发凶猛。\\n他接连躲过几招，双手紧握镰刃架住侧边绕来的铁锤。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:135:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136901, 
+        "03:02:string": "LOCAL_TEXT_30767", 
+        "04:03:string": "强大的冲击震得他踉跄几步，一柄大刀直冲面门而来。\\n电光石火之间，他右手递出镰刃，左手接住顺势削去了裂岩刀的右臂。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:136:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136902, 
+        "03:02:string": "LOCAL_TEXT_30768", 
+        "04:03:string": "裂岩刀并未因断臂而退怯，反倒伸出左手掐住了他的咽喉。\\n驭魂余光扫到一枚飞来的铁锤，知道自己命悬一线。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:137:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136903, 
+        "03:02:string": "LOCAL_TEXT_30769", 
+        "04:03:string": "他鼓足力气，双脚离地飞起一脚，正中裂岩刀胸口。\\n它失去平衡向后倒去，却被铁锤打穿了胸膛，直挺挺地倒下。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:138:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136904, 
+        "03:02:string": "LOCAL_TEXT_30770", 
+        "04:03:string": "得以脱身的驭魂不敢怠慢，朝流星锤发来之处疾奔。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:139:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136905, 
+        "03:02:string": "LOCAL_TEXT_30771", 
+        "04:03:string": "镰刃飞转，掀起阵阵暴风，贸然接近的魍魉被尽数绞杀。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136386, 
+        "03:02:string": "LOCAL_TEXT_30645", 
+        "04:03:string": "刘思岑", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:140:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136906, 
+        "03:02:string": "LOCAL_TEXT_30772", 
+        "04:03:string": "他身影诡谲忽左忽右，跨过一具具腐朽躯壳，仅留下深入骨髓的寒霜。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:141:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136907, 
+        "03:02:string": "LOCAL_TEXT_30773", 
+        "04:03:string": "待危机解除，驭魂才收起武器。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:142:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136908, 
+        "03:02:string": "LOCAL_TEXT_30774", 
+        "04:03:string": "没有心魄却仍能行动，莫非这里也曾有人强行夺取生魂？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:143:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136909, 
+        "03:02:string": "LOCAL_TEXT_30775", 
+        "04:03:string": "不知是有意还是无心，鞋子踩中枝杈的响声引起了驭魂警觉。\\n镰刃剑锋相抵一处。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:144:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136910, 
+        "03:02:string": "LOCAL_TEXT_30776", 
+        "04:03:string": "阁下，请随我来。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:145:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136911, 
+        "03:02:string": "LOCAL_TEXT_30777", 
+        "04:03:string": "能帮到你的活人。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:146:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136912, 
+        "03:02:string": "LOCAL_TEXT_30778", 
+        "04:03:string": "驭魂与浮生联手杀出重围，寻了隐蔽之处躲藏起来。\\n在驭魂尝试恢复力量期间，他从浮生口中知晓了剑境的事情。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:147:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136913, 
+        "03:02:string": "LOCAL_TEXT_30779", 
+        "04:03:string": "刚才袭击我的就是魍魉？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:148:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136914, 
+        "03:02:string": "LOCAL_TEXT_30780", 
+        "04:03:string": "嗯，它们本是剑境的居民，却被引魂镜抽出了心魄。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:149:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136915, 
+        "03:02:string": "LOCAL_TEXT_30781", 
+        "04:03:string": "行尸走肉。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136387, 
+        "03:02:string": "LOCAL_TEXT_30646", 
+        "04:03:string": "余雅婷", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:150:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136916, 
+        "03:02:string": "LOCAL_TEXT_30782", 
+        "04:03:string": "对。\\n驭魂兄似乎并不惊讶，莫非已有察觉？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:151:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136917, 
+        "03:02:string": "LOCAL_TEXT_30783", 
+        "04:03:string": "我本是忘川夺魄之器，在主人手中取生魂无数，早就习以为常了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:152:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136918, 
+        "03:02:string": "LOCAL_TEXT_30784", 
+        "04:03:string": "呵，驭魂兄总不会是黑白无常吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:153:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136919, 
+        "03:02:string": "LOCAL_TEXT_30785", 
+        "04:03:string": "相差不大，我的主人便是鬼道。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:154:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136920, 
+        "03:02:string": "LOCAL_TEXT_30786", 
+        "04:03:string": "原来如此，难怪这兴庆府郊外才会有魍魉聚集。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:155:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136921, 
+        "03:02:string": "LOCAL_TEXT_30787", 
+        "04:03:string": "正因魍魉没有心魄，仅凭本能行动，所以才格外渴求他人心魄填补空洞。\\n而越强大的力量越能满足这种饥饿感。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:156:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136922, 
+        "03:02:string": "LOCAL_TEXT_30788", 
+        "04:03:string": "如今剑冢号令天下联合抗敌，游荡的魍魉日益减少，它们聚集在此定是因为你的到来。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:157:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136923, 
+        "03:02:string": "LOCAL_TEXT_30789", 
+        "04:03:string": "那道怪异的裂隙。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:158:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136924, 
+        "03:02:string": "LOCAL_TEXT_30790", 
+        "04:03:string": "嗯，扭曲裂隙连通剑境与其它天地，曾有许多异界来客误入此境。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:159:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136925, 
+        "03:02:string": "LOCAL_TEXT_30791", 
+        "04:03:string": "那些异客后来如何？在此地定居吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136388, 
+        "03:02:string": "LOCAL_TEXT_30647", 
+        "04:03:string": "你进来是因为虾锅好吃吗", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:160:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136926, 
+        "03:02:string": "LOCAL_TEXT_30792", 
+        "04:03:string": "据我所知，他们应该都回到了故乡。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:161:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136927, 
+        "03:02:string": "LOCAL_TEXT_30793", 
+        "04:03:string": "你可知返回的方法？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:162:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136928, 
+        "03:02:string": "LOCAL_TEXT_30794", 
+        "04:03:string": "驭魂兄稍安勿躁，且听我慢慢说来。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:163:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136929, 
+        "03:02:string": "LOCAL_TEXT_30795", 
+        "04:03:string": "万物有始有终，你既从裂隙而来，自然要从裂隙而回。\\n但裂隙开合自有其规律，我们尚不清楚。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:164:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136930, 
+        "03:02:string": "LOCAL_TEXT_30796", 
+        "04:03:string": "你只要留在这里，耐心等待同一道裂隙开启便可。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:165:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136931, 
+        "03:02:string": "LOCAL_TEXT_30797", 
+        "04:03:string": "多谢阁下如实相告。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:166:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136932, 
+        "03:02:string": "LOCAL_TEXT_30798", 
+        "04:03:string": "无妨，既然都是武林人士，那便是兄弟，互相帮忙自不必多言。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:167:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136933, 
+        "03:02:string": "LOCAL_TEXT_30799", 
+        "04:03:string": "多谢。\\n既然我现在无事可做，不知阁下是否有需要帮忙的地方？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:168:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136934, 
+        "03:02:string": "LOCAL_TEXT_30800", 
+        "04:03:string": "帮忙？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:169:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136935, 
+        "03:02:string": "LOCAL_TEXT_30801", 
+        "04:03:string": "术法虽受到了限制，但我还有这把镰刃。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136389, 
+        "03:02:string": "LOCAL_TEXT_30648", 
+        "04:03:string": "诛仙世界中的夺魄镰。\\n其主人为忘川之界的鬼道。\\n鬼道为了“守护”二字甘愿不再入轮回重生，向忘川之主抵押了魂魄。\\n某日因纷争随主人加入战斗，后被卷入扭曲裂隙。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:170:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136936, 
+        "03:02:string": "LOCAL_TEXT_30802", 
+        "04:03:string": "我既无法立刻返回故土，不如暂且相助于你，权当报答阁下恩情。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:171:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136937, 
+        "03:02:string": "LOCAL_TEXT_30803", 
+        "04:03:string": "驭魂兄，关于夺人心魄一事，我可否请教一二？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:172:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136938, 
+        "03:02:string": "LOCAL_TEXT_30804", 
+        "04:03:string": "几番交战过后，我们顺利回到了兴庆府。\\n休整两天后，我将裂隙一事的来龙去脉原原本本说与了伽蓝。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:173:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136939, 
+        "03:02:string": "LOCAL_TEXT_30805", 
+        "04:03:string": "想不到，裂隙竟有此种隐情。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:174:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136940, 
+        "03:02:string": "LOCAL_TEXT_30806", 
+        "04:03:string": "嗯。\\n鉴于当前形势，还请你在此地留宿，我们也可护你周全。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:175:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136941, 
+        "03:02:string": "LOCAL_TEXT_30807", 
+        "04:03:string": "多谢，敢问木剑缉捕我们这些异界之人究竟有何用意？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:176:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136942, 
+        "03:02:string": "LOCAL_TEXT_30808", 
+        "04:03:string": "其中真意我虽知一二，但也不敢肯定。\\n多半是为了获取异界的力量，实现夙愿。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:177:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136943, 
+        "03:02:string": "LOCAL_TEXT_30809", 
+        "04:03:string": "我们虽然萍水相逢，但有一事相求。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:178:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136944, 
+        "03:02:string": "LOCAL_TEXT_30810", 
+        "04:03:string": "姑娘但说无妨。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:179:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136945, 
+        "03:02:string": "LOCAL_TEXT_30811", 
+        "04:03:string": "先前我曾提过，有位名叫驭魂的青年也落入了剑境，可否请你们去寻他？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136390, 
+        "03:02:string": "LOCAL_TEXT_30649", 
+        "04:03:string": "诛仙世界中的仙琴。\\n生活在瑶台林立的云上仙域，鲜与人界相通。\\n平日多以奏乐为乐，无忧无虑，不喜争斗。\\n某日因纷争随主人加入战斗，后被卷入扭曲裂隙。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:180:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136946, 
+        "03:02:string": "LOCAL_TEXT_30812", 
+        "04:03:string": "我们是在兴庆府东南方的林地遇到了你，他若是往相反方向走……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:181:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136947, 
+        "03:02:string": "LOCAL_TEXT_30813", 
+        "04:03:string": "若脚程慢，可能会在西平府一带。若是脚程快，很可能会去到盐州附近。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:182:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136948, 
+        "03:02:string": "LOCAL_TEXT_30814", 
+        "04:03:string": "盐州一带仍有魍魉活动，但盐州以东可是木剑残余势力的大营之一。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:183:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136949, 
+        "03:02:string": "LOCAL_TEXT_30815", 
+        "04:03:string": "事不宜迟，我建议咱们立即出发。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:184:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136950, 
+        "03:02:string": "LOCAL_TEXT_30816", 
+        "04:03:string": "且慢，伽蓝曾提及她与驭魂相约十天后在兴庆府会合，我想他不至于走得太远。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:185:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136951, 
+        "03:02:string": "LOCAL_TEXT_30817", 
+        "04:03:string": "言之有理。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:186:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136952, 
+        "03:02:string": "LOCAL_TEXT_30818", 
+        "04:03:string": "御阵，麻烦你们保护伽蓝，我亲往东南寻找驭魂。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:187:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136953, 
+        "03:02:string": "LOCAL_TEXT_30819", 
+        "04:03:string": "带我一起去。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:188:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136954, 
+        "03:02:string": "LOCAL_TEXT_30820", 
+        "04:03:string": "伽蓝姑娘，你本是异界之人，术法在剑境又施展不开。\\n况且穿行裂隙导致的身体虚弱仍未缓解，此去只会事倍功半。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:189:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136955, 
+        "03:02:string": "LOCAL_TEXT_30821", 
+        "04:03:string": "多谢御阵关心，但此事关乎性命。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136391, 
+        "03:02:string": "LOCAL_TEXT_30650", 
+        "04:03:string": "技艺愈发纯熟了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:190:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136956, 
+        "03:02:string": "LOCAL_TEXT_30822", 
+        "04:03:string": "你们寻人无异于大海捞针，若我在，可以凭借术法的痕迹指明方向。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:191:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136957, 
+        "03:02:string": "LOCAL_TEXT_30823", 
+        "04:03:string": "我明白了，你随我同去便是。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:192:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136958, 
+        "03:02:string": "LOCAL_TEXT_30824", 
+        "04:03:string": "白虹，你带一队教众延大路往盐川搜索。\\n我留在这里巩固城防，若驭魂现身，我会派人通知各位。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:193:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136959, 
+        "03:02:string": "LOCAL_TEXT_30825", 
+        "04:03:string": "属下遵命。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:194:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136960, 
+        "03:02:string": "LOCAL_TEXT_30826", 
+        "04:03:string": "我们沿小径深入林中。\\n莺歌燕语，百花争艳，全身疲态立时消散。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:195:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136961, 
+        "03:02:string": "LOCAL_TEXT_30827", 
+        "04:03:string": "伽蓝一言不发地跟在我身后，时而奏响瑶琴，与天地同鸣。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:196:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136962, 
+        "03:02:string": "LOCAL_TEXT_30828", 
+        "04:03:string": "感觉好些了吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:197:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136963, 
+        "03:02:string": "LOCAL_TEXT_30829", 
+        "04:03:string": "嗯，真没想到，你竟有助我恢复的办法。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:198:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136964, 
+        "03:02:string": "LOCAL_TEXT_30830", 
+        "04:03:string": "呵，不知是巧合还是命运，之前也有从你们世界过来的人。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:199:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136965, 
+        "03:02:string": "LOCAL_TEXT_30831", 
+        "04:03:string": "诶，其他人……不，兵器？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136392, 
+        "03:02:string": "LOCAL_TEXT_30651", 
+        "04:03:string": "精益求精，方能有所领悟。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:200:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136966, 
+        "03:02:string": "LOCAL_TEXT_30832", 
+        "04:03:string": "哈哈，无论你们在那边被称为什么，在这剑境之中，都是独一无二的人。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:201:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136967, 
+        "03:02:string": "LOCAL_TEXT_30833", 
+        "04:03:string": "独一无二的人……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:202:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136968, 
+        "03:02:string": "LOCAL_TEXT_30834", 
+        "04:03:string": "这里有你自己产生的念想，这里有你付诸行动的勇气。\\n而当你做出选择后，还要承担相应的责任。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:203:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136969, 
+        "03:02:string": "LOCAL_TEXT_30835", 
+        "04:03:string": "我伸出手依次在自己的额头和胸口点了一下。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:204:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136970, 
+        "03:02:string": "LOCAL_TEXT_30836", 
+        "04:03:string": "伽蓝瞠目结舌，伸手捂住心口感受着生命的律动，缓缓露出了笑容。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:205:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136971, 
+        "03:02:string": "LOCAL_TEXT_30837", 
+        "04:03:string": "对了，方才你问我的问题，我就用个问题来回答吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:206:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136972, 
+        "03:02:string": "LOCAL_TEXT_30838", 
+        "04:03:string": "哦，是什么？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:207:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136973, 
+        "03:02:string": "LOCAL_TEXT_30839", 
+        "04:03:string": "你听过天琊与合欢吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:208:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136974, 
+        "03:02:string": "LOCAL_TEXT_30840", 
+        "04:03:string": "天琊剑与合欢铃？\\n这两个名字在我们的世界里，算是无人不知无人不晓呢。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:209:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136975, 
+        "03:02:string": "LOCAL_TEXT_30841", 
+        "04:03:string": "他们便是之前误入剑境的人，只不过是在祁连山一带。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136393, 
+        "03:02:string": "LOCAL_TEXT_30652", 
+        "04:03:string": "有了这份力量，便能更好地守护心中之物。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:210:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136976, 
+        "03:02:string": "LOCAL_TEXT_30842", 
+        "04:03:string": "我来这里前，有听过他们的消息，只是不知道详细情况，抱歉。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:211:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136977, 
+        "03:02:string": "LOCAL_TEXT_30843", 
+        "04:03:string": "不，对我来说这很重要，谢谢。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:212:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136978, 
+        "03:02:string": "LOCAL_TEXT_30844", 
+        "04:03:string": "至少他们平安返回故土了，估计其他人也是。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:213:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136979, 
+        "03:02:string": "LOCAL_TEXT_30845", 
+        "04:03:string": "过往异客的脸庞在脑海中依次浮现。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:214:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136980, 
+        "03:02:string": "LOCAL_TEXT_30846", 
+        "04:03:string": "但我有一事不明，在客栈时你曾说同一条裂隙出入口也是固定的。\\n为何会有两条不同的裂隙连接着我们的世界。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:215:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136981, 
+        "03:02:string": "LOCAL_TEXT_30847", 
+        "04:03:string": "同一条裂隙的出入口确实是固定的。\\n但随着剑境分崩离析，连接不同世界的裂隙恐怕只会越来越多。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:216:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136982, 
+        "03:02:string": "LOCAL_TEXT_30848", 
+        "04:03:string": "{player}，有异客选择留在这里吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:217:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136983, 
+        "03:02:string": "LOCAL_TEXT_30849", 
+        "04:03:string": "目前还没有。\\n若我是他们，也会选择回到主人身旁吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:218:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136984, 
+        "03:02:string": "LOCAL_TEXT_30850", 
+        "04:03:string": "那位叫剑魔的人？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:219:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136985, 
+        "03:02:string": "LOCAL_TEXT_30851", 
+        "04:03:string": "嗯，五剑之境的创造者与真正的主人，某种意义上也是唯一的“人”。\\n他时而说着我无法理解的话，时而做着我无法理解的事。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136394, 
+        "03:02:string": "LOCAL_TEXT_30653", 
+        "04:03:string": "新的境界，没有一丝杂音。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:220:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136986, 
+        "03:02:string": "LOCAL_TEXT_30852", 
+        "04:03:string": "伽蓝以琴音回应，温暖明媚，如春风徐徐而来。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:221:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136987, 
+        "03:02:string": "LOCAL_TEXT_30853", 
+        "04:03:string": "这也是仙法吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:222:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136988, 
+        "03:02:string": "LOCAL_TEXT_30854", 
+        "04:03:string": "并非如此。\\n尽管我们用瑶琴施放术法，但以音律交流沟通乃是寻常之事。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:223:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136989, 
+        "03:02:string": "LOCAL_TEXT_30855", 
+        "04:03:string": "语言、动作和表情因人而异，习惯和观念不同偶尔也会导致分歧。\\n但若将真实的情感融入合适的乐曲，闻者感受便大同小异。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:224:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136990, 
+        "03:02:string": "LOCAL_TEXT_30856", 
+        "04:03:string": "原来如此，我明白那种感觉。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:225:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136991, 
+        "03:02:string": "LOCAL_TEXT_30857", 
+        "04:03:string": "你也会演奏乐器吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:226:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136992, 
+        "03:02:string": "LOCAL_TEXT_30858", 
+        "04:03:string": "不，但当两人全心全意以剑相交时，就有跨越一切阻隔的感觉。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:227:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136993, 
+        "03:02:string": "LOCAL_TEXT_30859", 
+        "04:03:string": "呵，异曲同工之妙。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:228:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136994, 
+        "03:02:string": "LOCAL_TEXT_30860", 
+        "04:03:string": "待我们找到驭魂后，再聊这些话题吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:229:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136995, 
+        "03:02:string": "LOCAL_TEXT_30861", 
+        "04:03:string": "我走到伽蓝身前，挥手扬起剑风，打落袭来的暗器。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136395, 
+        "03:02:string": "LOCAL_TEXT_30654", 
+        "04:03:string": "有什么事要我帮忙吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:230:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136996, 
+        "03:02:string": "LOCAL_TEXT_30862", 
+        "04:03:string": "退到我身后。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:231:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136997, 
+        "03:02:string": "LOCAL_TEXT_30863", 
+        "04:03:string": "驭魂走走停停，不时利用术法查探方向。\\n浮生跟在他身旁，警戒着四周。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:232:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136998, 
+        "03:02:string": "LOCAL_TEXT_30864", 
+        "04:03:string": "我再确认一次，你当真要找寻忘川之地？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:233:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136999, 
+        "03:02:string": "LOCAL_TEXT_30865", 
+        "04:03:string": "我理解你的心情。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:234:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137000, 
+        "03:02:string": "LOCAL_TEXT_30866", 
+        "04:03:string": "但招魂之术并非起死回生。\\n若逆天而行，对施术之人和被招魂之人都有巨大损耗。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:235:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137001, 
+        "03:02:string": "LOCAL_TEXT_30867", 
+        "04:03:string": "而强行从这一世夺取生魂，很容易波及到其他无辜者。\\n后果正如魍魉之灾，会有大量失去心魄的魍魉在世间游荡。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:236:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137002, 
+        "03:02:string": "LOCAL_TEXT_30868", 
+        "04:03:string": "即便如此，我也……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:237:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137003, 
+        "03:02:string": "LOCAL_TEXT_30869", 
+        "04:03:string": "浮生，此事关乎他人性命，可否告诉我原因？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:238:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137004, 
+        "03:02:string": "LOCAL_TEXT_30870", 
+        "04:03:string": "在魍魉之灾爆发后，剑境各地都陷入了混乱，许多略懂武艺的山贼、盗匪开始劫掠城镇。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:239:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137005, 
+        "03:02:string": "LOCAL_TEXT_30871", 
+        "04:03:string": "那天，我们准备离开村镇前往中都避难，结果在街上遇到了一群自诩武林人士的匪徒……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136396, 
+        "03:02:string": "LOCAL_TEXT_30655", 
+        "04:03:string": "嗯……这种感觉很特别。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:240:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137006, 
+        "03:02:string": "LOCAL_TEXT_30872", 
+        "04:03:string": "外头都乱成一锅粥了，还穿这种衣服？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:241:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137007, 
+        "03:02:string": "LOCAL_TEXT_30873", 
+        "04:03:string": "咱哥几个可算是转运了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:242:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137008, 
+        "03:02:string": "LOCAL_TEXT_30874", 
+        "04:03:string": "是啊老大！半个月没开张了吧？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:243:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137009, 
+        "03:02:string": "LOCAL_TEXT_30875", 
+        "04:03:string": "瞪什么瞪，说你呢！\\n为了保护你们，不少弟兄都死在了魍魉手上，懂吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:244:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137010, 
+        "03:02:string": "LOCAL_TEXT_30876", 
+        "04:03:string": "匪徒边说边伸出手，做了个数剑玉的手势。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:245:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137011, 
+        "03:02:string": "LOCAL_TEXT_30877", 
+        "04:03:string": "你们竟敢如此无礼！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:246:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137012, 
+        "03:02:string": "LOCAL_TEXT_30878", 
+        "04:03:string": "呦，这位公子还挺幽默。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:247:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137013, 
+        "03:02:string": "LOCAL_TEXT_30879", 
+        "04:03:string": "你们可知我——", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:248:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137014, 
+        "03:02:string": "LOCAL_TEXT_30880", 
+        "04:03:string": "你们是谁重要么？\\n没本事就乖乖把剑玉交出来，少废话！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:249:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137015, 
+        "03:02:string": "LOCAL_TEXT_30881", 
+        "04:03:string": "你！休想。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136397, 
+        "03:02:string": "LOCAL_TEXT_30656", 
+        "04:03:string": "不知为何，我确实觉得你与其他人很不一样。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:250:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137016, 
+        "03:02:string": "LOCAL_TEXT_30882", 
+        "04:03:string": "敬酒不吃吃罚酒，弟兄们，动手！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:251:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137017, 
+        "03:02:string": "LOCAL_TEXT_30883", 
+        "04:03:string": "浮生挽起剑花，施展全真剑法应对匪徒围攻。\\n起初还游刃有余，但碍于要保护母亲，他渐渐被逼入了绝境。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:252:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137018, 
+        "03:02:string": "LOCAL_TEXT_30884", 
+        "04:03:string": "你去死吧！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:253:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137019, 
+        "03:02:string": "LOCAL_TEXT_30885", 
+        "04:03:string": "粗犷的嗓音让以寡敌众的浮生大惊失色。\\n不知怎的他脚下踉跄，突然向前摔了一步。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:254:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137020, 
+        "03:02:string": "LOCAL_TEXT_30886", 
+        "04:03:string": "一步之差，生死之别。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:255:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137021, 
+        "03:02:string": "LOCAL_TEXT_30887", 
+        "04:03:string": "温柔的话语刚传入耳中，鲜红的血液就在脸颊留下了印记。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:256:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137022, 
+        "03:02:string": "LOCAL_TEXT_30888", 
+        "04:03:string": "娘！！！！！！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:257:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137023, 
+        "03:02:string": "LOCAL_TEXT_30889", 
+        "04:03:string": "浮生无畏刀锋，拼尽全力将夺走他亲人的匪徒击倒在地。\\n随后像着了魔一样将长剑刺入他的身体，一下、两下、三下……直至不成人形。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:258:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137024, 
+        "03:02:string": "LOCAL_TEXT_30890", 
+        "04:03:string": "至少，让我再见她一面，让我再一次听到她的声音……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:259:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137025, 
+        "03:02:string": "LOCAL_TEXT_30891", 
+        "04:03:string": "……好吧，你有恩于我，我自当竭力而为。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136398, 
+        "03:02:string": "LOCAL_TEXT_30657", 
+        "04:03:string": "莫、莫非，你很喜欢我的头发……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:260:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137026, 
+        "03:02:string": "LOCAL_TEXT_30892", 
+        "04:03:string": "浮生并未将之后发生的事告诉驭魂，只是独自在脑海中一遍又一遍回忆。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:261:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137027, 
+        "03:02:string": "LOCAL_TEXT_30893", 
+        "04:03:string": "浮生遍体鳞伤，栽倒在血肉模糊的尸体旁。\\n头目狠狠踩住他的脖颈，但他的视线始终没有离开过染血的裘衣。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:262:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137028, 
+        "03:02:string": "LOCAL_TEXT_30894", 
+        "04:03:string": "刹那间，匪徒的怒嚎消失了，天地归于沉寂。\\n一颗瞠目结舌的头颅掉在了他视线前方。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:263:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137029, 
+        "03:02:string": "LOCAL_TEXT_30895", 
+        "04:03:string": "当浮生转过脸，斩杀匪徒之人正俯视着他，如同无所不能的神明有意倾听凡人的祈愿。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:264:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137030, 
+        "03:02:string": "LOCAL_TEXT_30896", 
+        "04:03:string": "救救她！\\n救救我娘！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:265:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137031, 
+        "03:02:string": "LOCAL_TEXT_30897", 
+        "04:03:string": "我答应你，就算让我做牛做马也可以。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:266:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137032, 
+        "03:02:string": "LOCAL_TEXT_30898", 
+        "04:03:string": "只要你能救她回来！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:267:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137033, 
+        "03:02:string": "LOCAL_TEXT_30899", 
+        "04:03:string": "很好，那我再跟你说明一件事情。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:268:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137034, 
+        "03:02:string": "LOCAL_TEXT_30900", 
+        "04:03:string": "害死她的人并不是这些蝼蚁，也不是逼迫他们的魍魉，而是弱小到无法主宰命运的你。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:269:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137035, 
+        "03:02:string": "LOCAL_TEXT_30901", 
+        "04:03:string": "对，若你像我一样强大到无视蝼蚁和魍魉，还有什么能伤害你所珍视的人呢？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:26:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136399, 
+        "03:02:string": "LOCAL_TEXT_30658", 
+        "04:03:string": "若你受不了这份寒冷，就把手收回去吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:270:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137036, 
+        "03:02:string": "LOCAL_TEXT_30902", 
+        "04:03:string": "带着对自己的满腔忿恨成长起来，我需要你成为我的左膀右臂，明白吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:271:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137037, 
+        "03:02:string": "LOCAL_TEXT_30903", 
+        "04:03:string": "马上就到了，忘川的入口。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:272:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137038, 
+        "03:02:string": "LOCAL_TEXT_30904", 
+        "04:03:string": "浮生的思绪被拉回现实，驭魂指尖的紫焰正朝向前方，燃烧得愈发猛烈。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:273:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137039, 
+        "03:02:string": "LOCAL_TEXT_30905", 
+        "04:03:string": "二人见状不由得加快脚步，迎着剑气呼啸之声向前行进。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:274:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137040, 
+        "03:02:string": "LOCAL_TEXT_30906", 
+        "04:03:string": "随着我们深入林间，清晰的术法痕迹接连显现，仿佛在地图上标出了行进线路。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:275:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137041, 
+        "03:02:string": "LOCAL_TEXT_30907", 
+        "04:03:string": "而这条路注定不是康庄大道，反倒因异界之力布满了荆棘。\\n游荡的魍魉与搜捕异客的魍魉混在一起，如潮水般的攻势一波接着一波。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:276:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137042, 
+        "03:02:string": "LOCAL_TEXT_30908", 
+        "04:03:string": "呵，有你在，想受伤都难。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:277:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137043, 
+        "03:02:string": "LOCAL_TEXT_30909", 
+        "04:03:string": "方才我有注意过，你在御敌时会趁空当施展剑气护在我四周。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:278:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137044, 
+        "03:02:string": "LOCAL_TEXT_30910", 
+        "04:03:string": "抱歉，不自觉就做了多余的事。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:279:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137045, 
+        "03:02:string": "LOCAL_TEXT_30911", 
+        "04:03:string": "无需致歉。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:27:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136400, 
+        "03:02:string": "LOCAL_TEXT_30659", 
+        "04:03:string": "今天想听什么曲子呢？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:280:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137046, 
+        "03:02:string": "LOCAL_TEXT_30912", 
+        "04:03:string": "我明白你的心思。\\n剑冢乃至剑境继承者的身份既是无上的荣耀，亦是天大的重压。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:281:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137047, 
+        "03:02:string": "LOCAL_TEXT_30913", 
+        "04:03:string": "但若一味单打独斗，可会给大家带来更大的麻烦哦。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:282:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137048, 
+        "03:02:string": "LOCAL_TEXT_30914", 
+        "04:03:string": "我本以为自己习惯了和大家并肩战斗。\\n但每每想到生死之事，就不愿让大家去冒险。\\n毕竟，若他们倒下了，可就——", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:283:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137049, 
+        "03:02:string": "LOCAL_TEXT_30915", 
+        "04:03:string": "这不能成为你自己送命的理由。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:284:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137050, 
+        "03:02:string": "LOCAL_TEXT_30916", 
+        "04:03:string": "……伽蓝教训的是。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:285:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137051, 
+        "03:02:string": "LOCAL_TEXT_30917", 
+        "04:03:string": "呵，那之后就多依赖下我的术法吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:286:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137052, 
+        "03:02:string": "LOCAL_TEXT_30918", 
+        "04:03:string": "稍作休整，我们继续前行，魍魉也不打算缺席，幢幢鬼影自四面八方围了上来。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:287:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137053, 
+        "03:02:string": "LOCAL_TEXT_30919", 
+        "04:03:string": "我不再耗费额外真气保护伽蓝，并有意控制了剑气施放的力度。\\n伽蓝奏起仙乐配合我的节奏，时急时缓，令每一击都能随着律动达到顶点。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:288:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137054, 
+        "03:02:string": "LOCAL_TEXT_30920", 
+        "04:03:string": "而在攻击间歇，伽蓝会适时切换乐曲，引导我在体内流转盈余的真气。\\n有道是“损余纳虚，余虚皆元，分元为盈，余虚归平。”", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:289:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137055, 
+        "03:02:string": "LOCAL_TEXT_30921", 
+        "04:03:string": "这样一来，便可在持久战中始终保持游刃有余的状态。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:28:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136401, 
+        "03:02:string": "LOCAL_TEXT_30660", 
+        "04:03:string": "呵，这份温暖，便是活着的证明吧？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:290:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137056, 
+        "03:02:string": "LOCAL_TEXT_30922", 
+        "04:03:string": "我们合作无间，轻而易举突破了魍魉的拦阻。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:291:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137057, 
+        "03:02:string": "LOCAL_TEXT_30923", 
+        "04:03:string": "刚踏入空旷的林地，紫黑色火焰便掠过了前额，我下意识反手一指将树干爆开。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:292:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137058, 
+        "03:02:string": "LOCAL_TEXT_30924", 
+        "04:03:string": "那身影迅即闪身，借助树干高速移动，眨眼之间已近跟前。\\n我压低躯干撤步躲闪，镰刃射出夺命寒光，落叶零零散散化作碎屑。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:293:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137059, 
+        "03:02:string": "LOCAL_TEXT_30925", 
+        "04:03:string": "我踏步前冲，扭转身体踢向那人侧脸。\\n他左臂立时格挡，右手挥镰劈斩，看似瞄准右腿实则借机变招，反手划出新月直指封喉。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:294:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137060, 
+        "03:02:string": "LOCAL_TEXT_30926", 
+        "04:03:string": "我收脚避实就虚，轻点镰刃向后高高跃起。\\n而算盘落空的他迟疑了刹那方才跃身追击，诡异镰刃放出黑色月光，如同监牢将我囚在中心。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:295:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137061, 
+        "03:02:string": "LOCAL_TEXT_30927", 
+        "04:03:string": "然而，我已看破了他后续的招式，所有动作更像我脑海中接连闪过的回忆。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:296:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137062, 
+        "03:02:string": "LOCAL_TEXT_30928", 
+        "04:03:string": "剑气迸发，震碎四壁，我自上而下借势打出千钧一掌，志在必得。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:297:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137063, 
+        "03:02:string": "LOCAL_TEXT_30929", 
+        "04:03:string": "真是大水冲了龙王庙。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:298:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137064, 
+        "03:02:string": "LOCAL_TEXT_30930", 
+        "04:03:string": "听到熟悉的声音，我们二人恍然大悟，连忙撤招。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:299:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137065, 
+        "03:02:string": "LOCAL_TEXT_30931", 
+        "04:03:string": "在下驭魂，方才多有得罪，还请剑冢之主见谅。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:29:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136402, 
+        "03:02:string": "LOCAL_TEXT_30661", 
+        "04:03:string": "要陪我坐一会儿吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:300:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137066, 
+        "03:02:string": "LOCAL_TEXT_30932", 
+        "04:03:string": "不，是我太鲁莽了。\\n我本是助伽蓝来寻你，好在你安然无恙。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:301:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137067, 
+        "03:02:string": "LOCAL_TEXT_30933", 
+        "04:03:string": "但你为何与他在一起？\\n莫非……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:302:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137068, 
+        "03:02:string": "LOCAL_TEXT_30934", 
+        "04:03:string": "报恩。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:303:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137069, 
+        "03:02:string": "LOCAL_TEXT_30935", 
+        "04:03:string": "今天，请不要妨碍我，{player}。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:304:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137070, 
+        "03:02:string": "LOCAL_TEXT_30936", 
+        "04:03:string": "这取决于你要做的事情。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:305:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137071, 
+        "03:02:string": "LOCAL_TEXT_30937", 
+        "04:03:string": "浮生并未多言，反倒是驭魂自顾自地吟唱咒文。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:306:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137072, 
+        "03:02:string": "LOCAL_TEXT_30938", 
+        "04:03:string": "他指尖紫焰一分为八，分列八角立于空地。\\n紫焰升腾首尾相连，组成环阵。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:307:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137073, 
+        "03:02:string": "LOCAL_TEXT_30939", 
+        "04:03:string": "我虽知其中必有隐情，但浮生似乎无意加害驭魂。\\n我只好先按兵不动，观察形势。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:308:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137074, 
+        "03:02:string": "LOCAL_TEXT_30940", 
+        "04:03:string": "这里是……我们来的地方。\\n驭魂，你在做什么？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:309:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137075, 
+        "03:02:string": "LOCAL_TEXT_30941", 
+        "04:03:string": "伽蓝，他布置的是什么法阵？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:30:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136403, 
+        "03:02:string": "LOCAL_TEXT_30662", 
+        "04:03:string": "忘川之界的鬼道大多都很消瘦，原因我也不大清楚。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:310:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137076, 
+        "03:02:string": "LOCAL_TEXT_30942", 
+        "04:03:string": "驭魂正在打开忘川的入口，那里是通往轮回之境的必经之路。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:311:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137077, 
+        "03:02:string": "LOCAL_TEXT_30943", 
+        "04:03:string": "轮回……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:312:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137078, 
+        "03:02:string": "LOCAL_TEXT_30944", 
+        "04:03:string": "我曾听闻，忘川鬼道有还魂之能。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:313:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137079, 
+        "03:02:string": "LOCAL_TEXT_30945", 
+        "04:03:string": "我长叹一声，无奈地摇了摇头。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:314:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137080, 
+        "03:02:string": "LOCAL_TEXT_30946", 
+        "04:03:string": "放弃吧，浮生。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:315:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137081, 
+        "03:02:string": "LOCAL_TEXT_30947", 
+        "04:03:string": "五剑之境与异界不同，没有仙界亦没有鬼界，一切生老病死均遵循自然之理。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:316:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137082, 
+        "03:02:string": "LOCAL_TEXT_30948", 
+        "04:03:string": "我主剑魔或可掌控命运，但若无那等神力，只是痴人说梦。\\n而剑境之人均由主人所创，身死魂灭，心魄会化作能量回归剑冢。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:317:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137083, 
+        "03:02:string": "LOCAL_TEXT_30949", 
+        "04:03:string": "你若像木剑一样寻求死而复生等逆天之事，还是尽早收手吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:318:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137084, 
+        "03:02:string": "LOCAL_TEXT_30950", 
+        "04:03:string": "无论是你还是木剑，所知晓的也仅仅是剑境，但对异界一无所知，不是吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:319:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137085, 
+        "03:02:string": "LOCAL_TEXT_30951", 
+        "04:03:string": "我不再多言，静静伫立在旁边，看着紫焰接连化为一缕青烟。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:31:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136404, 
+        "03:02:string": "LOCAL_TEXT_30663", 
+        "04:03:string": "呵，没想到你这么温柔，不介意我靠着你吧？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:320:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137086, 
+        "03:02:string": "LOCAL_TEXT_30952", 
+        "04:03:string": "驭魂失败了，甚至从始至终都没有一点成功的可能。\\n没有挣扎，没有失误，没有余地，就只是单纯地失败了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:321:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137087, 
+        "03:02:string": "LOCAL_TEXT_30953", 
+        "04:03:string": "浮生双眼无神，静默不语，坠入了绝望的深渊。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:322:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137088, 
+        "03:02:string": "LOCAL_TEXT_30954", 
+        "04:03:string": "我所察觉到的术法痕迹是驭魂留下的，那引导他回到此地的力量是什么？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:323:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137089, 
+        "03:02:string": "LOCAL_TEXT_30955", 
+        "04:03:string": "想必是裂隙即将开启，他才与那边的忘川之地建立起微弱的联系。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:324:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137090, 
+        "03:02:string": "LOCAL_TEXT_30956", 
+        "04:03:string": "话音未落，明媚的阳光被昏暗吞噬，空中电闪雷鸣，阴风怒号。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:325:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137091, 
+        "03:02:string": "LOCAL_TEXT_30957", 
+        "04:03:string": "林间传来凄厉的嗥叫声，浮生闻之忽然踱步上前，来到驭魂身旁。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:326:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137092, 
+        "03:02:string": "LOCAL_TEXT_30958", 
+        "04:03:string": "不，你帮到了。\\n刀剑无眼，切莫乱动。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:327:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137093, 
+        "03:02:string": "LOCAL_TEXT_30959", 
+        "04:03:string": "浮生左手变爪牢牢制住驭魂肩膀，右手拔剑横于咽喉，带着驭魂一步一步后退。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:328:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137094, 
+        "03:02:string": "LOCAL_TEXT_30960", 
+        "04:03:string": "几头冥狼爪闯入林地，熟悉的面孔紧随其后。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:329:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137095, 
+        "03:02:string": "LOCAL_TEXT_30961", 
+        "04:03:string": "那些人是谁？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:32:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136405, 
+        "03:02:string": "LOCAL_TEXT_30664", 
+        "04:03:string": "呃，你这么做……倒没什么，毕竟我不怎么介意身份和地位。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:330:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137096, 
+        "03:02:string": "LOCAL_TEXT_30962", 
+        "04:03:string": "木剑手下的精锐，个个身怀绝技，不可小觑。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:331:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137097, 
+        "03:02:string": "LOCAL_TEXT_30963", 
+        "04:03:string": "哈哈，那边的大哥哥和大姐姐就是异客么？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:332:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137098, 
+        "03:02:string": "LOCAL_TEXT_30964", 
+        "04:03:string": "我等奉军师之命，特来助你，此番务必将异客带给主上。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:333:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137099, 
+        "03:02:string": "LOCAL_TEXT_30965", 
+        "04:03:string": "就凭你们？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:334:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137100, 
+        "03:02:string": "LOCAL_TEXT_30966", 
+        "04:03:string": "剑冢之主冠绝天下，算上这群不中用的家伙，我们也毫无胜算。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:335:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137101, 
+        "03:02:string": "LOCAL_TEXT_30967", 
+        "04:03:string": "魍魉张牙舞爪，在他们三人左右列阵排开。\\n只要有人一声令下，它们便会扑杀过来。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:336:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137102, 
+        "03:02:string": "LOCAL_TEXT_30968", 
+        "04:03:string": "拖延时间吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:337:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137103, 
+        "03:02:string": "LOCAL_TEXT_30969", 
+        "04:03:string": "呵呵，真聪明呢。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:338:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137104, 
+        "03:02:string": "LOCAL_TEXT_30970", 
+        "04:03:string": "（不妙，裂隙尚未开启，耗下去只有死路一条。）\\n（可若我强行救人，恐难保驭魂安全。）", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:339:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137105, 
+        "03:02:string": "LOCAL_TEXT_30971", 
+        "04:03:string": "他很快就要退入阵中了，该怎么办？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:33:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136406, 
+        "03:02:string": "LOCAL_TEXT_30665", 
+        "04:03:string": "脸……等等，贴这么近，我会不好意思的。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:340:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137106, 
+        "03:02:string": "LOCAL_TEXT_30972", 
+        "04:03:string": "我瞪大双眼环视四周，试图捕捉到任何逆转局势的战机。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:341:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137107, 
+        "03:02:string": "LOCAL_TEXT_30973", 
+        "04:03:string": "（两侧魍魉层次分明，阵列缓缓向外延伸，想来准备将我们围在中心。）\\n（红绫刀和掷乾坤有说有笑，却总有一只手在暗器附近游弋。）\\n（勾魂蝎虽然没有异动，但敏锐的眼睛从露面起就看住了我的手。）", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:342:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137108, 
+        "03:02:string": "LOCAL_TEXT_30974", 
+        "04:03:string": "（浮生看似没有任何破绽，驭魂完全挡住了我出手的角度。）\\n（但他为何会突然擒住驭魂呢……）", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:343:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137109, 
+        "03:02:string": "LOCAL_TEXT_30975", 
+        "04:03:string": "无剑，这份大礼我就笑纳了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:344:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137110, 
+        "03:02:string": "LOCAL_TEXT_30976", 
+        "04:03:string": "你还是这么天真，欲成大事却不愿付出代价。\\n今时今日，我就让你为自己的举棋不定而懊悔一生！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:345:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137111, 
+        "03:02:string": "LOCAL_TEXT_30977", 
+        "04:03:string": "伽蓝，帮我弹一曲《高山流水》助兴。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:346:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137112, 
+        "03:02:string": "LOCAL_TEXT_30978", 
+        "04:03:string": "好，但可能与剑境的有所不同。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:347:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137113, 
+        "03:02:string": "LOCAL_TEXT_30979", 
+        "04:03:string": "伽蓝拨动琴弦，浮生止住了后退的脚步，他身后三位精锐完全摸不着头脑。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:348:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137114, 
+        "03:02:string": "LOCAL_TEXT_30980", 
+        "04:03:string": "浮生，既然你仍旧选择同我为敌，那就休怪我手下无情了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:349:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137115, 
+        "03:02:string": "LOCAL_TEXT_30981", 
+        "04:03:string": "而你们三位也与剑冢打了不少交道，算得上知己知彼。\\n这首仙乐权当为你们送葬。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:34:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136407, 
+        "03:02:string": "LOCAL_TEXT_30666", 
+        "04:03:string": "我身上有阴冷鬼气，你会害怕吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:350:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137116, 
+        "03:02:string": "LOCAL_TEXT_30982", 
+        "04:03:string": "哦？\\n听剑冢之主的意思，是不准备救人了？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:351:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137117, 
+        "03:02:string": "LOCAL_TEXT_30983", 
+        "04:03:string": "这可与众人鼓吹的形象颇有出入啊。\\n还是说，你本就是铁石心肠，对自己主人的死也无动于衷呢？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:352:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137118, 
+        "03:02:string": "LOCAL_TEXT_30984", 
+        "04:03:string": "这一指剑气迅如电光，正中浮生右肩，他手中长剑滑落在地。\\n红绫刀和掷乾坤准备射出暗器，却被浮生的身体挡住了线路。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:353:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137119, 
+        "03:02:string": "LOCAL_TEXT_30985", 
+        "04:03:string": "快，不要放走异客！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:354:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137120, 
+        "03:02:string": "LOCAL_TEXT_30986", 
+        "04:03:string": "浮生发号施令，魍魉伴随狼啸一拥而上。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:355:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137121, 
+        "03:02:string": "LOCAL_TEXT_30987", 
+        "04:03:string": "一盏茶的功夫，魍魉死伤大半。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:356:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137122, 
+        "03:02:string": "LOCAL_TEXT_30988", 
+        "04:03:string": "红绫刀从腰间亮出尖刀，翻转手腕将其接连射出，指向全身上下不同的穴位。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:357:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137123, 
+        "03:02:string": "LOCAL_TEXT_30989", 
+        "04:03:string": "驭魂镇定自若，将魍魉群当作盾牌。\\n他在其中肆意穿梭，一边躲避飞刀，一边斩杀魍魉。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:358:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137124, 
+        "03:02:string": "LOCAL_TEXT_30990", 
+        "04:03:string": "同为暗器行家，掷乾坤的手法就比红绫刀的霸道许多。\\n他擅长以面盖点的密集打击，掷镖如暴雨倾盆。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:359:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137125, 
+        "03:02:string": "LOCAL_TEXT_30991", 
+        "04:03:string": "因此，最好的破局之法便是一力降十会。\\n我剑指化掌施展“双龙出海”，迅猛的风墙将百余枚金钱镖尽数吹飞。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:35:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136408, 
+        "03:02:string": "LOCAL_TEXT_30667", 
+        "04:03:string": "这么做的话，我会没办法弹琴的……", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:360:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137126, 
+        "03:02:string": "LOCAL_TEXT_30992", 
+        "04:03:string": "酣战未止，琴音不断。\\n即便敌人杀到眼前，伽蓝也不躲不闪，全神贯注抚琴拨弦，支援我们。\\n她在乐曲中倾注了绝对的信任，相信我们会解决所有攻击她的敌人。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:361:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137127, 
+        "03:02:string": "LOCAL_TEXT_30993", 
+        "04:03:string": "霎时，林间地动山摇，裂隙自光点向外扩张，逐渐变为漆黑色漩涡。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:362:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137128, 
+        "03:02:string": "LOCAL_TEXT_30994", 
+        "04:03:string": "二位速速离去！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:363:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137129, 
+        "03:02:string": "LOCAL_TEXT_30995", 
+        "04:03:string": "拦住他们！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:364:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137130, 
+        "03:02:string": "LOCAL_TEXT_30996", 
+        "04:03:string": "驭魂，你先走！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:365:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137131, 
+        "03:02:string": "LOCAL_TEXT_30997", 
+        "04:03:string": "你先走，我还能支撑一会儿！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:366:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137132, 
+        "03:02:string": "LOCAL_TEXT_30998", 
+        "04:03:string": "伽蓝、驭魂，机不可失失不再来。\\n你们在那边还有使命要完成，不是吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:367:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137133, 
+        "03:02:string": "LOCAL_TEXT_30999", 
+        "04:03:string": "待你们完成使命，我们剑境再会。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:368:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137134, 
+        "03:02:string": "LOCAL_TEXT_31000", 
+        "04:03:string": "我推了驭魂一把，回手两道“新月弧光”拦住追兵。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:369:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137135, 
+        "03:02:string": "LOCAL_TEXT_31001", 
+        "04:03:string": "阁下大恩，驭魂无以为报。\\n只盼来日有缘再会，告辞了！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:36:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136409, 
+        "03:02:string": "LOCAL_TEXT_30668", 
+        "04:03:string": "嗯？在剑境，这样做有什么深意吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:370:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137136, 
+        "03:02:string": "LOCAL_TEXT_31002", 
+        "04:03:string": "驭魂朝我的方向作揖行礼，转身跃入裂隙。\\n在他离开前，我余光扫到了远处微微颔首的浮生。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:371:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137137, 
+        "03:02:string": "LOCAL_TEXT_31003", 
+        "04:03:string": "很想用一首曲子向你辞行，但往往言语更令人铭记一生。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:372:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137138, 
+        "03:02:string": "LOCAL_TEXT_31004", 
+        "04:03:string": "{player}，还请善自珍重。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:373:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137139, 
+        "03:02:string": "LOCAL_TEXT_31005", 
+        "04:03:string": "你也是，伽蓝，善自珍重。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:374:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137140, 
+        "03:02:string": "LOCAL_TEXT_31006", 
+        "04:03:string": "看伽蓝消失在裂隙里，我震开迫近的魍魉，径自朝西北方向突围。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:375:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137141, 
+        "03:02:string": "LOCAL_TEXT_31007", 
+        "04:03:string": "主上，由于无剑和明教的妨碍，我们没能阻止异客进入裂隙，", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:376:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137142, 
+        "03:02:string": "LOCAL_TEXT_31008", 
+        "04:03:string": "呵，无妨。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:377:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137143, 
+        "03:02:string": "LOCAL_TEXT_31009", 
+        "04:03:string": "属下无能，还请主上责罚。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:378:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137144, 
+        "03:02:string": "LOCAL_TEXT_31010", 
+        "04:03:string": "勾魂蝎汇报了详细情况，你做得很好，浮生。\\n我很满意你对阵无剑时的表现，虽败犹荣。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:379:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137145, 
+        "03:02:string": "LOCAL_TEXT_31011", 
+        "04:03:string": "但若非伏龙早有算计，恐怕你就殒命西陲了。\\n铤而走险，不太像你的作风。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:37:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136410, 
+        "03:02:string": "LOCAL_TEXT_30669", 
+        "04:03:string": "如果……我是说如果啊，我选择留下来，你会开心吗？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:380:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137146, 
+        "03:02:string": "LOCAL_TEXT_31012", 
+        "04:03:string": "嗯。\\n浮生，如今重心在五剑之阵，以后不需太执着于异客了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:381:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137147, 
+        "03:02:string": "LOCAL_TEXT_31013", 
+        "04:03:string": "遵命。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:382:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137148, 
+        "03:02:string": "LOCAL_TEXT_31014", 
+        "04:03:string": "有你相助，定能事半功倍。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:383:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137149, 
+        "03:02:string": "LOCAL_TEXT_31015", 
+        "04:03:string": "阁下过奖了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:384:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137150, 
+        "03:02:string": "LOCAL_TEXT_31016", 
+        "04:03:string": "剑冢势力在不断扩张，想必不久便会去往你提及的四处地点。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:385:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137151, 
+        "03:02:string": "LOCAL_TEXT_31017", 
+        "04:03:string": "嗯，剑境这边只能劳烦诸位了，目前我还无能为力。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:386:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137152, 
+        "03:02:string": "LOCAL_TEXT_31018", 
+        "04:03:string": "放心，我会派四方良将前去镇守，为你争取时间。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:387:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137153, 
+        "03:02:string": "LOCAL_TEXT_31019", 
+        "04:03:string": "多谢，那我回去继续参悟五剑之阵了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:388:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137154, 
+        "03:02:string": "LOCAL_TEXT_31020", 
+        "04:03:string": "说罢，青年抬起右手，裂隙凭空出现。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:389:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137155, 
+        "03:02:string": "LOCAL_TEXT_31021", 
+        "04:03:string": "你不会令我失望吧，梦渊？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:38:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136411, 
+        "03:02:string": "LOCAL_TEXT_30670", 
+        "04:03:string": "不论是神仙，还是妖鬼，在某些方面都与凡人无异，一生自有其命数，不可违逆。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:390:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137156, 
+        "03:02:string": "LOCAL_TEXT_31022", 
+        "04:03:string": "呵，我从不令自己失望。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:391:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137157, 
+        "03:02:string": "LOCAL_TEXT_31023", 
+        "04:03:string": "转眼间，梦渊消失在大殿之上。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:392:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137158, 
+        "03:02:string": "LOCAL_TEXT_31024", 
+        "04:03:string": "你当真要信任他？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:393:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137159, 
+        "03:02:string": "LOCAL_TEXT_31025", 
+        "04:03:string": "谈不上信任，但我现在需要他的力量，能够与无剑匹敌的力量。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:394:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137160, 
+        "03:02:string": "LOCAL_TEXT_31026", 
+        "04:03:string": "这里没有别人，能否容我斗胆问一句。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:395:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137161, 
+        "03:02:string": "LOCAL_TEXT_31027", 
+        "04:03:string": "说。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:396:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137162, 
+        "03:02:string": "LOCAL_TEXT_31028", 
+        "04:03:string": "真的能成功么？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:397:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137163, 
+        "03:02:string": "LOCAL_TEXT_31029", 
+        "04:03:string": "不要再问这种愚蠢的问题，浮生。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:398:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137164, 
+        "03:02:string": "LOCAL_TEXT_31030", 
+        "04:03:string": "是……\\n属下告退。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:399:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137165, 
+        "03:02:string": "LOCAL_TEXT_31031", 
+        "04:03:string": "无名残卷", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:39:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136412, 
+        "03:02:string": "LOCAL_TEXT_30671", 
+        "04:03:string": "西沙净土虽地处极西的蛮荒之地，但却有着另一番热闹和睦的景致。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:400:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137166, 
+        "03:02:string": "LOCAL_TEXT_31032", 
+        "04:03:string": "无名残卷", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:401:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137169, 
+        "03:02:string": "LOCAL_TEXT_31033", 
+        "04:03:string": "应物从来与化迁", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:402:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137170, 
+        "03:02:string": "LOCAL_TEXT_31034", 
+        "04:03:string": "阴阳分判两茫然", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:403:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137171, 
+        "03:02:string": "LOCAL_TEXT_31035", 
+        "04:03:string": "三生途尽明灯夜", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:404:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137172, 
+        "03:02:string": "LOCAL_TEXT_31036", 
+        "04:03:string": "彼岸花红暮雨烟", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:405:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137173, 
+        "03:02:string": "LOCAL_TEXT_31037", 
+        "04:03:string": "无奈命轮归万众", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:406:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137174, 
+        "03:02:string": "LOCAL_TEXT_31038", 
+        "04:03:string": "敢将深碗换新年", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:407:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137175, 
+        "03:02:string": "LOCAL_TEXT_31039", 
+        "04:03:string": "心魂未抵长相守", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:408:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137176, 
+        "03:02:string": "LOCAL_TEXT_31040", 
+        "04:03:string": "空斩秋波忆忘川", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:409:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137177, 
+        "03:02:string": "LOCAL_TEXT_31041", 
+        "04:03:string": "瑶林云树锁千门", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:40:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136413, 
+        "03:02:string": "LOCAL_TEXT_30672", 
+        "04:03:string": "虽然一碗茶汤便能令人忘记过去的种种，但端起茶汤却需要一生的勇气。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:410:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137178, 
+        "03:02:string": "LOCAL_TEXT_31042", 
+        "04:03:string": "玉振鸾凰清下尘", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:411:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137179, 
+        "03:02:string": "LOCAL_TEXT_31043", 
+        "04:03:string": "仙曲能开新世界", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:412:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137180, 
+        "03:02:string": "LOCAL_TEXT_31044", 
+        "04:03:string": "丹青犹落百年身", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:413:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137181, 
+        "03:02:string": "LOCAL_TEXT_31045", 
+        "04:03:string": "揽衣飞帔花如雨", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:414:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137182, 
+        "03:02:string": "LOCAL_TEXT_31046", 
+        "04:03:string": "促柱弹弦手自春", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:415:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137183, 
+        "03:02:string": "LOCAL_TEXT_31047", 
+        "04:03:string": "讵为生人惊泪堕", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:416:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137184, 
+        "03:02:string": "LOCAL_TEXT_31048", 
+        "04:03:string": "十方妙法始称神", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:417:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137185, 
+        "03:02:string": "LOCAL_TEXT_31049", 
+        "04:03:string": "释放主动技能后冷却时间减少2回合", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:418:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137186, 
+        "03:02:string": "LOCAL_TEXT_31050", 
+        "04:03:string": "释放主动技能后冷却时间减少3回合，有10%几率使自己再次行动", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:419:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137187, 
+        "03:02:string": "LOCAL_TEXT_31051", 
+        "04:03:string": "回响有小几率触发残响对目标再次造成伤害并恢复怒气", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:41:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136414, 
+        "03:02:string": "LOCAL_TEXT_30673", 
+        "04:03:string": "于我而言，修身养性才是提升境界最好的方法。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:420:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137188, 
+        "03:02:string": "LOCAL_TEXT_31052", 
+        "04:03:string": "主动技能现在可触发拥有回复效果的回响与残响", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:421:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137189, 
+        "03:02:string": "LOCAL_TEXT_31053", 
+        "04:03:string": "抱歉，我没能帮到你。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:422:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137190, 
+        "03:02:string": "LOCAL_TEXT_31054", 
+        "04:03:string": "对目标敌人造成{0}%攻击力的伤害，并额外获得20点怒气。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:423:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137191, 
+        "03:02:string": "LOCAL_TEXT_31055", 
+        "04:03:string": "释放主动技能可获得回响效果，对目标再次造成200%攻击力的伤害，同时恢复15点怒气。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:424:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137192, 
+        "03:02:string": "LOCAL_TEXT_31056", 
+        "04:03:string": "驭魂引信物", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:425:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137193, 
+        "03:02:string": "LOCAL_TEXT_31057", 
+        "04:03:string": "伽蓝凰鸣信物", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:426:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137194, 
+        "03:02:string": "LOCAL_TEXT_31058", 
+        "04:03:string": "可用于邀请驭魂引", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:427:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137195, 
+        "03:02:string": "LOCAL_TEXT_31059", 
+        "04:03:string": "可用于邀请伽蓝凰鸣", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:428:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137196, 
+        "03:02:string": "LOCAL_TEXT_31060", 
+        "04:03:string": "角色信物，集齐一定数量可在图鉴界面合成角色“驭魂引”", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:429:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137197, 
+        "03:02:string": "LOCAL_TEXT_31061", 
+        "04:03:string": "角色信物，集齐一定数量可在图鉴界面合成角色“伽蓝凰鸣”", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:42:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136415, 
+        "03:02:string": "LOCAL_TEXT_30674", 
+        "04:03:string": "忘川地界的标识是一片开满了彼岸花的花海，美丽却充满了悲伤。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:430:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137198, 
+        "03:02:string": "LOCAL_TEXT_31062", 
+        "04:03:string": "引魂净心", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:431:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137199, 
+        "03:02:string": "LOCAL_TEXT_31063", 
+        "04:03:string": "负罪之刃", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:432:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137200, 
+        "03:02:string": "LOCAL_TEXT_31064", 
+        "04:03:string": "义无反顾", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:433:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137201, 
+        "03:02:string": "LOCAL_TEXT_31065", 
+        "04:03:string": "塞外牧歌", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:434:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137202, 
+        "03:02:string": "LOCAL_TEXT_31066", 
+        "04:03:string": "◆净土仙音◆", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:435:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137203, 
+        "03:02:string": "LOCAL_TEXT_31067", 
+        "04:03:string": "◆幽冥鬼道◆", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:436:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137204, 
+        "03:02:string": "LOCAL_TEXT_31068", 
+        "04:03:string": "6月7日维护后-6月28日维护前\\n仙府鬼殿商店上架\\n限定头像框净土仙音", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:437:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137205, 
+        "03:02:string": "LOCAL_TEXT_31069", 
+        "04:03:string": "6月7日维护后-6月28日维护前\\n商城限时出售\\n活动限定头像框幽冥鬼道", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:438:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137206, 
+        "03:02:string": "LOCAL_TEXT_31070", 
+        "04:03:string": "绝世宝物，可以令特定角色领悟判词", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:439:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137207, 
+        "03:02:string": "LOCAL_TEXT_31071", 
+        "04:03:string": "此番我本取得先机，却因得陇望蜀招致失败，日后定当以此为戒。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:43:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136416, 
+        "03:02:string": "LOCAL_TEXT_30675", 
+        "04:03:string": "急于求成之人往往会误入歧途，所以无论遇到何事，都要保持平和的心境。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:440:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137208, 
+        "03:02:string": "LOCAL_TEXT_31072", 
+        "04:03:string": "主动技能冷却减少2回合", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:441:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137209, 
+        "03:02:string": "LOCAL_TEXT_31073", 
+        "04:03:string": "主动技能冷却减少3回合，有几率再次行动", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:442:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137210, 
+        "03:02:string": "LOCAL_TEXT_31074", 
+        "04:03:string": "回响有几率触发残响造成伤害并恢复怒气", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:443:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137211, 
+        "03:02:string": "LOCAL_TEXT_31075", 
+        "04:03:string": "主动技能可触发回复效果的回响与残响", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:444:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137218, 
+        "03:02:string": "LOCAL_TEXT_31076", 
+        "04:03:string": "金の葉特典", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:445:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137219, 
+        "03:02:string": "LOCAL_TEXT_31077", 
+        "04:03:string": "凝雪の法パック", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:446:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137220, 
+        "03:02:string": "LOCAL_TEXT_31078", 
+        "04:03:string": "破虜の力パック", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:447:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137221, 
+        "03:02:string": "LOCAL_TEXT_31079", 
+        "04:03:string": "開花・凝雪倚天", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:448:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137222, 
+        "03:02:string": "LOCAL_TEXT_31080", 
+        "04:03:string": "開花・破虜屠龍", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:449:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137223, 
+        "03:02:string": "LOCAL_TEXT_31081", 
+        "04:03:string": "殊途同归", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:44:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136417, 
+        "03:02:string": "LOCAL_TEXT_30676", 
+        "04:03:string": "竟有此种提升实力的方法。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:450:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137247, 
+        "03:02:string": "LOCAL_TEXT_31082", 
+        "04:03:string": "殊途同归\\n天命几何人难知\\n剑境之外", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:451:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137248, 
+        "03:02:string": "LOCAL_TEXT_31083", 
+        "04:03:string": "殊途同归\\n天命几何人难知\\n仙音鬼镰", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:452:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137249, 
+        "03:02:string": "LOCAL_TEXT_31084", 
+        "04:03:string": "殊途同归\\n天命几何人难知\\n如实相告", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:453:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137250, 
+        "03:02:string": "LOCAL_TEXT_31085", 
+        "04:03:string": "殊途同归\\n天命几何人难知\\n当机立断", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:454:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137251, 
+        "03:02:string": "LOCAL_TEXT_31086", 
+        "04:03:string": "殊途同归\\n天命几何人难知\\n过往阴云", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:455:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137252, 
+        "03:02:string": "LOCAL_TEXT_31087", 
+        "04:03:string": "殊途同归\\n天命几何人难知\\n剑境之理", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:456:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137253, 
+        "03:02:string": "LOCAL_TEXT_31088", 
+        "04:03:string": "殊途同归\\n天命几何人难知\\n心领神会", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:457:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137254, 
+        "03:02:string": "LOCAL_TEXT_31089", 
+        "04:03:string": "殊途同归\\n天命几何人难知\\n去意已决", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:458:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137259, 
+        "03:02:string": "LOCAL_TEXT_31090", 
+        "04:03:string": "使己方受到伤害降低至最小，第二回合效果减少50%，并获得恢复效果，持续2回合", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:459:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137278, 
+        "03:02:string": "LOCAL_TEXT_31091", 
+        "04:03:string": "任意卡池寻梦99次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:45:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136418, 
+        "03:02:string": "LOCAL_TEXT_30677", 
+        "04:03:string": "诗与武相结合，甚是精妙。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:460:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137279, 
+        "03:02:string": "LOCAL_TEXT_31092", 
+        "04:03:string": "任意卡池寻梦198次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:461:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137280, 
+        "03:02:string": "LOCAL_TEXT_31093", 
+        "04:03:string": "任意卡池寻梦297次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:462:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137281, 
+        "03:02:string": "LOCAL_TEXT_31094", 
+        "04:03:string": "任意卡池寻梦396次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:463:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137282, 
+        "03:02:string": "LOCAL_TEXT_31095", 
+        "04:03:string": "任意卡池寻梦495次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:464:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137283, 
+        "03:02:string": "LOCAL_TEXT_31096", 
+        "04:03:string": "任意卡池寻梦594次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:465:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137284, 
+        "03:02:string": "LOCAL_TEXT_31097", 
+        "04:03:string": "任意卡池寻梦693次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:466:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137285, 
+        "03:02:string": "LOCAL_TEXT_31098", 
+        "04:03:string": "任意卡池寻梦792次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:467:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137286, 
+        "03:02:string": "LOCAL_TEXT_31099", 
+        "04:03:string": "任意卡池寻梦891次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:468:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137287, 
+        "03:02:string": "LOCAL_TEXT_31100", 
+        "04:03:string": "任意卡池寻梦990次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:469:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137288, 
+        "03:02:string": "LOCAL_TEXT_31101", 
+        "04:03:string": "任意卡池寻梦1089次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:46:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136812, 
+        "03:02:string": "LOCAL_TEXT_30678", 
+        "04:03:string": "{changeplayer}的驭魂引", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:470:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137289, 
+        "03:02:string": "LOCAL_TEXT_31102", 
+        "04:03:string": "任意卡池寻梦1188次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:471:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137290, 
+        "03:02:string": "LOCAL_TEXT_31103", 
+        "04:03:string": "任意卡池寻梦1287次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:472:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137291, 
+        "03:02:string": "LOCAL_TEXT_31104", 
+        "04:03:string": "任意卡池寻梦1386次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:473:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137292, 
+        "03:02:string": "LOCAL_TEXT_31105", 
+        "04:03:string": "任意卡池寻梦1485次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:474:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137293, 
+        "03:02:string": "LOCAL_TEXT_31106", 
+        "04:03:string": "任意卡池寻梦1584次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:475:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137294, 
+        "03:02:string": "LOCAL_TEXT_31107", 
+        "04:03:string": "任意卡池寻梦1683次可得伽蓝凰鸣*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:476:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137295, 
+        "03:02:string": "LOCAL_TEXT_31108", 
+        "04:03:string": "任意卡池寻梦1782次可得驭魂引*1", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:477:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137306, 
+        "03:02:string": "LOCAL_TEXT_31109", 
+        "04:03:string": "我们知道错了", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:478:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137329, 
+        "03:02:string": "LOCAL_TEXT_31110", 
+        "04:03:string": "四象之战", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:479:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137351, 
+        "03:02:string": "LOCAL_TEXT_31111", 
+        "04:03:string": "\\n五剑之境各地都有关于四象的传闻，它们象征着至高无上的力量。至柔的青龙，至阳的朱雀，至刚的白虎和至阴的玄武。现在，英雄豪杰以此为基础，分成四大阵营，准备在周年庆到来之际在剑台一较高下。\\n同事参加活动还可获得金叶子、浅思等大量稀有资源以及两周年专属绝版头像框！", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:47:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136813, 
+        "03:02:string": "LOCAL_TEXT_30679", 
+        "04:03:string": "{changeplayer}的伽蓝凰鸣", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:480:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137352, 
+        "03:02:string": "LOCAL_TEXT_31112", 
+        "04:03:string": "\\n阴阵营", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:481:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137353, 
+        "03:02:string": "LOCAL_TEXT_31113", 
+        "04:03:string": "\\n阳阵营", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:482:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137354, 
+        "03:02:string": "LOCAL_TEXT_31114", 
+        "04:03:string": "\\n刚阵营", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:483:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137355, 
+        "03:02:string": "LOCAL_TEXT_31115", 
+        "04:03:string": "\\n柔阵营", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:484:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137356, 
+        "03:02:string": "LOCAL_TEXT_31116", 
+        "04:03:string": "\\n加入该阵营后在活动期间将无法更改，是否已经下定决心？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:485:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137409, 
+        "03:02:string": "LOCAL_TEXT_31117", 
+        "04:03:string": "\\n<size=55><color=#498ff3>无境天图</color></size>\\n♢无境天图可以提高角色的能力。\\n♢角色花开二次且满级后，解锁无境天图系统。\\n<size=55><color=#498ff3>星魄</color></size>\\n♢天图中的每一个星魄都可以被点亮，以提升角色的能力。\\n♢点亮星魄需要消耗稀世玄英以及其他素材。\\n<size=55><color=#498ff3>稀世玄英</color></size>\\n♢角色的主动技能等级提升时，可获得一定数量的稀世玄英。\\n♢稀世玄英也可通过在活动中获得的遗世璞玉雕琢而出。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:486:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137410, 
+        "03:02:string": "LOCAL_TEXT_31118", 
+        "04:03:string": "造成伤害", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:487:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137411, 
+        "03:02:string": "LOCAL_TEXT_31119", 
+        "04:03:string": "伤害", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:488:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137413, 
+        "03:02:string": "LOCAL_TEXT_31120", 
+        "04:03:string": "闻曲", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:489:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 137414, 
+        "03:02:string": "LOCAL_TEXT_31121", 
+        "04:03:string": "魍魉之潮", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:48:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136814, 
+        "03:02:string": "LOCAL_TEXT_30680", 
+        "04:03:string": "匪徒头目", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:490:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 138286, 
+        "03:02:string": "LOCAL_TEXT_31547", 
+        "04:03:string": "\\n<size=55><color=#498ff3>点唱机</color></size>\\n♢点唱机可以让玩家自由设定游戏背景音乐。\\n<size=55><color=#498ff3>播放</color></size>\\n♢玩家可以在播放界面播放已获取的背景音乐。\\n<size=55><color=#498ff3>编辑</color></size>\\n♢编辑界面可以试听曲谱，并将已获得的曲谱加入播放序列。\\n♢玩家在游戏中获得足够多的曲谱残卷后，可在编辑界面合成曲谱。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:491:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 138287, 
+        "03:02:string": "LOCAL_TEXT_31548", 
+        "04:03:string": "\\n<size=55><color=#498ff3>魍魉之灾</color></size>\\n魍魉大军对剑冢发动了袭击。无剑们奋起而战的时候到了！\\n♢魍魉之灾周期性开放，参与战斗可获得大量奖励。\\n<size=55><color=#498ff3>排行榜</color></size>\\n♢根据玩家在魍魉之灾中造成伤害的多少进行排行，造成伤害多的玩家奖励更丰厚。\\n<size=55><color=#498ff3>气力</color></size>\\n♢参与魍魉之灾的战斗需要消耗气力，气力每10分钟恢复一点，玩家可以花费金叶子购买6气力。气力满的时候无法购买。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:492:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 138288, 
+        "03:02:string": "LOCAL_TEXT_31549", 
+        "04:03:string": "\\n<size=55><color=#498ff3>相守</color></size>\\n♢相守可以提高角色的能力。\\n<size=55><color=#498ff3>礼物</color></size>\\n♢在相守系统中，玩家可以赠送礼物与喜欢的人。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:493:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 138289, 
+        "03:02:string": "LOCAL_TEXT_31550", 
+        "04:03:string": "可赋予角色2~4条词缀", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:494:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 138290, 
+        "03:02:string": "LOCAL_TEXT_31551", 
+        "04:03:string": "可赋予角色3~4条词缀", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:495:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 138291, 
+        "03:02:string": "LOCAL_TEXT_31552", 
+        "04:03:string": "可赋予角色4条词缀", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:49:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136815, 
+        "03:02:string": "LOCAL_TEXT_30681", 
+        "04:03:string": "匪徒", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:50:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136816, 
+        "03:02:string": "LOCAL_TEXT_30682", 
+        "04:03:string": "驭魂引          ", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:51:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136817, 
+        "03:02:string": "LOCAL_TEXT_30683", 
+        "04:03:string": "伽蓝&驭魂", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:52:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136818, 
+        "03:02:string": "LOCAL_TEXT_30684", 
+        "04:03:string": "梦渊", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:53:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136819, 
+        "03:02:string": "LOCAL_TEXT_30685", 
+        "04:03:string": "在捧起那碗茶汤前，很多人都犹豫再三，甚至能耗上几个时辰。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:54:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136820, 
+        "03:02:string": "LOCAL_TEXT_30686", 
+        "04:03:string": "曾经我对此很不理解。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:55:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136821, 
+        "03:02:string": "LOCAL_TEXT_30687", 
+        "04:03:string": "但此番误入剑境后，我似乎能够理解他们了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:56:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136822, 
+        "03:02:string": "LOCAL_TEXT_30688", 
+        "04:03:string": "拥有寿命的人总会有许多无法弥补的遗憾。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:57:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136823, 
+        "03:02:string": "LOCAL_TEXT_30689", 
+        "04:03:string": "但永生未必是件好事，相反往往更像种诅咒。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:58:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136824, 
+        "03:02:string": "LOCAL_TEXT_30690", 
+        "04:03:string": "你只能看着自己所珍爱的一切慢慢化作尘埃，随风而逝。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:59:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136825, 
+        "03:02:string": "LOCAL_TEXT_30691", 
+        "04:03:string": "与阁下切磋实乃一大快事。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:60:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136826, 
+        "03:02:string": "LOCAL_TEXT_30692", 
+        "04:03:string": "只是得你提点武艺后不知能回馈什么。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:61:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136827, 
+        "03:02:string": "LOCAL_TEXT_30693", 
+        "04:03:string": "要不，你试试看能否施展我们的独门术法吧？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:62:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136828, 
+        "03:02:string": "LOCAL_TEXT_30694", 
+        "04:03:string": "你可认识工于音律之人？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:63:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136829, 
+        "03:02:string": "LOCAL_TEXT_30695", 
+        "04:03:string": "若有的话，还请代为引荐。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:64:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136830, 
+        "03:02:string": "LOCAL_TEXT_30696", 
+        "04:03:string": "我想将剑境名曲绘成曲谱，作为纪念带回家乡。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:65:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136831, 
+        "03:02:string": "LOCAL_TEXT_30697", 
+        "04:03:string": "乐器的演奏技法各不相同，但练习均需持之以恒。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:66:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136832, 
+        "03:02:string": "LOCAL_TEXT_30698", 
+        "04:03:string": "你若有兴趣，我可教授你古琴的技法。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:67:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136833, 
+        "03:02:string": "LOCAL_TEXT_30699", 
+        "04:03:string": "以你的心性和天赋，定能有所成就。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:68:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136834, 
+        "03:02:string": "LOCAL_TEXT_30700", 
+        "04:03:string": "将来啊……或许没有机会再回到五剑之境了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:69:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136835, 
+        "03:02:string": "LOCAL_TEXT_30701", 
+        "04:03:string": "但此番误打误撞来到剑境，又结识了许多朋友，我已经心满意足。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:70:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136836, 
+        "03:02:string": "LOCAL_TEXT_30702", 
+        "04:03:string": "呵呵，真希望分别之日晚些到来啊。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:71:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136837, 
+        "03:02:string": "LOCAL_TEXT_30703", 
+        "04:03:string": "此城名为兴庆府，虽地处西陲，却是兵家必争之地。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:72:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136838, 
+        "03:02:string": "LOCAL_TEXT_30704", 
+        "04:03:string": "北可进占肥沃的河朔草原，南可接引渭、庆二州。\\n四郊能引黄河之水灌溉农田，确保粮草充足。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:73:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136839, 
+        "03:02:string": "LOCAL_TEXT_30705", 
+        "04:03:string": "若我教同丐帮联手肃清周边威胁，牢牢掌控这片地区，将为后续执行修补计划打下坚实根基。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:74:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136840, 
+        "03:02:string": "LOCAL_TEXT_30706", 
+        "04:03:string": "言之有理。\\n但近来攻伐频繁，致使教众疲敝，扫荡一事切勿操之过急。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:75:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136841, 
+        "03:02:string": "LOCAL_TEXT_30707", 
+        "04:03:string": "明白。\\n不过，天下英豪此番能响应剑冢号召，联手抗击木剑，着实出乎我的意料。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:76:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136842, 
+        "03:02:string": "LOCAL_TEXT_30708", 
+        "04:03:string": "细数我教至今的起起伏伏，颓败多缘起人祸，不禁令人唏嘘。\\n好在后来有你们坐镇光明顶，否则万事休矣。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:77:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136843, 
+        "03:02:string": "LOCAL_TEXT_30709", 
+        "04:03:string": "尽管教主平日游手好闲，个别行径甚至有损我教声誉，\\n但危难之际向来身先士卒，毫无惧色。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:78:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136844, 
+        "03:02:string": "LOCAL_TEXT_30710", 
+        "04:03:string": "至于我，是您过誉了，总教主。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:79:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136845, 
+        "03:02:string": "LOCAL_TEXT_30711", 
+        "04:03:string": "白虹，我叮嘱过你，称我御阵就好。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:80:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136846, 
+        "03:02:string": "LOCAL_TEXT_30712", 
+        "04:03:string": "否则，像上次会议那样，一句教主一句总教主的，说得大家头都晕了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:81:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136847, 
+        "03:02:string": "LOCAL_TEXT_30713", 
+        "04:03:string": "这……属下不敢。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:82:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136848, 
+        "03:02:string": "LOCAL_TEXT_30714", 
+        "04:03:string": "你跟随圣火那么久，性子倒是未变。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:83:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136849, 
+        "03:02:string": "LOCAL_TEXT_30715", 
+        "04:03:string": "这样吧，私下你唤我御阵。\\n在明教总坛或其它正式场合，你再以“总教主”的头衔称呼我。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:84:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136850, 
+        "03:02:string": "LOCAL_TEXT_30716", 
+        "04:03:string": "你我相交甚久，莫非要逼我下圣谕？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:85:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136851, 
+        "03:02:string": "LOCAL_TEXT_30717", 
+        "04:03:string": "一个月前，明教刚从魍魉手中夺回这座西陲重镇。\\n所以当御阵和白虹并肩走在人声鼎沸的街道上，总会引来民众频频侧目。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:86:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136852, 
+        "03:02:string": "LOCAL_TEXT_30718", 
+        "04:03:string": "哈哈，这样的表情当真许久未见。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:87:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136853, 
+        "03:02:string": "LOCAL_TEXT_30719", 
+        "04:03:string": "远在波斯时，我尚不明白圣火信中深意。\\n如今重归中原，才有切实体会。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:88:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136854, 
+        "03:02:string": "LOCAL_TEXT_30720", 
+        "04:03:string": "很遗憾，没能成为黑夜中燃起的第一簇火焰。\\n但若能亲手助这点点星火照亮夜空，也算无愧教义。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:89:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136855, 
+        "03:02:string": "LOCAL_TEXT_30721", 
+        "04:03:string": "是啊！\\n大伙均有此意。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:90:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136856, 
+        "03:02:string": "LOCAL_TEXT_30722", 
+        "04:03:string": "正说着，一道晴天霹雳裂空而出，兴庆府内外地动山摇。\\n我翻过栏杆，跃出客栈，经过御阵和白虹身旁。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:91:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136857, 
+        "03:02:string": "LOCAL_TEXT_30723", 
+        "04:03:string": "恐是有贵客到访。\\n烦请你们二位把守城池。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:92:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136858, 
+        "03:02:string": "LOCAL_TEXT_30724", 
+        "04:03:string": "莫非是异界来客？", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:93:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136859, 
+        "03:02:string": "LOCAL_TEXT_30725", 
+        "04:03:string": "应是如此。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:94:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136860, 
+        "03:02:string": "LOCAL_TEXT_30726", 
+        "04:03:string": "魍魉会被力量吸引，但务必提防那些趁火打劫的人。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:95:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136861, 
+        "03:02:string": "LOCAL_TEXT_30727", 
+        "04:03:string": "嗯，放心吧。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:96:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136862, 
+        "03:02:string": "LOCAL_TEXT_30728", 
+        "04:03:string": "我逆着四散奔逃的民众，从南城门赶往异变的源头。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:97:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136863, 
+        "03:02:string": "LOCAL_TEXT_30729", 
+        "04:03:string": "扭曲的力量如漩涡般不断回转，逐渐在中心收缩成逸散光芒的点，随着刹那的爆发消失在林间。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:98:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136864, 
+        "03:02:string": "LOCAL_TEXT_30730", 
+        "04:03:string": "面容冷峻的青年扶着额头慢慢起身，机警地打量四周。\\n一花一树，一草一木，都与自己熟知的别无二致，但又有少许不同。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }, 
+    "01:99:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 136865, 
+        "03:02:string": "LOCAL_TEXT_30731", 
+        "04:03:string": "他挺身站定，左手拇指、无名指紧扣，立于嘴前，喃喃自语。\\n只见腰间冥灯忽明忽暗，紫焰由指尖而出，可摇曳几下便又灭了。", 
+        "05:04:string": "新加中文，日文待翻译", 
+        "06:05:string": "新加中文，繁體待翻譯", 
+        "07:06:string": "newtext"
+    }
+}

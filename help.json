@@ -1,0 +1,248 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 51864, 
+        "03:02:string": "Default_HELP", 
+        "04:03:Varint": 35980
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 51863, 
+        "03:02:string": "help_0", 
+        "04:03:Varint": 56718
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56486, 
+        "03:02:string": "help_1", 
+        "04:03:Varint": 56719
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56488, 
+        "03:02:string": "help_2", 
+        "04:03:Varint": 56720
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56508, 
+        "03:02:string": "help_3", 
+        "04:03:Varint": 69350
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56516, 
+        "03:02:string": "help_4", 
+        "04:03:Varint": 56722
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56603, 
+        "03:02:string": "help_5", 
+        "04:03:Varint": 56723
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56619, 
+        "03:02:string": "help_6", 
+        "04:03:Varint": 56724
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56620, 
+        "03:02:string": "help_7", 
+        "04:03:Varint": 56725
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56630, 
+        "03:02:string": "help_8", 
+        "04:03:Varint": 56726
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56676, 
+        "03:02:string": "help_9", 
+        "04:03:Varint": 56727
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56678, 
+        "03:02:string": "help_10", 
+        "04:03:Varint": 56728
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56690, 
+        "03:02:string": "help_11", 
+        "04:03:Varint": 56729
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56716, 
+        "03:02:string": "help_12", 
+        "04:03:Varint": 56730
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 56717, 
+        "03:02:string": "help_13", 
+        "04:03:Varint": 56731
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 57716, 
+        "03:02:string": "gift_use0", 
+        "04:03:Varint": 78450
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 61501, 
+        "03:02:string": "help_14", 
+        "04:03:Varint": 61514
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 61511, 
+        "03:02:string": "help_15", 
+        "04:03:Varint": 61515
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 68593, 
+        "03:02:string": "help_16", 
+        "04:03:Varint": 69352
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 68594, 
+        "03:02:string": "help_17", 
+        "04:03:Varint": 69353
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 69348, 
+        "03:02:string": "help_18", 
+        "04:03:Varint": 69354
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 69355, 
+        "03:02:string": "help_19", 
+        "04:03:Varint": 69358
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 69356, 
+        "03:02:string": "help_20", 
+        "04:03:Varint": 69359
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 78424, 
+        "03:02:string": "help_21", 
+        "04:03:Varint": 78451
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 78452, 
+        "03:02:string": "help_22", 
+        "04:03:Varint": 78457
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 78453, 
+        "03:02:string": "help_23", 
+        "04:03:Varint": 78458
+    }, 
+    "01:26:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 78454, 
+        "03:02:string": "help_24", 
+        "04:03:Varint": 78459
+    }, 
+    "01:27:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 78455, 
+        "03:02:string": "help_25", 
+        "04:03:Varint": 78460
+    }, 
+    "01:28:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 78456, 
+        "03:02:string": "help_26", 
+        "04:03:Varint": 78461
+    }, 
+    "01:29:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 109539, 
+        "03:02:string": "help_27", 
+        "04:03:Varint": 109548
+    }, 
+    "01:30:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 109540, 
+        "03:02:string": "help_28", 
+        "04:03:Varint": 109549
+    }, 
+    "01:31:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 109541, 
+        "03:02:string": "help_29", 
+        "04:03:Varint": 109550
+    }, 
+    "01:32:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 109542, 
+        "03:02:string": "help_30", 
+        "04:03:Varint": 109551
+    }, 
+    "01:33:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 109547, 
+        "03:02:string": "help_31", 
+        "04:03:Varint": 109552
+    }, 
+    "01:34:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 119107, 
+        "03:02:string": "help_33", 
+        "04:03:Varint": 119108
+    }, 
+    "01:35:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 122600, 
+        "03:02:string": "help_34", 
+        "04:03:Varint": 134254
+    }, 
+    "01:36:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 134253, 
+        "03:02:string": "help_35", 
+        "04:03:Varint": 134255
+    }, 
+    "01:37:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 137408, 
+        "03:02:string": "help_36", 
+        "04:03:Varint": 137409
+    }, 
+    "01:38:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 138283, 
+        "03:02:string": "help_37", 
+        "04:03:Varint": 138286
+    }, 
+    "01:39:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 138284, 
+        "03:02:string": "help_38", 
+        "04:03:Varint": 138287
+    }, 
+    "01:40:embedded message": {
+        "01:00:Varint": 94, 
+        "02:01:Varint": 138285, 
+        "03:02:string": "help_39", 
+        "04:03:Varint": 138288
+    }
+}

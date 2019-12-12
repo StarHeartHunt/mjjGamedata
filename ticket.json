@@ -1,0 +1,29 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 78, 
+        "02:01:Varint": 40751, 
+        "03:02:string": "ticket_1", 
+        "04:03:Varint": 48603, 
+        "05:04:Varint": 18556, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 64040
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 78, 
+        "02:01:Varint": 45032, 
+        "03:02:string": "ticket_2", 
+        "04:03:Varint": 48604, 
+        "05:04:Varint": 18557, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 64041
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 78, 
+        "02:01:Varint": 80001, 
+        "03:02:string": "ticket_3", 
+        "04:03:Varint": 69940, 
+        "05:04:Varint": 69768, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 59515
+    }
+}

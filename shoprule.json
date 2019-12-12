@@ -1,0 +1,58 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 45, 
+        "02:01:Varint": 13593, 
+        "03:02:string": "Normal", 
+        "04:03:Varint": 50, 
+        "05:04:Varint": 11, 
+        "06:05:Varint": 500, 
+        "07:06:Varint": 1, 
+        "08:07:Varint": 259200, 
+        "09:08:Varint": 0, 
+        "10:09:Varint": 22451, 
+        "11:10:Varint": 46, 
+        "12:11:Varint": 22455
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 45, 
+        "02:01:Varint": 13594, 
+        "03:02:string": "Activity_1", 
+        "04:03:Varint": 50, 
+        "05:04:Varint": 11, 
+        "06:05:Varint": 500, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0, 
+        "09:08:Varint": 0, 
+        "10:09:Varint": 22452, 
+        "11:10:Varint": 47, 
+        "12:11:Varint": 22456
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 45, 
+        "02:01:Varint": 13595, 
+        "03:02:string": "Activity_2", 
+        "04:03:Varint": 50, 
+        "05:04:Varint": 11, 
+        "06:05:Varint": 500, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0, 
+        "09:08:Varint": 0, 
+        "10:09:Varint": 22453, 
+        "11:10:Varint": 48, 
+        "12:11:Varint": 49510
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 45, 
+        "02:01:Varint": 14502, 
+        "03:02:string": "Background_pic_sale", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 0, 
+        "09:08:Varint": 0, 
+        "10:09:Varint": 22454, 
+        "11:10:Varint": 49, 
+        "12:11:Varint": 22458
+    }
+}

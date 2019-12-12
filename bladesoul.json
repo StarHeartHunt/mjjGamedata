@@ -1,0 +1,42 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 39, 
+        "02:01:Varint": 49633, 
+        "03:02:string": "BS_6", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 99999, 
+        "06:05:Varint": 1
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 39, 
+        "02:01:Varint": 49634, 
+        "03:02:string": "BS_7", 
+        "04:03:Varint": 144, 
+        "05:04:Varint": 99999, 
+        "06:05:Varint": 1
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 39, 
+        "02:01:Varint": 49635, 
+        "03:02:string": "BS_8", 
+        "04:03:Varint": 1333, 
+        "05:04:Varint": 99999, 
+        "06:05:Varint": 1
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 39, 
+        "02:01:Varint": 49636, 
+        "03:02:string": "BS_9", 
+        "04:03:Varint": 1339, 
+        "05:04:Varint": 99999, 
+        "06:05:Varint": 1
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 39, 
+        "02:01:Varint": 49637, 
+        "03:02:string": "BS_10", 
+        "04:03:Varint": 1375, 
+        "05:04:Varint": 99999, 
+        "06:05:Varint": 1
+    }
+}

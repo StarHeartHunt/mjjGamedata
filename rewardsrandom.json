@@ -1,0 +1,99 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 72193, 
+        "03:02:string": "TALESBOOKREWARDSRANDOM1", 
+        "04:03:Varint": 77794, 
+        "04:04:Varint": 72212
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 72220, 
+        "03:02:string": "TALESBOOKREWARDSRANDOM2", 
+        "04:03:Varint": 77794, 
+        "04:04:Varint": 77791
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 72221, 
+        "03:02:string": "TALESBOOKREWARDSRANDOM3", 
+        "04:03:Varint": 77794, 
+        "04:04:Varint": 77792
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 72222, 
+        "03:02:string": "TALESBOOKREWARDSRANDOM4", 
+        "04:03:Varint": 77794, 
+        "04:04:Varint": 77793
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 72223, 
+        "03:02:string": "TALESBOOKREWARDSRANDOM5", 
+        "04:03:Varint": 72216, 
+        "04:04:Varint": 72217, 
+        "04:05:Varint": 72218, 
+        "04:06:Varint": 72219
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 121526, 
+        "03:02:string": "TALESBOOKREWARDSFIXED1", 
+        "04:03:Varint": 121516
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 121527, 
+        "03:02:string": "TALESBOOKREWARDSFIXED2", 
+        "04:03:Varint": 121517
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 121528, 
+        "03:02:string": "TALESBOOKREWARDSFIXED3", 
+        "04:03:Varint": 121518
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 121529, 
+        "03:02:string": "TALESBOOKREWARDSFIXED4", 
+        "04:03:Varint": 121519
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 121530, 
+        "03:02:string": "TALESBOOKREWARDSFIXED5", 
+        "04:03:Varint": 121520
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 121531, 
+        "03:02:string": "TALESBOOKREWARDSFIXED6", 
+        "04:03:Varint": 121521
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 121532, 
+        "03:02:string": "TALESBOOKREWARDSFIXED7", 
+        "04:03:Varint": 121522
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 121533, 
+        "03:02:string": "TALESBOOKREWARDSFIXED8", 
+        "04:03:Varint": 121523
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 130548, 
+        "03:02:string": "TALESBOOKREWARDSFIXED9", 
+        "04:03:Varint": 130547
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 216, 
+        "02:01:Varint": 132010, 
+        "03:02:string": "TALESBOOKREWARDSFIXED10", 
+        "04:03:Varint": 132009
+    }
+}

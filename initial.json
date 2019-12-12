@@ -1,0 +1,213 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 353, 
+        "03:02:string": "Character_Bag_Size", 
+        "04:03:Varint": 2000, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 354, 
+        "03:02:string": "Character_Default_InBag", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 63
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 355, 
+        "03:02:string": "Character_Default_Team", 
+        "04:03:Varint": 1, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 11743, 
+        "03:02:string": "PLAYER_DEFAULT_DOGE", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 451
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 356, 
+        "03:02:string": "Player_Default_Essence", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 357, 
+        "03:02:string": "Player_Default_Energy", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 358, 
+        "03:02:string": "Player_Default_Spirit", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 359, 
+        "03:02:string": "Player_Max_Essence", 
+        "04:03:Varint": 9999, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 360, 
+        "03:02:string": "Player_Max_Energy", 
+        "04:03:Varint": 9999, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 361, 
+        "03:02:string": "Player_Max_Spirit", 
+        "04:03:Varint": 9999, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 1110, 
+        "03:02:string": "Player_Friend_Max", 
+        "04:03:Varint": 50, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 1111, 
+        "03:02:string": "Player_Team_Max", 
+        "04:03:Varint": 1, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 1112, 
+        "03:02:string": "Player_Stamina_Max", 
+        "04:03:Varint": 10, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 1406, 
+        "03:02:string": "Player_Default_Gold_Leaf", 
+        "04:03:Varint": 300, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 2222, 
+        "03:02:string": "Player_Default_stamina", 
+        "04:03:Varint": 9999, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 2662, 
+        "03:02:string": "System_Max_Essence", 
+        "04:03:Varint": 9999, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 2663, 
+        "03:02:string": "System_Max_Energy", 
+        "04:03:Varint": 9999, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 2664, 
+        "03:02:string": "System_Max_Spirit", 
+        "04:03:Varint": 9999, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 3429, 
+        "03:02:string": "XINFA", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 10994, 
+        "03:02:string": "FIRST_FORGE", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 11229, 
+        "03:02:string": "FIRST_FORGE_TIME", 
+        "04:03:Varint": 5, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 48360, 
+        "03:02:string": "FIRST_CHEMISTRY", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 48121, 
+        "03:02:string": "FIRST_TICKET", 
+        "04:03:Varint": 40751, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 0
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 54228, 
+        "03:02:string": "Player_Default_Type", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 108, 
+        "06:06:Varint": 205
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 54229, 
+        "03:02:string": "Player_Default_ID", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 108, 
+        "06:06:Varint": 132054
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 15, 
+        "02:01:Varint": 54230, 
+        "03:02:string": "Player_Default_Value", 
+        "04:03:Varint": 0, 
+        "05:04:32-bit": 0.0, 
+        "06:05:Varint": 2000, 
+        "06:06:Varint": 40
+    }
+}

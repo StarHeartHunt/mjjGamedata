@@ -1,0 +1,702 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3504, 
+        "03:02:string": "MIAN_1", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3505, 
+        "03:02:string": "MIAN_2", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3506, 
+        "03:02:string": "MIAN_3", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3507, 
+        "03:02:string": "MIAN_4", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3508, 
+        "03:02:string": "MIAN_5", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3509, 
+        "03:02:string": "MIAN_6", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3510, 
+        "03:02:string": "CAP", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3511, 
+        "03:02:string": "TEAM", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3512, 
+        "03:02:string": "COMPOUND", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3513, 
+        "03:02:string": "UPGRADE", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3514, 
+        "03:02:string": "XINFA", 
+        "04:03:Varint": 13, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3515, 
+        "03:02:string": "FORGE", 
+        "04:03:Varint": 14, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3516, 
+        "03:02:string": "MAP", 
+        "04:03:Varint": 15, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3517, 
+        "03:02:string": "DICE", 
+        "04:03:Varint": 16, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3518, 
+        "03:02:string": "RESOURCE", 
+        "04:03:Varint": 17, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3519, 
+        "03:02:string": "INTRODUCTION", 
+        "04:03:Varint": 18, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3520, 
+        "03:02:string": "ATACK", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3521, 
+        "03:02:string": "ATACKED", 
+        "04:03:Varint": 20, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3522, 
+        "03:02:string": "DYING", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3523, 
+        "03:02:string": "WIN", 
+        "04:03:Varint": 22, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3524, 
+        "03:02:string": "LOSE", 
+        "04:03:Varint": 23, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3525, 
+        "03:02:string": "DIE", 
+        "04:03:Varint": 24, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3526, 
+        "03:02:string": "SHIPO", 
+        "04:03:Varint": 26, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 11714, 
+        "03:02:string": "QIMENBAGUAZHUZHAN", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3535, 
+        "03:02:string": "QIMENBAGUA", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3527, 
+        "03:02:string": "TOUCH_HEAD_1", 
+        "04:03:Varint": 27, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_HEAD_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:26:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 9541, 
+        "03:02:string": "DTOUCH_HEAD_1", 
+        "04:03:Varint": 28, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 1, 
+        "07:06:string": "DTOUCH_HEAD_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:27:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3529, 
+        "03:02:string": "TOUCH_HAND_1", 
+        "04:03:Varint": 29, 
+        "05:04:Varint": 3, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_HAND_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:28:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 9543, 
+        "03:02:string": "DTOUCH_HAND_1", 
+        "04:03:Varint": 30, 
+        "05:04:Varint": 3, 
+        "06:05:Varint": 1, 
+        "07:06:string": "DTOUCH_HAND_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:29:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 9545, 
+        "03:02:string": "DTOUCH_SHOULDER_1", 
+        "04:03:Varint": 32, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 1, 
+        "07:06:string": "DTOUCH_SHOULDER_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:30:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3531, 
+        "03:02:string": "TOUCH_SHOULDER_1", 
+        "04:03:Varint": 31, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_SHOULDER_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:31:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 9547, 
+        "03:02:string": "DTOUCH_BODY_1", 
+        "04:03:Varint": 34, 
+        "05:04:Varint": 5, 
+        "06:05:Varint": 1, 
+        "07:06:string": "DTOUCH_BODY_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:32:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 3534, 
+        "03:02:string": "TOUCH_BODY_1", 
+        "04:03:Varint": 33, 
+        "05:04:Varint": 5, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_BODY_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:33:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 9549, 
+        "03:02:string": "TOUCH_OTHER_1", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:34:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 9550, 
+        "03:02:string": "TOUCH_OTHER_2", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_2", 
+        "08:07:Varint": 0
+    }, 
+    "01:35:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 9551, 
+        "03:02:string": "TOUCH_OTHER_3", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_3", 
+        "08:07:Varint": 0
+    }, 
+    "01:36:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 55885, 
+        "03:02:string": "GACHA_TEN_VOICE", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:37:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57499, 
+        "03:02:string": "TOUCH_OTHER_4", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 3, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:38:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57500, 
+        "03:02:string": "TOUCH_OTHER_5", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 3, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_2", 
+        "08:07:Varint": 0
+    }, 
+    "01:39:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57501, 
+        "03:02:string": "TOUCH_OTHER_6", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 3, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_3", 
+        "08:07:Varint": 0
+    }, 
+    "01:40:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57502, 
+        "03:02:string": "TOUCH_OTHER_7", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:41:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57503, 
+        "03:02:string": "TOUCH_OTHER_8", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_2", 
+        "08:07:Varint": 0
+    }, 
+    "01:42:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57504, 
+        "03:02:string": "TOUCH_OTHER_9", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_3", 
+        "08:07:Varint": 0
+    }, 
+    "01:43:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57506, 
+        "03:02:string": "TOUCH_OTHER_10", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 5, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:44:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57507, 
+        "03:02:string": "TOUCH_OTHER_11", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 5, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_2", 
+        "08:07:Varint": 0
+    }, 
+    "01:45:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 57508, 
+        "03:02:string": "TOUCH_OTHER_12", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 5, 
+        "06:05:Varint": 0, 
+        "07:06:string": "TOUCH_OTHER_3", 
+        "08:07:Varint": 0
+    }, 
+    "01:46:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 61465, 
+        "03:02:string": "TOUCH_OTHER_13", 
+        "04:03:Varint": 28, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 0, 
+        "07:06:string": "DTOUCH_HEAD_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:47:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 61466, 
+        "03:02:string": "TOUCH_OTHER_14", 
+        "04:03:Varint": 30, 
+        "05:04:Varint": 3, 
+        "06:05:Varint": 0, 
+        "07:06:string": "DTOUCH_HAND_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:48:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 61467, 
+        "03:02:string": "TOUCH_OTHER_15", 
+        "04:03:Varint": 32, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 0, 
+        "07:06:string": "DTOUCH_SHOULDER_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:49:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 63422, 
+        "03:02:string": "TOUCH_OTHER_16", 
+        "04:03:Varint": 34, 
+        "05:04:Varint": 5, 
+        "06:05:Varint": 0, 
+        "07:06:string": "DTOUCH_BODY_1", 
+        "08:07:Varint": 0
+    }, 
+    "01:50:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 66468, 
+        "03:02:string": "TOUCH_SKIN1_1", 
+        "04:03:Varint": 1000, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 1
+    }, 
+    "01:51:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 66469, 
+        "03:02:string": "TOUCH_SKIN1_2", 
+        "04:03:Varint": 1001, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 1
+    }, 
+    "01:52:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 66470, 
+        "03:02:string": "TOUCH_SKIN1_3", 
+        "04:03:Varint": 1002, 
+        "05:04:Varint": 3, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 1
+    }, 
+    "01:53:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 66471, 
+        "03:02:string": "TOUCH_SKIN1_4", 
+        "04:03:Varint": 1003, 
+        "05:04:Varint": 3, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 1
+    }, 
+    "01:54:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 66472, 
+        "03:02:string": "TOUCH_SKIN1_5", 
+        "04:03:Varint": 1004, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 1
+    }, 
+    "01:55:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 66473, 
+        "03:02:string": "TOUCH_SKIN1_6", 
+        "04:03:Varint": 1005, 
+        "05:04:Varint": 2, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 1
+    }, 
+    "01:56:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 66474, 
+        "03:02:string": "TOUCH_SKIN1_7", 
+        "04:03:Varint": 1006, 
+        "05:04:Varint": 5, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 1
+    }, 
+    "01:57:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 66475, 
+        "03:02:string": "TOUCH_SKIN1_8", 
+        "04:03:Varint": 1007, 
+        "05:04:Varint": 5, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 1
+    }, 
+    "01:58:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 67923, 
+        "03:02:string": "POEM", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:59:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 72244, 
+        "03:02:string": "TOUCH_OTHERSKIN1_1", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:60:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 72245, 
+        "03:02:string": "TOUCH_OTHERSKIN1_2", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:61:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 72246, 
+        "03:02:string": "TOUCH_OTHERSKIN1_3", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:62:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 74624, 
+        "03:02:string": "POEM_READING0", 
+        "04:03:Varint": 2001, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:63:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 74625, 
+        "03:02:string": "POEM_READING1", 
+        "04:03:Varint": 2002, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:64:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 74626, 
+        "03:02:string": "POEM_READING2", 
+        "04:03:Varint": 2003, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:65:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 74627, 
+        "03:02:string": "POEM_READING3", 
+        "04:03:Varint": 2004, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:66:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 74628, 
+        "03:02:string": "POEM_READING4", 
+        "04:03:Varint": 2005, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:67:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 74629, 
+        "03:02:string": "POEM_READING5", 
+        "04:03:Varint": 2006, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:68:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 74630, 
+        "03:02:string": "POEM_READING6", 
+        "04:03:Varint": 2007, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }, 
+    "01:69:embedded message": {
+        "01:00:Varint": 34, 
+        "02:01:Varint": 74631, 
+        "03:02:string": "POEM_READING7", 
+        "04:03:Varint": 2008, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:string": "0", 
+        "08:07:Varint": 0
+    }
+}

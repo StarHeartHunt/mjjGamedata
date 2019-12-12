@@ -1,0 +1,12 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 1005, 
+        "02:01:Varint": 36667, 
+        "03:02:string": "TEST_POINT_1"
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 1005, 
+        "02:01:Varint": 36668, 
+        "03:02:string": "TEST_POINT_2"
+    }
+}

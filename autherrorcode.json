@@ -1,0 +1,149 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58257, 
+        "03:02:string": "AuthErrorCode1", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 19378
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58258, 
+        "03:02:string": "AuthErrorCode2", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 19379
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58259, 
+        "03:02:string": "AuthErrorCode3", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 47070
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58260, 
+        "03:02:string": "AuthErrorCode4", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 19375
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58261, 
+        "03:02:string": "AuthErrorCode5", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 19376
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58262, 
+        "03:02:string": "AuthErrorCode6", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 47069
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58263, 
+        "03:02:string": "AuthErrorCode7", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 49322
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58264, 
+        "03:02:string": "AuthErrorCode8", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 49323
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58265, 
+        "03:02:string": "AuthErrorCode9", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 51193
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58266, 
+        "03:02:string": "AuthErrorCode10", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 55374
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58267, 
+        "03:02:string": "AuthErrorCode11", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 58256
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58268, 
+        "03:02:string": "AuthErrorCode12", 
+        "04:03:Varint": 13, 
+        "05:04:Varint": 58274
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58269, 
+        "03:02:string": "AuthErrorCode13", 
+        "04:03:Varint": 14, 
+        "05:04:Varint": 58275
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58270, 
+        "03:02:string": "AuthErrorCode14", 
+        "04:03:Varint": 15, 
+        "05:04:Varint": 58276
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58271, 
+        "03:02:string": "AuthErrorCode15", 
+        "04:03:Varint": 16, 
+        "05:04:Varint": 58277
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58272, 
+        "03:02:string": "AuthErrorCode16", 
+        "04:03:Varint": 17, 
+        "05:04:Varint": 58278
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 58273, 
+        "03:02:string": "AuthErrorCode17", 
+        "04:03:Varint": 18, 
+        "05:04:Varint": 58279
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 67299, 
+        "03:02:string": "AuthErrorCode18", 
+        "04:03:Varint": 19, 
+        "05:04:Varint": 59507
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 69719, 
+        "03:02:string": "AuthErrorCode19", 
+        "04:03:Varint": 20, 
+        "05:04:Varint": 59519
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 77856, 
+        "03:02:string": "AuthErrorCode21", 
+        "04:03:Varint": 21, 
+        "05:04:Varint": 77857
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 112680, 
+        "03:02:string": "AuthErrorCode23", 
+        "04:03:Varint": 22, 
+        "05:04:Varint": 112681
+    }
+}

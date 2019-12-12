@@ -1,0 +1,11 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 55, 
+        "02:01:Varint": 5, 
+        "03:02:string": "config_language_type", 
+        "04:03:string": "type", 
+        "05:04:string": "type", 
+        "06:05:string": "type", 
+        "07:06:string": "type"
+    }
+}

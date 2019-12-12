@@ -1,0 +1,26 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 210, 
+        "02:01:Varint": 71948, 
+        "03:02:string": "emoji_0", 
+        "04:03:Varint": 21079, 
+        "05:04:Varint": 34523, 
+        "06:05:Varint": 1, 
+        "07:06:Varint": 21079, 
+        "07:07:Varint": 21104, 
+        "07:08:Varint": 21105, 
+        "07:09:Varint": 21106, 
+        "07:10:Varint": 21107
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 210, 
+        "02:01:Varint": 72030, 
+        "03:02:string": "emoji_1", 
+        "04:03:Varint": 21104, 
+        "05:04:Varint": 72031, 
+        "06:05:Varint": 2, 
+        "07:06:Varint": 21079, 
+        "07:07:Varint": 21104, 
+        "07:08:Varint": 21105
+    }
+}

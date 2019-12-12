@@ -1,0 +1,106 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72756, 
+        "03:02:string": "CHARGEBONUSREWARD_1", 
+        "04:03:Varint": 71, 
+        "04:04:Varint": 205, 
+        "04:05:Varint": 1, 
+        "04:06:Varint": 9, 
+        "04:07:Varint": 74, 
+        "05:08:Varint": 37131, 
+        "05:09:Varint": 70021, 
+        "05:10:Varint": 441, 
+        "05:11:Varint": 46055, 
+        "05:12:Varint": 69768, 
+        "06:13:Varint": 4, 
+        "06:14:Varint": 5, 
+        "06:15:Varint": 3, 
+        "06:16:Varint": 2, 
+        "06:17:Varint": 9
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72757, 
+        "03:02:string": "CHARGEBONUSREWARD_2", 
+        "04:03:Varint": 103, 
+        "04:04:Varint": 104, 
+        "04:05:Varint": 108, 
+        "04:06:Varint": 109, 
+        "04:07:Varint": 105, 
+        "05:08:Varint": 103, 
+        "05:09:Varint": 104, 
+        "05:10:Varint": 108, 
+        "05:11:Varint": 109, 
+        "05:12:Varint": 105, 
+        "06:13:Varint": 999, 
+        "06:14:Varint": 222, 
+        "06:15:Varint": 44444, 
+        "06:16:Varint": 44, 
+        "06:17:Varint": 105
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72758, 
+        "03:02:string": "CHARGEBONUSREWARD_3", 
+        "04:03:Varint": 104, 
+        "05:04:Varint": 104, 
+        "06:05:Varint": 1
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72759, 
+        "03:02:string": "CHARGEBONUSREWARD_4", 
+        "04:03:Varint": 74, 
+        "05:04:Varint": 69768, 
+        "06:05:Varint": 1
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72760, 
+        "03:02:string": "CHARGEBONUSREWARD_5", 
+        "04:03:Varint": 72, 
+        "05:04:Varint": 47107, 
+        "06:05:Varint": 1
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72761, 
+        "03:02:string": "CHARGEBONUSREWARD_6", 
+        "04:03:Varint": 75, 
+        "05:04:Varint": 72275, 
+        "06:05:Varint": 1
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72762, 
+        "03:02:string": "CHARGEBONUSREWARD_7", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 443, 
+        "06:05:Varint": 1
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72763, 
+        "03:02:string": "CHARGEBONUSREWARD_8", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 444, 
+        "06:05:Varint": 1
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72764, 
+        "03:02:string": "CHARGEBONUSREWARD_9", 
+        "04:03:Varint": 49, 
+        "05:04:Varint": 71000, 
+        "06:05:Varint": 1
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 219, 
+        "02:01:Varint": 72765, 
+        "03:02:string": "CHARGEBONUSREWARD_10", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 63321, 
+        "06:05:Varint": 1
+    }
+}

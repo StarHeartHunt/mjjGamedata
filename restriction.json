@@ -1,0 +1,378 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 251, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_YIN", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 12, 
+        "06:05:32-bit": 1.0
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 252, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_YANG", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 10, 
+        "06:05:32-bit": 3204448256
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 257, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_HARD_SOFT", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 9, 
+        "06:05:32-bit": 1.0
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 258, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_YIN_SOFT", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 11, 
+        "06:05:32-bit": 3204448256
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 263, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_YIN_YANG_PLUS", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 10, 
+        "06:05:32-bit": 1.0
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 264, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_YANG_HARD_PLUS", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 12, 
+        "06:05:32-bit": 3204448256
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 272, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_SOFT_HARD", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 11, 
+        "06:05:32-bit": 1.0
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 273, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_SOFT_YIN", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 9, 
+        "06:05:32-bit": 3204448256
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 278, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_YANG_YIN_PLUS", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 279, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_HARD_YANG_PLUS", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 280, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_SOFT_HARD_PLUS", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 281, 
+        "03:02:string": "RESTRICTION_CARD_ATTRIBUTE_SOFT_YIN_PLUS", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 292, 
+        "03:02:string": "MONSTER_ATTRIBUTE_YIN_SOFT", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 293, 
+        "03:02:string": "MONSTER_ATTRIBUTE_YIN_PLUS", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 294, 
+        "03:02:string": "MONSTER_ATTRIBUTE_YANG_PLUS", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 295, 
+        "03:02:string": "MONSTER_ATTRIBUTE_HARD_PLUS", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 304, 
+        "03:02:string": "MONSTER_ATTRIBUTE_SOFT_YIN", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 305, 
+        "03:02:string": "MONSTER_ATTRIBUTE_PLUS_YIN", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 306, 
+        "03:02:string": "MONSTER_ATTRIBUTE_PLUS_YANG", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 307, 
+        "03:02:string": "MONSTER_ATTRIBUTE_PLUS_HARD", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 336, 
+        "03:02:string": "MONSTER_ATTRIBUTE_SOFT_WEAK", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 337, 
+        "03:02:string": "MONSTER_ATTRIBUTE_YIN_YANG_WEAK", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 338, 
+        "03:02:string": "MONSTER_ATTRIBUTE_YANG_HARD_WEAK", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 339, 
+        "03:02:string": "MONSTER_ATTRIBUTE_HARD_SOFT_WEAK", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 340, 
+        "03:02:string": "MONSTER_ATTRIBUTE_YIN_SOFT_WEAK", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 351, 
+        "03:02:string": "MONSTER_ATTRIBUTE_PLUS_HARD_WEAK", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:26:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 352, 
+        "03:02:string": "MONSTER_ATTRIBUTE_PLUS_SOFT_WEAK", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:27:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13164, 
+        "03:02:string": "RES_3", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:28:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13165, 
+        "03:02:string": "RES_4", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:29:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13172, 
+        "03:02:string": "RES_11", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:30:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13173, 
+        "03:02:string": "RES_12", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:31:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13180, 
+        "03:02:string": "RES_19", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:32:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13181, 
+        "03:02:string": "RES_20", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:33:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13182, 
+        "03:02:string": "RES_21", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:34:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13183, 
+        "03:02:string": "RES_22", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:35:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13192, 
+        "03:02:string": "RES_31", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:36:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13193, 
+        "03:02:string": "RES_32", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:37:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13194, 
+        "03:02:string": "RES_33", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:38:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13195, 
+        "03:02:string": "RES_34", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:39:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13204, 
+        "03:02:string": "RES_43", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:40:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13205, 
+        "03:02:string": "RES_44", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:41:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13206, 
+        "03:02:string": "RES_45", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:42:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13207, 
+        "03:02:string": "RES_46", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:43:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13216, 
+        "03:02:string": "RES_55", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:44:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13217, 
+        "03:02:string": "RES_56", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:45:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13218, 
+        "03:02:string": "RES_57", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }, 
+    "01:46:embedded message": {
+        "01:00:Varint": 14, 
+        "02:01:Varint": 13219, 
+        "03:02:string": "RES_58", 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
+        "06:05:32-bit": 0.0
+    }
+}

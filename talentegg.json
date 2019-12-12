@@ -1,0 +1,13 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 268, 
+        "02:01:Varint": 135454, 
+        "03:02:string": "talent_egg_test", 
+        "04:03:string": "2", 
+        "05:04:Varint": 137165, 
+        "06:05:Varint": 17494, 
+        "07:06:string": "0;0", 
+        "08:07:Varint": 137166, 
+        "09:08:Varint": 137165
+    }
+}

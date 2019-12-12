@@ -1,0 +1,124 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125073, 
+        "03:02:string": "test_talent_position_1", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 6, 
+        "05:05:Varint": 10
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125074, 
+        "03:02:string": "test_talent_position_2", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 6, 
+        "05:05:Varint": 7
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125075, 
+        "03:02:string": "test_talent_position_3", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 7, 
+        "05:05:Varint": 8
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125076, 
+        "03:02:string": "test_talent_position_4", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 8, 
+        "05:05:Varint": 9
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125077, 
+        "03:02:string": "test_talent_position_5", 
+        "04:03:Varint": 5, 
+        "05:04:Varint": 9, 
+        "05:05:Varint": 10
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125078, 
+        "03:02:string": "test_talent_position_6", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 11, 
+        "05:05:Varint": 15
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125079, 
+        "03:02:string": "test_talent_position_7", 
+        "04:03:Varint": 7, 
+        "05:04:Varint": 11, 
+        "05:05:Varint": 12
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125080, 
+        "03:02:string": "test_talent_position_8", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 12, 
+        "05:05:Varint": 13
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125081, 
+        "03:02:string": "test_talent_position_9", 
+        "04:03:Varint": 9, 
+        "05:04:Varint": 13, 
+        "05:05:Varint": 14
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125082, 
+        "03:02:string": "test_talent_position_10", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 14, 
+        "05:05:Varint": 15
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125083, 
+        "03:02:string": "test_talent_position_11", 
+        "04:03:Varint": 11, 
+        "05:04:Varint": 16
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125084, 
+        "03:02:string": "test_talent_position_12", 
+        "04:03:Varint": 12, 
+        "05:04:Varint": 16
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125085, 
+        "03:02:string": "test_talent_position_13", 
+        "04:03:Varint": 13, 
+        "05:04:Varint": 16
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125086, 
+        "03:02:string": "test_talent_position_14", 
+        "04:03:Varint": 14, 
+        "05:04:Varint": 16
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125087, 
+        "03:02:string": "test_talent_position_15", 
+        "04:03:Varint": 15, 
+        "05:04:Varint": 16
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 256, 
+        "02:01:Varint": 125088, 
+        "03:02:string": "test_talent_position_16", 
+        "04:03:Varint": 16, 
+        "05:04:Varint": 0
+    }
+}

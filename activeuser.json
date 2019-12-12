@@ -1,0 +1,66 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 257, 
+        "02:01:Varint": 132080, 
+        "03:02:string": "activeusertest", 
+        "04:03:Varint": 99999, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 132234
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 257, 
+        "02:01:Varint": 132081, 
+        "03:02:string": "activeusertest1", 
+        "04:03:Varint": 99999, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 132235
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 257, 
+        "02:01:Varint": 132237, 
+        "03:02:string": "activeusertest2", 
+        "04:03:Varint": 99999, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 132236
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 257, 
+        "02:01:Varint": 133691, 
+        "03:02:string": "activeuser1", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 133696
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 257, 
+        "02:01:Varint": 133692, 
+        "03:02:string": "activeuser2", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 133697
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 257, 
+        "02:01:Varint": 133693, 
+        "03:02:string": "activeuser3", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 133698
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 257, 
+        "02:01:Varint": 133694, 
+        "03:02:string": "activeuser4", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 133699
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 257, 
+        "02:01:Varint": 133695, 
+        "03:02:string": "activeuser5", 
+        "04:03:Varint": 10, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 133700
+    }
+}

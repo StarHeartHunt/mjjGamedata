@@ -1,0 +1,44 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 56, 
+        "02:01:Varint": 22031, 
+        "03:02:embedded message": {
+            "08:00:64-bit": 9.242110388261198e-72
+        }, 
+        "04:03:Varint": 22032, 
+        "05:04:Varint": 22033, 
+        "06:05:Varint": 1, 
+        "07:06:Varint": 0
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 56, 
+        "02:01:Varint": 36223, 
+        "03:02:embedded message": {
+            "08:00:64-bit": 6.056909464050859e-67
+        }, 
+        "04:03:Varint": 36221, 
+        "05:04:Varint": 36219, 
+        "06:05:Varint": 1, 
+        "07:06:Varint": 0
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 56, 
+        "02:01:Varint": 36224, 
+        "03:02:embedded message": {
+            "08:00:64-bit": 3.969456186360371e-62
+        }, 
+        "04:03:Varint": 36222, 
+        "05:04:Varint": 36220, 
+        "06:05:Varint": 1, 
+        "07:06:Varint": 3
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 56, 
+        "02:01:Varint": 39716, 
+        "03:02:string": "AI_HEALING", 
+        "04:03:Varint": 39715, 
+        "05:04:Varint": 36219, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 2
+    }
+}

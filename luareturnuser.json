@@ -1,0 +1,22 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 267, 
+        "02:01:Varint": 135110, 
+        "03:02:string": "returnuser_1", 
+        "04:03:Varint": 134204, 
+        "04:04:Varint": 134207, 
+        "04:05:Varint": 134210, 
+        "04:06:Varint": 134213, 
+        "04:07:Varint": 134216, 
+        "05:08:Varint": 135140, 
+        "06:09:Varint": 135140, 
+        "07:10:Varint": 2365, 
+        "08:11:Varint": 5, 
+        "09:12:Varint": 104, 
+        "09:13:Varint": 108, 
+        "10:14:Varint": 104, 
+        "10:15:Varint": 108, 
+        "11:16:Varint": 50, 
+        "11:17:Varint": 10000
+    }
+}

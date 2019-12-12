@@ -1,0 +1,15 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 265, 
+        "02:01:Varint": 135112, 
+        "03:02:string": "callback_1", 
+        "04:03:Varint": 2019, 
+        "04:04:Varint": 6, 
+        "04:05:Varint": 5, 
+        "04:06:Varint": 0, 
+        "04:07:Varint": 0, 
+        "04:08:Varint": 0, 
+        "05:09:Varint": 135110, 
+        "06:10:Varint": 135111
+    }
+}

@@ -1,0 +1,920 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 49650, 
+        "03:02:string": "assistantnpc_test", 
+        "04:03:Varint": 50042, 
+        "05:04:Varint": 1, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 49946, 
+        "03:02:string": "assistantnpc_4_2", 
+        "04:03:Varint": 50042, 
+        "05:04:Varint": 34, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 49958, 
+        "03:02:string": "assistantnpc_test_2", 
+        "04:03:Varint": 50042, 
+        "05:04:Varint": 42, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50347, 
+        "03:02:string": "assistantnpc_2_5", 
+        "04:03:Varint": 50329, 
+        "05:04:Varint": 20, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50348, 
+        "03:02:string": "assistantnpc_2_6", 
+        "04:03:Varint": 50330, 
+        "05:04:Varint": 20, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50349, 
+        "03:02:string": "assistantnpc_3_5", 
+        "04:03:Varint": 50331, 
+        "05:04:Varint": 30, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50350, 
+        "03:02:string": "assistantnpc_3_6", 
+        "04:03:Varint": 50332, 
+        "05:04:Varint": 30, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50351, 
+        "03:02:string": "assistantnpc_4_4", 
+        "04:03:Varint": 50333, 
+        "05:04:Varint": 35, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50352, 
+        "03:02:string": "assistantnpc_4_6", 
+        "04:03:Varint": 50334, 
+        "05:04:Varint": 35, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50353, 
+        "03:02:string": "assistantnpc_5_4_1", 
+        "04:03:Varint": 50335, 
+        "05:04:Varint": 45, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:100:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112207, 
+        "03:02:string": "assistantnpc_2018_07_13_8", 
+        "04:03:Varint": 112198, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:101:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 120812, 
+        "03:02:string": "assistantnpc_2018_11_09_01", 
+        "04:03:Varint": 120813, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50366, 
+        "03:02:string": "assistantnpc_5_4_2", 
+        "04:03:Varint": 50336, 
+        "05:04:Varint": 45, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50354, 
+        "03:02:string": "assistantnpc_6_2", 
+        "04:03:Varint": 50337, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50355, 
+        "03:02:string": "assistantnpc_6_6", 
+        "04:03:Varint": 50338, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50356, 
+        "03:02:string": "assistantnpc_6_7_1", 
+        "04:03:Varint": 50341, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50358, 
+        "03:02:string": "assistantnpc_6_7_2", 
+        "04:03:Varint": 50342, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50361, 
+        "03:02:string": "assistantnpc_6_7_3", 
+        "04:03:Varint": 50343, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50362, 
+        "03:02:string": "assistantnpc_6_7_4", 
+        "04:03:Varint": 50344, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50357, 
+        "03:02:string": "assistantnpc_6_8_1", 
+        "04:03:Varint": 50341, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50363, 
+        "03:02:string": "assistantnpc_6_8_2", 
+        "04:03:Varint": 50342, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50364, 
+        "03:02:string": "assistantnpc_6_8_3", 
+        "04:03:Varint": 50343, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50365, 
+        "03:02:string": "assistantnpc_6_8_4", 
+        "04:03:Varint": 50344, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50720, 
+        "03:02:string": "assistantnpc_4_4_1", 
+        "04:03:Varint": 50718, 
+        "05:04:Varint": 35, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50816, 
+        "03:02:string": "assistantnpc_4_6_1", 
+        "04:03:Varint": 50814, 
+        "05:04:Varint": 35, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50821, 
+        "03:02:string": "assistantnpc_4_7_1", 
+        "04:03:Varint": 50815, 
+        "05:04:Varint": 35, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 50822, 
+        "03:02:string": "assistantnpc_4_7_2", 
+        "04:03:Varint": 50817, 
+        "05:04:Varint": 35, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 51229, 
+        "03:02:string": "assistantnpc_1_5", 
+        "04:03:Varint": 51228, 
+        "05:04:Varint": 10, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:26:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 55334, 
+        "03:02:string": "assistantnpc_2", 
+        "04:03:Varint": 50329, 
+        "05:04:Varint": 20, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:27:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 55335, 
+        "03:02:string": "assistantnpc_5", 
+        "04:03:Varint": 50336, 
+        "05:04:Varint": 40, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:28:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 55336, 
+        "03:02:string": "assistantnpc_6", 
+        "04:03:Varint": 50335, 
+        "05:04:Varint": 40, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:29:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 55337, 
+        "03:02:string": "assistantnpc_7", 
+        "04:03:Varint": 50042, 
+        "05:04:Varint": 34, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:30:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 56330, 
+        "03:02:string": "assistantnpc_8", 
+        "04:03:Varint": 56329, 
+        "05:04:Varint": 15, 
+        "06:05:Varint": 1, 
+        "07:06:Varint": 1
+    }, 
+    "01:31:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 56687, 
+        "03:02:string": "assistantnpc_9", 
+        "04:03:Varint": 56686, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 1, 
+        "07:06:Varint": 1
+    }, 
+    "01:32:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 61275, 
+        "03:02:string": "assistantnpc_804_1", 
+        "04:03:Varint": 61273, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:33:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 61276, 
+        "03:02:string": "assistantnpc_804_2", 
+        "04:03:Varint": 61274, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:34:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 65968, 
+        "03:02:string": "assistantnpc_910_1", 
+        "04:03:Varint": 65959, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:35:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 65969, 
+        "03:02:string": "assistantnpc_910_2", 
+        "04:03:Varint": 65961, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:36:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 65970, 
+        "03:02:string": "assistantnpc_910_3", 
+        "04:03:Varint": 65962, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:37:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 65971, 
+        "03:02:string": "assistantnpc_910_4", 
+        "04:03:Varint": 65964, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:38:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 65972, 
+        "03:02:string": "assistantnpc_910_5", 
+        "04:03:Varint": 65967, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:39:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 80977, 
+        "03:02:string": "assistnpc_event_bingyu", 
+        "04:03:Varint": 80976, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:40:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 80979, 
+        "03:02:string": "assistnpc_event_tiangang", 
+        "04:03:Varint": 80978, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:41:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81357, 
+        "03:02:string": "assistnpc_B_tiangang_1", 
+        "04:03:Varint": 81315, 
+        "05:04:Varint": 20, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:42:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81358, 
+        "03:02:string": "assistnpc_B_tiangang_2", 
+        "04:03:Varint": 81316, 
+        "05:04:Varint": 30, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:43:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81359, 
+        "03:02:string": "assistnpc_B_tiangang_3", 
+        "04:03:Varint": 81317, 
+        "05:04:Varint": 40, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:44:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81360, 
+        "03:02:string": "assistnpc_B_tiangang_4", 
+        "04:03:Varint": 81318, 
+        "05:04:Varint": 45, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:45:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81361, 
+        "03:02:string": "assistnpc_B_tiangang_5", 
+        "04:03:Varint": 81319, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:46:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81362, 
+        "03:02:string": "assistnpc_B_tiangang_6", 
+        "04:03:Varint": 81320, 
+        "05:04:Varint": 55, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:47:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81363, 
+        "03:02:string": "assistnpc_B_tiangang_7", 
+        "04:03:Varint": 81321, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:48:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81364, 
+        "03:02:string": "assistnpc_B_tiangang_8", 
+        "04:03:Varint": 81322, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:49:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81365, 
+        "03:02:string": "assistnpc_B_bingyu_2", 
+        "04:03:Varint": 81323, 
+        "05:04:Varint": 30, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:50:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81366, 
+        "03:02:string": "assistnpc_B_bingyu_4", 
+        "04:03:Varint": 81324, 
+        "05:04:Varint": 45, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:51:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81367, 
+        "03:02:string": "assistnpc_B_bingyu_5", 
+        "04:03:Varint": 81325, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:52:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81368, 
+        "03:02:string": "assistnpc_B_bingyu_6", 
+        "04:03:Varint": 81326, 
+        "05:04:Varint": 55, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:53:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81369, 
+        "03:02:string": "assistnpc_B_bingyu_7", 
+        "04:03:Varint": 81327, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:54:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81370, 
+        "03:02:string": "assistnpc_B_bingyu_8", 
+        "04:03:Varint": 81328, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:55:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81371, 
+        "03:02:string": "assistnpc_Q_tiangang_1", 
+        "04:03:Varint": 81329, 
+        "05:04:Varint": 20, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:56:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81372, 
+        "03:02:string": "assistnpc_Q_tiangang_2", 
+        "04:03:Varint": 81330, 
+        "05:04:Varint": 30, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:57:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81373, 
+        "03:02:string": "assistnpc_Q_tiangang_3", 
+        "04:03:Varint": 81331, 
+        "05:04:Varint": 40, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:58:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81374, 
+        "03:02:string": "assistnpc_Q_tiangang_4", 
+        "04:03:Varint": 81332, 
+        "05:04:Varint": 45, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:59:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81375, 
+        "03:02:string": "assistnpc_Q_tiangang_5", 
+        "04:03:Varint": 81333, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:60:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81376, 
+        "03:02:string": "assistnpc_Q_tiangang_6", 
+        "04:03:Varint": 81335, 
+        "05:04:Varint": 55, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:61:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 81377, 
+        "03:02:string": "assistnpc_Q_tiangang_8", 
+        "04:03:Varint": 81337, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:62:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109418, 
+        "03:02:string": "random_enhance_1", 
+        "04:03:Varint": 8, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:63:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109419, 
+        "03:02:string": "random_enhance_2", 
+        "04:03:Varint": 166, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:64:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109420, 
+        "03:02:string": "random_enhance_3", 
+        "04:03:Varint": 228, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:65:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109421, 
+        "03:02:string": "random_enhance_4", 
+        "04:03:Varint": 1323, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:66:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109422, 
+        "03:02:string": "random_enhance_5", 
+        "04:03:Varint": 1335, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:67:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109423, 
+        "03:02:string": "random_enhance_6", 
+        "04:03:Varint": 1341, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:68:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109424, 
+        "03:02:string": "random_enhance_7", 
+        "04:03:Varint": 1371, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:69:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109425, 
+        "03:02:string": "random_enhance_8", 
+        "04:03:Varint": 1377, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:70:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109426, 
+        "03:02:string": "random_enhance_9", 
+        "04:03:Varint": 2749, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:71:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109427, 
+        "03:02:string": "random_enhance_10", 
+        "04:03:Varint": 3153, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:72:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109428, 
+        "03:02:string": "random_enhance_11", 
+        "04:03:Varint": 3159, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:73:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109429, 
+        "03:02:string": "random_enhance_12", 
+        "04:03:Varint": 34, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:74:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109430, 
+        "03:02:string": "random_enhance_13", 
+        "04:03:Varint": 36990, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:75:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109431, 
+        "03:02:string": "random_enhance_14", 
+        "04:03:Varint": 21468, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:76:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109432, 
+        "03:02:string": "random_enhance_15", 
+        "04:03:Varint": 36993, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:77:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109433, 
+        "03:02:string": "random_enhance_16", 
+        "04:03:Varint": 13347, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:78:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109434, 
+        "03:02:string": "random_enhance_17", 
+        "04:03:Varint": 74481, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:79:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109435, 
+        "03:02:string": "random_enhance_18", 
+        "04:03:Varint": 74490, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:80:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109436, 
+        "03:02:string": "random_enhance_19", 
+        "04:03:Varint": 80281, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:81:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109437, 
+        "03:02:string": "random_enhance_20", 
+        "04:03:Varint": 74881, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:82:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109438, 
+        "03:02:string": "random_enhance_21", 
+        "04:03:Varint": 74216, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:83:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109439, 
+        "03:02:string": "random_enhance_22", 
+        "04:03:Varint": 87522, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:84:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109440, 
+        "03:02:string": "random_enhance_23", 
+        "04:03:Varint": 89308, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:85:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109441, 
+        "03:02:string": "random_enhance_24", 
+        "04:03:Varint": 89311, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:86:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109442, 
+        "03:02:string": "random_enhance_25", 
+        "04:03:Varint": 89314, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:87:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109443, 
+        "03:02:string": "random_enhance_26", 
+        "04:03:Varint": 1375, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:88:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109444, 
+        "03:02:string": "random_enhance_27", 
+        "04:03:Varint": 13344, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:89:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109445, 
+        "03:02:string": "random_enhance_28", 
+        "04:03:Varint": 3193, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:90:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109446, 
+        "03:02:string": "random_enhance_29", 
+        "04:03:Varint": 2747, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:91:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 109447, 
+        "03:02:string": "random_enhance_30", 
+        "04:03:Varint": 3115, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 8, 
+        "07:06:Varint": 1
+    }, 
+    "01:92:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112199, 
+        "03:02:string": "assistantnpc_2018_07_13_1_1", 
+        "04:03:Varint": 112190, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:93:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112200, 
+        "03:02:string": "assistantnpc_2018_07_13_1_2", 
+        "04:03:Varint": 112191, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:94:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112201, 
+        "03:02:string": "assistantnpc_2018_07_13_1_3", 
+        "04:03:Varint": 112192, 
+        "05:04:Varint": 50, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:95:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112202, 
+        "03:02:string": "assistantnpc_2018_07_13_3", 
+        "04:03:Varint": 112193, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:96:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112203, 
+        "03:02:string": "assistantnpc_2018_07_13_4", 
+        "04:03:Varint": 112194, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:97:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112204, 
+        "03:02:string": "assistantnpc_2018_07_13_6_1", 
+        "04:03:Varint": 112195, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:98:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112205, 
+        "03:02:string": "assistantnpc_2018_07_13_6_2", 
+        "04:03:Varint": 112196, 
+        "05:04:Varint": 60, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }, 
+    "01:99:embedded message": {
+        "01:00:Varint": 86, 
+        "02:01:Varint": 112206, 
+        "03:02:string": "assistantnpc_2018_07_13_7", 
+        "04:03:Varint": 112197, 
+        "05:04:Varint": 70, 
+        "06:05:Varint": 9, 
+        "07:06:Varint": 1
+    }
+}

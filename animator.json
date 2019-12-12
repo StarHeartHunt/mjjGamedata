@@ -1,0 +1,30 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 82, 
+        "02:01:Varint": 45107, 
+        "03:02:string": "qizi_up_attack_01", 
+        "04:03:string": "qizi_up_attack_01", 
+        "05:04:32-bit": 0.3499999940395355
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 82, 
+        "02:01:Varint": 45108, 
+        "03:02:string": "qizi_down_attack_01", 
+        "04:03:string": "qizi_down_attack_01", 
+        "05:04:32-bit": 0.3499999940395355
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 82, 
+        "02:01:Varint": 45109, 
+        "03:02:string": "qizi_left_attack_01", 
+        "04:03:string": "qizi_left_attack_01", 
+        "05:04:32-bit": 0.3499999940395355
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 82, 
+        "02:01:Varint": 45110, 
+        "03:02:string": "qizi_right_attack_01", 
+        "04:03:string": "qizi_right_attack_01", 
+        "05:04:32-bit": 0.3499999940395355
+    }
+}
