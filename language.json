@@ -14143,8 +14143,8 @@
         "01:00:Varint": 53, 
         "02:01:Varint": 109239, 
         "03:02:string": "LANGUAGE_NameStr_8386", 
-        "04:03:string": "玩家寻得五花角色时，必定为寻梦中尚未获得的五花。如果卡池中五花均已寻得，则必遇“寒玉金铃”次数：", 
-        "05:04:string": "待翻译", 
+        "04:03:string": "玩家寻得五花角色时，必定为寻梦中尚未获得的五花。次数：", 
+        "05:04:string": "玩家寻得五花角色时，必定为寻梦中尚未获得的五花。如果卡池中五花均已寻得，则必遇“寒玉金铃”次数：", 
         "06:05:string": "測試", 
         "07:06:string": "Test"
     }, 
@@ -16753,7 +16753,7 @@
         "01:00:Varint": 53, 
         "02:01:Varint": 130255, 
         "03:02:string": "LANGUAGE_NameStr_8650", 
-        "04:03:string": "信物所需剑玉不足", 
+        "04:03:string": "资源不足", 
         "05:04:string": "待翻译", 
         "06:05:string": "測試", 
         "07:06:string": "Test"
@@ -17370,11 +17370,119 @@
         "06:05:string": "測試", 
         "07:06:string": "Test"
     }, 
+    "01:2728:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 138673, 
+        "03:02:string": "LANGUAGE_NameStr_8712", 
+        "04:03:string": "购买Q版明光圣火礼包获得", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2729:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139057, 
+        "03:02:string": "LANGUAGE_NameStr_8713", 
+        "04:03:string": "天赋点已达到上限", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
     "01:272:embedded message": {
         "01:00:Varint": 53, 
         "02:01:Varint": 19774, 
         "03:02:string": "LANGUAGE_NameStr_4892", 
         "04:03:string": "关卡挑战失败\t ", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2730:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139166, 
+        "03:02:string": "LANGUAGE_NameStr_8714", 
+        "04:03:string": "角色信息错误", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2731:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139167, 
+        "03:02:string": "LANGUAGE_NameStr_8715", 
+        "04:03:string": "该玩家不符合邀请要求，请填写正确的回归玩家UID。", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2732:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139168, 
+        "03:02:string": "LANGUAGE_NameStr_8716", 
+        "04:03:string": "您已邀请过该玩家", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2733:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139169, 
+        "03:02:string": "LANGUAGE_NameStr_8717", 
+        "04:03:string": "邀请信息错误，请接收其他玩家的邀请。", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2734:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139170, 
+        "03:02:string": "LANGUAGE_NameStr_8718", 
+        "04:03:string": "邀请人数已达上限", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2735:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139171, 
+        "03:02:string": "LANGUAGE_NameStr_8719", 
+        "04:03:string": "该玩家接收的邀请已达上限，请邀请其他回归玩家。", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2736:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139172, 
+        "03:02:string": "LANGUAGE_NameStr_8720", 
+        "04:03:string": "您仅可接受一位玩家的邀请", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2737:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139173, 
+        "03:02:string": "LANGUAGE_NameStr_8721", 
+        "04:03:string": "该活跃玩家已达到成功邀请上限，请接收其他玩家的邀请。", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2738:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139192, 
+        "03:02:string": "LANGUAGE_NameStr_8722", 
+        "04:03:string": "该玩家已接受他人邀请。", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2739:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139639, 
+        "03:02:string": "LANGUAGE_NameStr_8723", 
+        "04:03:string": "礼物角色组不存在", 
         "05:04:string": "待翻译", 
         "06:05:string": "測試", 
         "07:06:string": "Test"
@@ -17388,6 +17496,96 @@
         "06:05:string": "測試", 
         "07:06:string": "Test"
     }, 
+    "01:2740:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139640, 
+        "03:02:string": "LANGUAGE_NameStr_8724", 
+        "04:03:string": "礼物不存在", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2741:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139641, 
+        "03:02:string": "LANGUAGE_NameStr_8725", 
+        "04:03:string": "礼物暂时无法使用", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2742:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139642, 
+        "03:02:string": "LANGUAGE_NameStr_8726", 
+        "04:03:string": "头像框未在期限内", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2743:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139643, 
+        "03:02:string": "LANGUAGE_NameStr_8727", 
+        "04:03:string": "该曲目已存在", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2744:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 139644, 
+        "03:02:string": "LANGUAGE_NameStr_8728", 
+        "04:03:string": "气力已达到最大值", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2745:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 141433, 
+        "03:02:string": "LANGUAGE_NameStr_8729", 
+        "04:03:string": "在『星罗棋布』活动中获得", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2746:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 142801, 
+        "03:02:string": "LANGUAGE_NameStr_8730", 
+        "04:03:string": "第%s日", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2747:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 142817, 
+        "03:02:string": "LANGUAGE_NameStr_8731", 
+        "04:03:string": "在“四象之战”活动中获得", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2748:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 142822, 
+        "03:02:string": "LANGUAGE_NameStr_8732", 
+        "04:03:string": "梦辰华典II线下活动中获得", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2749:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 144897, 
+        "03:02:string": "LANGUAGE_NameStr_8733", 
+        "04:03:string": "累计登陆300天获得", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
     "01:274:embedded message": {
         "01:00:Varint": 53, 
         "02:01:Varint": 19776, 
@@ -17397,11 +17595,119 @@
         "06:05:string": "測試", 
         "07:06:string": "Test"
     }, 
+    "01:2750:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 155221, 
+        "03:02:string": "LANGUAGE_NameStr_8734", 
+        "04:03:string": "第三赛季第一名奖励", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2751:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 155222, 
+        "03:02:string": "LANGUAGE_NameStr_8735", 
+        "04:03:string": "第三赛季第二名奖励", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2752:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 155223, 
+        "03:02:string": "LANGUAGE_NameStr_8736", 
+        "04:03:string": "第三赛季第三名奖励", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2753:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 156604, 
+        "03:02:string": "LANGUAGE_NameStr_8737", 
+        "04:03:string": "是否消耗一枚{0}进入{1}？", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2754:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 157070, 
+        "03:02:string": "LANGUAGE_NameStr_8738", 
+        "04:03:string": "第四赛季第一名奖励", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2755:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 157071, 
+        "03:02:string": "LANGUAGE_NameStr_8739", 
+        "04:03:string": "第四赛季第二名奖励", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2756:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 157072, 
+        "03:02:string": "LANGUAGE_NameStr_8740", 
+        "04:03:string": "第四赛季第三名奖励", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2757:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 157075, 
+        "03:02:string": "LANGUAGE_NameStr_8741", 
+        "04:03:string": "购买『Q版逆雪礼包』获得", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2758:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 158999, 
+        "03:02:string": "LANGUAGE_NameStr_8750", 
+        "04:03:string": "您的账号已转移", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2759:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 161729, 
+        "03:02:string": "LANGUAGE_NameStr_8783", 
+        "04:03:string": "第五赛季第一名奖励", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
     "01:275:embedded message": {
         "01:00:Varint": 53, 
         "02:01:Varint": 19777, 
         "03:02:string": "LANGUAGE_NameStr_4895", 
         "04:03:string": "对方好友数已达上限。", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2760:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 161730, 
+        "03:02:string": "LANGUAGE_NameStr_8784", 
+        "04:03:string": "第五赛季第二名奖励", 
+        "05:04:string": "待翻译", 
+        "06:05:string": "測試", 
+        "07:06:string": "Test"
+    }, 
+    "01:2761:embedded message": {
+        "01:00:Varint": 53, 
+        "02:01:Varint": 161731, 
+        "03:02:string": "LANGUAGE_NameStr_8785", 
+        "04:03:string": "第五赛季第三名奖励", 
         "05:04:string": "待翻译", 
         "06:05:string": "測試", 
         "07:06:string": "Test"

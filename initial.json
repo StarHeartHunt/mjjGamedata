@@ -189,8 +189,7 @@
         "03:02:string": "Player_Default_Type", 
         "04:03:Varint": 0, 
         "05:04:32-bit": 0.0, 
-        "06:05:Varint": 108, 
-        "06:06:Varint": 205
+        "06:05:Varint": 108
     }, 
     "01:24:embedded message": {
         "01:00:Varint": 15, 
@@ -198,8 +197,7 @@
         "03:02:string": "Player_Default_ID", 
         "04:03:Varint": 0, 
         "05:04:32-bit": 0.0, 
-        "06:05:Varint": 108, 
-        "06:06:Varint": 132054
+        "06:05:Varint": 108
     }, 
     "01:25:embedded message": {
         "01:00:Varint": 15, 
@@ -207,7 +205,6 @@
         "03:02:string": "Player_Default_Value", 
         "04:03:Varint": 0, 
         "05:04:32-bit": 0.0, 
-        "06:05:Varint": 2000, 
-        "06:06:Varint": 40
+        "06:05:Varint": 2000
     }
 }

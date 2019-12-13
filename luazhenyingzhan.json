@@ -1,0 +1,17 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 270, 
+        "02:01:Varint": 137327, 
+        "03:02:string": "zhenyingzhan_1", 
+        "04:03:Varint": 139318, 
+        "05:04:Varint": 137323, 
+        "05:05:Varint": 137324, 
+        "05:06:Varint": 137325, 
+        "05:07:Varint": 137326, 
+        "06:08:Varint": 138601, 
+        "07:09:Varint": 10, 
+        "08:10:Varint": 20, 
+        "09:11:Varint": 1, 
+        "10:12:Varint": 138541
+    }
+}

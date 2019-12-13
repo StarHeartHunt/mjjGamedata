@@ -55,8 +55,8 @@
         "01:00:Varint": 235, 
         "02:01:Varint": 111479, 
         "03:02:string": "xiaomi_hongmi", 
-        "04:03:Varint": 1440, 
-        "05:04:Varint": 720, 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
         "06:05:Varint": 132
     }, 
     "01:07:embedded message": {
@@ -111,16 +111,16 @@
         "01:00:Varint": 235, 
         "02:01:Varint": 118985, 
         "03:02:string": "fit_7", 
-        "04:03:Varint": 1440, 
-        "05:04:Varint": 720, 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
         "06:05:Varint": 132
     }, 
     "01:14:embedded message": {
         "01:00:Varint": 235, 
         "02:01:Varint": 118986, 
         "03:02:string": "fit_8", 
-        "04:03:Varint": 1520, 
-        "05:04:Varint": 720, 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
         "06:05:Varint": 132
     }, 
     "01:15:embedded message": {
@@ -143,8 +143,8 @@
         "01:00:Varint": 235, 
         "02:01:Varint": 118989, 
         "03:02:string": "fit_11", 
-        "04:03:Varint": 1792, 
-        "05:04:Varint": 828, 
+        "04:03:Varint": 0, 
+        "05:04:Varint": 0, 
         "06:05:Varint": 132
     }, 
     "01:18:embedded message": {

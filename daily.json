@@ -768,5 +768,25 @@
             "06:01:Varint": 59
         }, 
         "14:14:Varint": 10020
+    }, 
+    "01:43:embedded message": {
+        "01:00:Varint": 25, 
+        "02:01:Varint": 139151, 
+        "03:02:string": "BGM_task", 
+        "04:03:Varint": 139156, 
+        "05:04:Varint": 139155, 
+        "06:05:Varint": 1, 
+        "06:06:Varint": 0, 
+        "07:07:Varint": 1, 
+        "08:08:Varint": 21, 
+        "09:09:Varint": 1, 
+        "10:10:Varint": 205, 
+        "11:11:Varint": 139149, 
+        "12:12:Varint": 5, 
+        "13:13:embedded message": {
+            "06:00:Varint": 44, 
+            "06:01:Varint": 59
+        }, 
+        "14:14:Varint": 10020
     }
 }

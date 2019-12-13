@@ -282,10 +282,10 @@
         "03:02:string": "zhounianqing_3", 
         "04:03:Varint": 108, 
         "04:04:Varint": 103, 
-        "04:05:Varint": 1, 
+        "04:05:Varint": 78, 
         "05:06:Varint": 108, 
         "05:07:Varint": 103, 
-        "05:08:Varint": 3426, 
+        "05:08:Varint": 40751, 
         "06:09:Varint": 5000, 
         "06:10:Varint": 100, 
         "06:11:Varint": 1

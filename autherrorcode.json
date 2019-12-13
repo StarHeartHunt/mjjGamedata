@@ -145,5 +145,12 @@
         "03:02:string": "AuthErrorCode23", 
         "04:03:Varint": 22, 
         "05:04:Varint": 112681
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 99, 
+        "02:01:Varint": 158998, 
+        "03:02:string": "AuthErrorCode24", 
+        "04:03:Varint": 23, 
+        "05:04:Varint": 158999
     }
 }

@@ -1,0 +1,54 @@
+{
+    "01:00:embedded message": {
+        "01:00:Varint": 274, 
+        "02:01:Varint": 141440, 
+        "03:02:string": "rank_1", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 75, 
+        "05:05:Varint": 108, 
+        "06:06:Varint": 141544, 
+        "06:07:Varint": 108, 
+        "07:08:Varint": 2, 
+        "07:09:Varint": 50000, 
+        "08:10:Varint": 138545
+    }, 
+    "01:01:embedded message": {
+        "01:00:Varint": 274, 
+        "02:01:Varint": 141441, 
+        "03:02:string": "rank_2", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 75, 
+        "05:05:Varint": 108, 
+        "06:06:Varint": 141544, 
+        "06:07:Varint": 108, 
+        "07:08:Varint": 1, 
+        "07:09:Varint": 40000, 
+        "08:10:Varint": 138546
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 274, 
+        "02:01:Varint": 141442, 
+        "03:02:string": "rank_3", 
+        "04:03:Varint": 3, 
+        "05:04:Varint": 75, 
+        "05:05:Varint": 108, 
+        "06:06:Varint": 141544, 
+        "06:07:Varint": 108, 
+        "07:08:Varint": 1, 
+        "07:09:Varint": 30000, 
+        "08:10:Varint": 138547
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 274, 
+        "02:01:Varint": 141443, 
+        "03:02:string": "rank_4", 
+        "04:03:Varint": 4, 
+        "05:04:Varint": 75, 
+        "05:05:Varint": 108, 
+        "06:06:Varint": 141544, 
+        "06:07:Varint": 108, 
+        "07:08:Varint": 1, 
+        "07:09:Varint": 20000, 
+        "08:10:Varint": 138548
+    }
+}

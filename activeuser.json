@@ -27,7 +27,7 @@
         "01:00:Varint": 257, 
         "02:01:Varint": 133691, 
         "03:02:string": "activeuser1", 
-        "04:03:Varint": 2, 
+        "04:03:Varint": 100, 
         "05:04:Varint": 1, 
         "06:05:Varint": 133696
     }, 
@@ -35,7 +35,7 @@
         "01:00:Varint": 257, 
         "02:01:Varint": 133692, 
         "03:02:string": "activeuser2", 
-        "04:03:Varint": 4, 
+        "04:03:Varint": 200, 
         "05:04:Varint": 0, 
         "06:05:Varint": 133697
     }, 
@@ -43,7 +43,7 @@
         "01:00:Varint": 257, 
         "02:01:Varint": 133693, 
         "03:02:string": "activeuser3", 
-        "04:03:Varint": 6, 
+        "04:03:Varint": 300, 
         "05:04:Varint": 0, 
         "06:05:Varint": 133698
     }, 
@@ -51,7 +51,7 @@
         "01:00:Varint": 257, 
         "02:01:Varint": 133694, 
         "03:02:string": "activeuser4", 
-        "04:03:Varint": 8, 
+        "04:03:Varint": 400, 
         "05:04:Varint": 0, 
         "06:05:Varint": 133699
     }, 
@@ -59,7 +59,7 @@
         "01:00:Varint": 257, 
         "02:01:Varint": 133695, 
         "03:02:string": "activeuser5", 
-        "04:03:Varint": 10, 
+        "04:03:Varint": 500, 
         "05:04:Varint": 0, 
         "06:05:Varint": 133700
     }
