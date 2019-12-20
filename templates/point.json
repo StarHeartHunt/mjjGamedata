@@ -1,12 +1,237 @@
 {
     "01:00:embedded message": {
-        "01:00:Varint": 1005, 
-        "02:01:Varint": 36667, 
-        "03:02:string": "TEST_POINT_1"
+        "01:00:Varint": 13, 
+        "02:01:Varint": 100, 
+        "03:02:string": "WEAK_1", 
+        "04:03:Varint": 1
     }, 
     "01:01:embedded message": {
-        "01:00:Varint": 1005, 
-        "02:01:Varint": 36668, 
-        "03:02:string": "TEST_POINT_2"
+        "01:00:Varint": 13, 
+        "02:01:Varint": 101, 
+        "03:02:string": "WEAK_2", 
+        "04:03:Varint": 2
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 102, 
+        "03:02:string": "WEAK_3", 
+        "04:03:Varint": 3
+    }, 
+    "01:03:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 103, 
+        "03:02:string": "WEAK_4", 
+        "04:03:Varint": 4
+    }, 
+    "01:04:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 104, 
+        "03:02:string": "WEAK_5", 
+        "04:03:Varint": 5
+    }, 
+    "01:05:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 105, 
+        "03:02:string": "WEAK_6", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 2
+    }, 
+    "01:06:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 106, 
+        "03:02:string": "WEAK_7", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 3
+    }, 
+    "01:07:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 107, 
+        "03:02:string": "WEAK_8", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 4
+    }, 
+    "01:08:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 108, 
+        "03:02:string": "WEAK_9", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 5
+    }, 
+    "01:09:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 109, 
+        "03:02:string": "WEAK_10", 
+        "04:03:Varint": 2, 
+        "04:04:Varint": 3
+    }, 
+    "01:10:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 110, 
+        "03:02:string": "WEAK_11", 
+        "04:03:Varint": 2, 
+        "04:04:Varint": 4
+    }, 
+    "01:11:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 111, 
+        "03:02:string": "WEAK_12", 
+        "04:03:Varint": 2, 
+        "04:04:Varint": 5
+    }, 
+    "01:12:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 112, 
+        "03:02:string": "WEAK_13", 
+        "04:03:Varint": 3, 
+        "04:04:Varint": 4
+    }, 
+    "01:13:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 113, 
+        "03:02:string": "WEAK_14", 
+        "04:03:Varint": 3, 
+        "04:04:Varint": 5
+    }, 
+    "01:14:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 114, 
+        "03:02:string": "WEAK_15", 
+        "04:03:Varint": 4, 
+        "04:04:Varint": 5
+    }, 
+    "01:15:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 115, 
+        "03:02:string": "WEAK_16", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 2, 
+        "04:05:Varint": 3
+    }, 
+    "01:16:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 116, 
+        "03:02:string": "WEAK_17", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 2, 
+        "04:05:Varint": 4
+    }, 
+    "01:17:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 117, 
+        "03:02:string": "WEAK_18", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 2, 
+        "04:05:Varint": 5
+    }, 
+    "01:18:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 118, 
+        "03:02:string": "WEAK_19", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 3, 
+        "04:05:Varint": 4
+    }, 
+    "01:19:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 119, 
+        "03:02:string": "WEAK_20", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 3, 
+        "04:05:Varint": 5
+    }, 
+    "01:20:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 120, 
+        "03:02:string": "WEAK_21", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 4, 
+        "04:05:Varint": 5
+    }, 
+    "01:21:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 121, 
+        "03:02:string": "WEAK_22", 
+        "04:03:Varint": 2, 
+        "04:04:Varint": 3, 
+        "04:05:Varint": 4
+    }, 
+    "01:22:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 122, 
+        "03:02:string": "WEAK_23", 
+        "04:03:Varint": 2, 
+        "04:04:Varint": 3, 
+        "04:05:Varint": 5
+    }, 
+    "01:23:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 123, 
+        "03:02:string": "WEAK_24", 
+        "04:03:Varint": 2, 
+        "04:04:Varint": 4, 
+        "04:05:Varint": 5
+    }, 
+    "01:24:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 124, 
+        "03:02:string": "WEAK_25", 
+        "04:03:Varint": 3, 
+        "04:04:Varint": 4, 
+        "04:05:Varint": 5
+    }, 
+    "01:25:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 125, 
+        "03:02:string": "WEAK_26", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 2, 
+        "04:05:Varint": 3, 
+        "04:06:Varint": 4
+    }, 
+    "01:26:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 126, 
+        "03:02:string": "WEAK_27", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 2, 
+        "04:05:Varint": 3, 
+        "04:06:Varint": 5
+    }, 
+    "01:27:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 127, 
+        "03:02:string": "WEAK_28", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 2, 
+        "04:05:Varint": 4, 
+        "04:06:Varint": 5
+    }, 
+    "01:28:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 128, 
+        "03:02:string": "WEAK_29", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 3, 
+        "04:05:Varint": 4, 
+        "04:06:Varint": 5
+    }, 
+    "01:29:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 129, 
+        "03:02:string": "WEAK_30", 
+        "04:03:Varint": 2, 
+        "04:04:Varint": 3, 
+        "04:05:Varint": 4, 
+        "04:06:Varint": 5
+    }, 
+    "01:30:embedded message": {
+        "01:00:Varint": 13, 
+        "02:01:Varint": 130, 
+        "03:02:string": "WEAK_31", 
+        "04:03:Varint": 1, 
+        "04:04:Varint": 2, 
+        "04:05:Varint": 3, 
+        "04:06:Varint": 4, 
+        "04:07:Varint": 5
     }
 }

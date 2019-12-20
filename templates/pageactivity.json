@@ -44,5 +44,28 @@
         "09:18:string": "https://nq.games.laohu.com/mjj0712/index.html?", 
         "10:19:string": "https://nq.games.laohu.com/mjj0712/index.html?", 
         "11:20:Varint": 3
+    }, 
+    "01:02:embedded message": {
+        "01:00:Varint": 245, 
+        "02:01:Varint": 159436, 
+        "03:02:string": "PAGEACTIVITY_8", 
+        "04:03:Varint": 2, 
+        "05:04:Varint": 2019, 
+        "05:05:Varint": 12, 
+        "05:06:Varint": 16, 
+        "05:07:Varint": 14, 
+        "05:08:Varint": 0, 
+        "05:09:Varint": 0, 
+        "06:10:Varint": 2019, 
+        "06:11:Varint": 12, 
+        "06:12:Varint": 29, 
+        "06:13:Varint": 23, 
+        "06:14:Varint": 59, 
+        "06:15:Varint": 59, 
+        "07:16:Varint": 100929, 
+        "08:17:Varint": 0, 
+        "09:18:string": "https://surveys.games.wanmei.com/survey/VNfu6j?", 
+        "10:19:string": "https://surveys.games.wanmei.com/survey/VNfu6j?", 
+        "11:20:Varint": 4
     }
 }

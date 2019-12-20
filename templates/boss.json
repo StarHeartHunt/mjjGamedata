@@ -805,7 +805,7 @@
         "03:02:string": "WorldBoss_1", 
         "04:03:Varint": 124038, 
         "05:04:Varint": 2, 
-        "06:05:Varint": 2160000, 
+        "06:05:Varint": 20000000, 
         "07:06:Varint": 76543, 
         "08:07:Varint": 1, 
         "09:08:Varint": 0, 

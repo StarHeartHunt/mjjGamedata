@@ -1833,6 +1833,48 @@
         "11:10:Varint": 0, 
         "12:11:Varint": 0
     }, 
+    "01:210:embedded message": {
+        "01:00:Varint": 250, 
+        "02:01:Varint": 161741, 
+        "03:02:string": "gift_skill_shifang", 
+        "04:03:Varint": 161747, 
+        "05:04:Varint": 161764, 
+        "06:05:Varint": 30611, 
+        "07:06:Varint": 30619, 
+        "08:07:Varint": 0, 
+        "09:08:32-bit": 0.0, 
+        "10:09:Varint": 3, 
+        "11:10:Varint": 161735, 
+        "12:11:Varint": 0
+    }, 
+    "01:211:embedded message": {
+        "01:00:Varint": 250, 
+        "02:01:Varint": 161742, 
+        "03:02:string": "gift_skill_fengming", 
+        "04:03:Varint": 161754, 
+        "05:04:Varint": 139375, 
+        "06:05:Varint": 30611, 
+        "07:06:Varint": 30619, 
+        "08:07:Varint": 0, 
+        "09:08:32-bit": 0.0, 
+        "10:09:Varint": 3, 
+        "11:10:Varint": 161739, 
+        "12:11:Varint": 0
+    }, 
+    "01:212:embedded message": {
+        "01:00:Varint": 250, 
+        "02:01:Varint": 161743, 
+        "03:02:string": "gift_fengming_passive", 
+        "04:03:Varint": 161753, 
+        "05:04:Varint": 163400, 
+        "06:05:Varint": 30606, 
+        "07:06:Varint": 30619, 
+        "08:07:Varint": 0, 
+        "09:08:32-bit": 0.0, 
+        "10:09:Varint": 2, 
+        "11:10:Varint": 0, 
+        "12:11:Varint": 161740
+    }, 
     "01:21:embedded message": {
         "01:00:Varint": 250, 
         "02:01:Varint": 128280, 

@@ -919,6 +919,56 @@
         "07:06:Varint": 1, 
         "08:07:Varint": 47865
     }, 
+    "01:1075:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163376, 
+        "03:02:string": "battle_star_condition_19_12_19_1", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 7, 
+        "08:07:Varint": 47857
+    }, 
+    "01:1076:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163377, 
+        "03:02:string": "battle_star_condition_19_12_19_2", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 2, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1077:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163378, 
+        "03:02:string": "battle_star_condition_19_12_19_3", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 47867
+    }, 
+    "01:1078:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163379, 
+        "03:02:string": "battle_star_condition_19_12_19_4", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 7, 
+        "08:07:Varint": 47857
+    }, 
+    "01:1079:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163380, 
+        "03:02:string": "battle_star_condition_19_12_19_5", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 2, 
+        "08:07:Varint": 47865
+    }, 
     "01:107:embedded message": {
         "01:00:Varint": 84, 
         "02:01:Varint": 48197, 
@@ -929,10 +979,200 @@
         "07:06:Varint": 9, 
         "08:07:Varint": 47857
     }, 
+    "01:1080:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163381, 
+        "03:02:string": "battle_star_condition_19_12_19_6", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 47867
+    }, 
+    "01:1081:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163382, 
+        "03:02:string": "battle_star_condition_19_12_19_7", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 7, 
+        "08:07:Varint": 47857
+    }, 
+    "01:1082:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163383, 
+        "03:02:string": "battle_star_condition_19_12_19_8", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 2, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1083:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163384, 
+        "03:02:string": "battle_star_condition_19_12_19_9", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 47867
+    }, 
+    "01:1084:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163385, 
+        "03:02:string": "battle_star_condition_19_12_19_10", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 6, 
+        "08:07:Varint": 47857
+    }, 
+    "01:1085:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163386, 
+        "03:02:string": "battle_star_condition_19_12_19_11", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 1, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1086:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163387, 
+        "03:02:string": "battle_star_condition_19_12_19_12", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 47867
+    }, 
+    "01:1087:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163388, 
+        "03:02:string": "battle_star_condition_19_12_19_13", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 6, 
+        "08:07:Varint": 47857
+    }, 
+    "01:1088:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163389, 
+        "03:02:string": "battle_star_condition_19_12_19_14", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 1, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1089:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163390, 
+        "03:02:string": "battle_star_condition_19_12_19_15", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 0, 
+        "08:07:Varint": 47867
+    }, 
     "01:108:embedded message": {
         "01:00:Varint": 84, 
         "02:01:Varint": 48198, 
         "03:02:string": "battle_star_condition84", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 1, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1090:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163391, 
+        "03:02:string": "battle_star_condition_19_12_19_16", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 6, 
+        "08:07:Varint": 47857
+    }, 
+    "01:1091:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163392, 
+        "03:02:string": "battle_star_condition_19_12_19_17", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 2, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1092:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163393, 
+        "03:02:string": "battle_star_condition_19_12_19_18", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 1, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1093:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163394, 
+        "03:02:string": "battle_star_condition_19_12_19_19", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 6, 
+        "08:07:Varint": 47857
+    }, 
+    "01:1094:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163395, 
+        "03:02:string": "battle_star_condition_19_12_19_20", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 2, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1095:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163396, 
+        "03:02:string": "battle_star_condition_19_12_19_21", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 1, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1096:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163397, 
+        "03:02:string": "battle_star_condition_19_12_19_22", 
+        "04:03:Varint": 1, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 6, 
+        "08:07:Varint": 47857
+    }, 
+    "01:1097:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163398, 
+        "03:02:string": "battle_star_condition_19_12_19_23", 
+        "04:03:Varint": 6, 
+        "05:04:Varint": 0, 
+        "06:05:Varint": 0, 
+        "07:06:Varint": 2, 
+        "08:07:Varint": 47865
+    }, 
+    "01:1098:embedded message": {
+        "01:00:Varint": 84, 
+        "02:01:Varint": 163399, 
+        "03:02:string": "battle_star_condition_19_12_19_24", 
         "04:03:Varint": 6, 
         "05:04:Varint": 0, 
         "06:05:Varint": 0, 

@@ -499,6 +499,30 @@
         "09:08:string": "2,156748;", 
         "10:09:Varint": 156688
     }, 
+    "01:126:embedded message": {
+        "01:00:Varint": 71, 
+        "02:01:Varint": 161378, 
+        "03:02:string": "M_shifangfengshuo", 
+        "04:03:string": "161449", 
+        "05:04:string": "161451", 
+        "06:05:Varint": 31837, 
+        "07:06:Varint": 159271, 
+        "08:07:Varint": 50, 
+        "09:08:string": "1,0;", 
+        "10:09:Varint": 161453
+    }, 
+    "01:127:embedded message": {
+        "01:00:Varint": 71, 
+        "02:01:Varint": 161379, 
+        "03:02:string": "M_fengmingdao", 
+        "04:03:string": "161450", 
+        "05:04:string": "161452", 
+        "06:05:Varint": 31834, 
+        "07:06:Varint": 159274, 
+        "08:07:Varint": 50, 
+        "09:08:string": "2,161608;", 
+        "10:09:Varint": 161454
+    }, 
     "01:12:embedded message": {
         "01:00:Varint": 71, 
         "02:01:Varint": 37136, 
