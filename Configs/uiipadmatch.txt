@@ -1,0 +1,9 @@
+uilobby
+uitouch
+uidialogue
+uiwar_chess
+uilingxi_learn
+uinewteam
+uilingxi_foster_new
+uigallary_cardpreview
+uigallary_monsterpreview

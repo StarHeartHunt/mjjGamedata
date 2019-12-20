@@ -1,0 +1,23 @@
+local LUAREWARD = {
+	[137330] = { lua_id=137330, lua_tm_name="zhenying_day1", lua_item_type={108}, lua_item_id={108}, lua_item_amount={2000}},
+	[137331] = { lua_id=137331, lua_tm_name="zhenying_day2", lua_item_type={9}, lua_item_id={142290}, lua_item_amount={1}},
+	[137332] = { lua_id=137332, lua_tm_name="zhenying_day3", lua_item_type={74}, lua_item_id={45698}, lua_item_amount={10}},
+	[137333] = { lua_id=137333, lua_tm_name="zhenying_day4", lua_item_type={74}, lua_item_id={45706}, lua_item_amount={40}},
+	[137334] = { lua_id=137334, lua_tm_name="zhenying_day5", lua_item_type={1,75}, lua_item_id={3426,119121}, lua_item_amount={1,10}},
+	[137335] = { lua_id=137335, lua_tm_name="zhenying_day6", lua_item_type={108}, lua_item_id={108}, lua_item_amount={5000}},
+	[137336] = { lua_id=137336, lua_tm_name="zhenying_day7", lua_item_type={9}, lua_item_id={142291}, lua_item_amount={1}},
+	[137337] = { lua_id=137337, lua_tm_name="zhenying_day8", lua_item_type={74}, lua_item_id={45699}, lua_item_amount={10}},
+	[137338] = { lua_id=137338, lua_tm_name="zhenying_day9", lua_item_type={74}, lua_item_id={45707}, lua_item_amount={40}},
+	[137339] = { lua_id=137339, lua_tm_name="zhenying_day10", lua_item_type={259,108}, lua_item_id={128751,108}, lua_item_amount={1,20000}},
+	[137340] = { lua_id=137340, lua_tm_name="zhenying_day11", lua_item_type={108}, lua_item_id={108}, lua_item_amount={10000}},
+	[137341] = { lua_id=137341, lua_tm_name="zhenying_day12", lua_item_type={9}, lua_item_id={142292}, lua_item_amount={1}},
+	[137342] = { lua_id=137342, lua_tm_name="zhenying_day13", lua_item_type={74}, lua_item_id={45700}, lua_item_amount={10}},
+	[137343] = { lua_id=137343, lua_tm_name="zhenying_day14", lua_item_type={74}, lua_item_id={45708}, lua_item_amount={40}},
+	[137344] = { lua_id=137344, lua_tm_name="zhenying_day15", lua_item_type={234}, lua_item_id={142201}, lua_item_amount={1}},
+	[137345] = { lua_id=137345, lua_tm_name="zhenying_day16", lua_item_type={108}, lua_item_id={108}, lua_item_amount={20000}},
+	[137346] = { lua_id=137346, lua_tm_name="zhenying_day17", lua_item_type={103}, lua_item_id={103}, lua_item_amount={200}},
+	[137347] = { lua_id=137347, lua_tm_name="zhenying_day18", lua_item_type={74}, lua_item_id={45701}, lua_item_amount={10}},
+	[137348] = { lua_id=137348, lua_tm_name="zhenying_day19", lua_item_type={74}, lua_item_id={45709}, lua_item_amount={40}},
+	[137349] = { lua_id=137349, lua_tm_name="zhenying_day20", lua_item_type={78,104}, lua_item_id={40751,104}, lua_item_amount={2,200}},
+}
+return LUAREWARD

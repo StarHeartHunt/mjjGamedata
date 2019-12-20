@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<ShareAppChannelInformationList>  
+    <bundle>  
+		<!-- iOS -->
+		<ShareAppChannelInformation channel_name="ios" weChatAppId="wx4f9e3e98c79fa940" weChatAppSecret="4588cc438c5160a74421a905195eff27" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+
+		<!-- Android -->
+
+		<ShareAppChannelInformation channel_name="bilibili" weChatAppId="wxee7a6e62948e525d" weChatAppSecret="646c7a6922347220499789ba2defe47c" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+
+		<ShareAppChannelInformation channel_name="hw" weChatAppId="wx8d9f35df689bf4aa" weChatAppSecret="843da577d0589cf70f00365e3aed9a9b" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="oppo" weChatAppId="wx1c86d2560826bf35" weChatAppSecret="f99e5c595539bcc048080dd5dae7ee68" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="vivo" weChatAppId="wx96529255c281f4ff" weChatAppSecret="7171a85ef2c7900851022cd8b219779d" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="flyme" weChatAppId="wx8cf13f9a4074e264" weChatAppSecret="268369d509124573074cfa40c280e4ac" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="amigo" weChatAppId="wx7dbea3f365980831" weChatAppSecret="2e1655552dbde66c4b0432a9dc6a0e36" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="lenovo" weChatAppId="wx76a7ff66ee339206" weChatAppSecret="b0a7a8fe3f515cf4260303259c226a43" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="coolpad" weChatAppId="wx21d50d154b801724" weChatAppSecret="a23c59cdfe38997cc77ae3117ee5a5ef" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+
+		<ShareAppChannelInformation channel_name="kaopu" weChatAppId="wxa90049fdf32cd8f0" weChatAppSecret="d53fbafd19648d2db8b92251efd7aecf" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+
+		<ShareAppChannelInformation channel_name="uc" weChatAppId="wx43cde757ad81eae4" weChatAppSecret="78c5740834f0ad40577575864eacdbc0" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="xiaomi" weChatAppId="wx2cb2d5e81773090a" weChatAppSecret="6b6466d9c739703400e2176361dac187" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="360" weChatAppId="wxc425320701b18e46" weChatAppSecret="bc1ef11f69b9ba8db5819888bc485b08" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="duoku" weChatAppId="wx5db8a0e0a5bc2109" weChatAppSecret="c8dac72ea593f0f8d0bdba814e9fd76f" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="bddk" weChatAppId="wx5db8a0e0a5bc2109" weChatAppSecret="c8dac72ea593f0f8d0bdba814e9fd76f" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="zhangyuerh" weChatAppId="wxb7a3122c02d75c2f" weChatAppSecret="05cc897e0fd73023fb8ee7f1489dc745" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="pps" weChatAppId="wx949acfc9bfaf2d97" weChatAppSecret="c25081db42b5d308136b9521eafb92e3" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="pptvvas" weChatAppId="wx373f48c8213c547a" weChatAppSecret="5ada962b1dd42c4f32e25ee2df0c02da" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="douyunew" weChatAppId="wx2b89d07c53a527fd" weChatAppSecret="d0e707f27adbde383ea11e93814a3f56" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="sinaever" weChatAppId="wxe15611af5cba3cd1" weChatAppSecret="58a3673db08299a71993b70b3f394ef5" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="4399" weChatAppId="wxb0750c011cce67c4" weChatAppSecret="9a19989c14f9e766b1bdc979b2ac3898" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="dangle" weChatAppId="wxcefb1a8a1bda3198" weChatAppSecret="43607066ef074864763292a32ee4f37b" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="ewanv" weChatAppId="wx89a9b4375920ed69" weChatAppSecret="6a06787c745585caf7eb59ba9e3c16c1" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="kkmh" weChatAppId="wxea00eecccc153466" weChatAppSecret="77cc55e99f39e542e57f6adef666c0c6" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+		<ShareAppChannelInformation channel_name="samsung" weChatAppId="wx3c7a09d17dffff3c" weChatAppSecret="69df9d8ec2e69611695a87c50f04dfe2" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+
+		<ShareAppChannelInformation channel_name="laohu" weChatAppId="wxd52ba7413fd29edd" weChatAppSecret="763dc562412c1ab5741d221ea4ab0b5f" sinaWeiboAppId="2370335866" sinaWeiboAppSecret="91d3646492249c566cb1589c53998592" />
+
+	</bundle>
+</ShareAppChannelInformationList>  

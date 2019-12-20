@@ -1,0 +1,10 @@
+local LUA = {
+	[120826] = { lua_id=120826, lua_tm_name="LUA_1", lua_LUA_name=117127, lua_LUA_filename="Activity/CardLottery/CardLottery", lua_LUA_picture=29039, lua_LUA_draw=121196, lua_LUA_miantast={0}, lua_LUA_dailytast={120828,120974,120975,120976,120977}, lua_LUA_type=0, lua_associated_ID=0},
+	[123817] = { lua_id=123817, lua_tm_name="LUA_2", lua_LUA_name=117127, lua_LUA_filename="Activity/GuideAmount/GuideAmount", lua_LUA_picture=29039, lua_LUA_draw=121196, lua_LUA_miantast={121857,121858,128576,123974,123975,123976,128577,128578,128579,128580,128581}, lua_LUA_dailytast={0}, lua_LUA_type=1, lua_associated_ID=0},
+	[130556] = { lua_id=130556, lua_tm_name="LUA_3", lua_LUA_name=117127, lua_LUA_filename="Activity/AprilFoolsDay/AprilFoolsDay", lua_LUA_picture=29039, lua_LUA_draw=0, lua_LUA_miantast={130568,130569,130570,130571,130572,130573,130574}, lua_LUA_dailytast={0}, lua_LUA_type=0, lua_associated_ID=0},
+	[134200] = { lua_id=134200, lua_tm_name="LUA_5", lua_LUA_name=117127, lua_LUA_filename="Activity/CardLotteryTwo/CardLotteryTwo", lua_LUA_picture=30332, lua_LUA_draw=134179, lua_LUA_miantast={134204,134207,134210,134213,134216}, lua_LUA_dailytast={0}, lua_LUA_type=0, lua_associated_ID=0},
+	[135059] = { lua_id=135059, lua_tm_name="RETURNUSER_1", lua_LUA_name=138730, lua_LUA_filename="Activity/OldUserReturn/OldUserReturn", lua_LUA_picture=30332, lua_LUA_draw=0, lua_LUA_miantast={0}, lua_LUA_dailytast={0}, lua_LUA_type=2, lua_associated_ID=135112},
+	[135263] = { lua_id=135263, lua_tm_name="zhenyingzhan", lua_LUA_name=137329, lua_LUA_filename="Activity/CampWar/CampWar", lua_LUA_picture=29039, lua_LUA_draw=0, lua_LUA_miantast={0}, lua_LUA_dailytast={138594,138595,138596,138597,138598,138599,138601}, lua_LUA_type=3, lua_associated_ID=137327},
+	[146695] = { lua_id=146695, lua_tm_name="LUA_8", lua_LUA_name=117127, lua_LUA_filename="Activity/CardLotteryTwo/CardLotteryTwo", lua_LUA_picture=31500, lua_LUA_draw=146705, lua_LUA_miantast={0}, lua_LUA_dailytast={146696,146697,146698,146699,146700,146701}, lua_LUA_type=0, lua_associated_ID=0},
+}
+return LUA

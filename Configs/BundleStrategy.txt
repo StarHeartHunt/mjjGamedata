@@ -1,0 +1,2 @@
+AssetBundleName;Preload;Cached
+allresources/shader.bundle;true;true

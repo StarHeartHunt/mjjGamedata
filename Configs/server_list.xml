@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<ServerList>  
+	<UpdateAddress>
+		<CDN addr="https://mjj-ws.wmupd.com/mjjyd/v1_5_1/android"/>
+		<CDN addr="https://mjj-sjy.wmupd.com/mjjyd/v1_5_1/android"/>
+		<CDN addr="http://124.243.251.237/mjjyd/v1_5_1/android"/>
+	</UpdateAddress>
+
+    <Content>  
+		<!-- 服务器id务必全局唯一 -->
+		<!-- server_mark: 0(默认), 1(iOS), 2(b站), 3(硬核), 4(应用宝), 5(大混), 6(老虎) -->
+		<!-- server_group: 0(单线), 1(双线)-->
+		<!-- state: 0(无), 1(推荐), 2(新) -->
+		<!-- auto_sel: true(首选服务器), false(非首选) -->
+		<!-- pay_id: 支付服务器, 对应OneSDK网站上配置, -1(未配置支付服务器) -->
+		<!-- icon_asset: 资源id -->
+
+
+		<!-- 暂定id: 2000 开始是ios平台 -->
+
+
+		<!-- 暂定id: 9000 开始是"特殊"服务器, 例如测试服 -->
+		
+		<!-- B站 -->
+		<ServerNode id="1000" server_mark="2" server_group="0" state="1" auto_sel="false" pay_id="501" icon_asset="20120" server_name="孤松迎客" server_tag="game501" server_ip="124.243.241.57" auth_port="8501" game_port="9501"/>
+
+		<ServerNode id="1001" server_mark="2" server_group="0" state="1" auto_sel="false" pay_id="502" icon_asset="20121" server_name="九里云松" server_tag="game502" server_ip="124.243.241.54" auth_port="8502" game_port="9502"/>
+
+		<ServerNode id="1002" server_mark="2" server_group="0" state="1" auto_sel="true" pay_id="502" icon_asset="20122" server_name="灵岩叠翠" server_tag="game503" server_ip="124.243.241.54" auth_port="8502" game_port="9502"/>
+
+
+		<!-- 硬核 -->
+		<ServerNode id="1300" server_mark="3" server_group="0" state="1" auto_sel="true" pay_id="507" icon_asset="20106" server_name="寒池月夜" server_tag="game507" server_ip="124.243.241.135" auth_port="8507" game_port="9507"/>
+
+		<ServerNode id="1301" server_mark="3" server_group="0" state="1" auto_sel="false" pay_id="507" icon_asset="20107" server_name="金顶祥光" server_tag="game508" server_ip="124.243.241.135" auth_port="8507" game_port="9507"/>
+
+		<ServerNode id="1302" server_mark="3" server_group="0" state="1" auto_sel="false" pay_id="507" icon_asset="20117" server_name="白水秋风" server_tag="game518" server_ip="124.243.241.135" auth_port="8507" game_port="9507"/>
+
+		<ServerNode id="1303" server_mark="3" server_group="0" state="1" auto_sel="false" pay_id="507" icon_asset="20118" server_name="双峰插云" server_tag="game519" server_ip="124.243.241.135" auth_port="8507" game_port="9507"/>
+
+
+		<!-- 靠谱/应用宝 -->
+		<ServerNode id="1201" server_mark="4" server_group="0" state="1" auto_sel="true" pay_id="504" icon_asset="18653" server_name="昆仑之巅" server_tag="game530" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+		<!-- 应用宝 -->
+		
+		<ServerNode id="1202" server_mark="9" server_group="0" state="1" auto_sel="true" pay_id="504" icon_asset="18653" server_name="昆仑之巅" server_tag="game530" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+
+		<!-- 大混 -->
+		<ServerNode id="1400" server_mark="5" server_group="0" state="1" auto_sel="true" pay_id="504" icon_asset="20108" server_name="苍山栖霞" server_tag="game509" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+
+		<ServerNode id="1401" server_mark="5" server_group="0" state="1" auto_sel="false" pay_id="504" icon_asset="20109" server_name="古城晚眺" server_tag="game510" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+
+
+		<!-- 老虎 -->
+		<ServerNode id="1100" server_mark="6" server_group="0" state="1" auto_sel="false" pay_id="504" icon_asset="20103" server_name="黄龙吐翠" server_tag="game504" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+
+		<ServerNode id="1101" server_mark="6" server_group="0" state="1" auto_sel="false" pay_id="504" icon_asset="20104" server_name="灵泉卧龙" server_tag="game505" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+
+		<ServerNode id="1102" server_mark="6" server_group="0" state="1" auto_sel="false" pay_id="504" icon_asset="20105" server_name="宝山流霞" server_tag="game506" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+		
+		<!--为了当乐和新浪渠道玩家数据移植，要求老虎渠道看到509,510-->
+		<ServerNode id="1103" server_mark="6" server_group="0" state="1" auto_sel="false" pay_id="504" icon_asset="20108" server_name="苍山栖霞" server_tag="game509" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+
+		<ServerNode id="1104" server_mark="6" server_group="0" state="1" auto_sel="false" pay_id="504" icon_asset="20109" server_name="古城晚眺" server_tag="game510" server_ip="124.243.241.60" auth_port="8504" game_port="9504"/>
+
+
+		<!-- 双平台, server_tag 区分平台时, ios:偶数, android:奇数 -->
+		<ServerNode id="1150" server_mark="6" server_group="1" state="1" auto_sel="true" pay_id="900" icon_asset="18660" server_name="繁花遍野" server_tag="game901" server_ip="124.243.251.225" auth_port="8900" game_port="9900"/>
+
+		<ServerNode id="1151" server_mark="6" server_group="1" state="1" auto_sel="false" pay_id="900" icon_asset="18656" server_name="幽谷桃源" server_tag="game903" server_ip="124.243.251.225" auth_port="8900" game_port="9900"/>
+    </Content>  
+</ServerList>  

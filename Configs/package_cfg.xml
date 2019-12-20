@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<uinfo_list>  
+	<!-- Win -->
+	<uinfo channel_name="win" server_mark="0" allow_pay="false" show_logout="false" address=""/>
+
+	<!-- iOS -->
+	<uinfo channel_name="ios" server_mark="1" allow_pay="true" show_logout="true" address="itms-apps://itunes.apple.com/cn/app/%E6%A2%A6%E9%97%B4%E9%9B%86/id1111159165?mt=8"/>
+
+	<!-- Android -->
+
+	<!-- 母包 -->
+	<uinfo channel_name="OneSDK" server_mark="0" allow_pay="true" show_logout="true" address=""/>
+	
+	<!-- b站 -->
+	<uinfo channel_name="bilibili" server_mark="2" allow_pay="true" show_logout="true" address=""/>
+
+	<!-- 硬核 -->
+	<uinfo channel_name="hw" server_mark="3" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="oppo" server_mark="3" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="vivo" server_mark="3" allow_pay="true" show_logout="false" address=""/>
+	<uinfo channel_name="flyme" server_mark="3" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="amigo" server_mark="3" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="lenovo" server_mark="3" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="coolpad" server_mark="3" allow_pay="true" show_logout="false" address=""/>
+
+	<!-- 靠谱/应用宝 -->
+	<uinfo channel_name="kaopu" server_mark="4" allow_pay="true" show_logout="true" address=""/>
+	<!-- 腾讯应用宝 -->
+	<uinfo channel_name="msdk" server_mark="4" allow_pay="true" show_logout="true" address=""/>
+
+	<!-- 大混 -->
+	<uinfo channel_name="uc" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="xiaomi" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="360" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="duoku" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="bddk" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="zhangyuerh" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="pps" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="pptvvas" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="douyunew" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="sinaever" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="4399" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="dangle" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="ewanv" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="kkmh" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+	<uinfo channel_name="samsung" server_mark="5" allow_pay="true" show_logout="true" address=""/>
+
+	<!-- 老虎 -->
+	<uinfo channel_name="laohu" server_mark="6" allow_pay="true" show_logout="true" address=""/>
+
+</uinfo_list>  

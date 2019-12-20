@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<INITIAL>  
+	<VOLUME_DIALOGUE val="0.8"/>
+	<VOLUME_BGM val="0.3"/>
+	<VOLUME_SE val="0.3"/>
+
+	<BGM_FADE_DOWN_TIME val="0"/>
+	<BGM_FADE_UP_TIME val="0"/>
+	<BGM_FADE_DOWN_PERCENTAGE val="1"/>
+	<SOUND_CD_TIME val="3"/><!-- 这个CD越大，越耗资源。调大需慎重 另外，因为时间有限，这六个变量没写负数的检测，所以不要测试负数哟！！！ -->
+	<SOUND_FADE_DOWN_TIME val="0"/>
+	<SOUND_FADE_DOWN_PERCENTAGE val="0.5"/>
+
+
+	<PAY_EXCHANGE_RATE val="100"/>
+	<PAY_COMPANY val="wanmei"/>
+	<PAY_CURRENCY val="元宝"/>
+
+	<AB_RESMGR_MAXCOUNT val="4"/>
+	<AB_LOADER_MAXCOUNT val="3"/>
+	<AUTO_DOWNLOAD_MB_MAX val="10.0"/>
+
+	<!-- 付费开关 -->
+	<ALLOW_PAY val="true"/>
+
+	<!-- 登录公告  https://nq.games.laohu.com/mjj/ioswy/index.html -->
+	<IOS_LOGIN_BOARD_ADDRESS val="https://nq.games.laohu.com/mjj/ioswy/index.html"/>
+	<ANDROID_LOGIN_BOARD_ADDRESS val="https://nq.games.laohu.com/mjj/adrwy/index.html"/>
+
+	<!-- 内部公告 -->
+	<IOS_INTER_BOARD_ADDRESS val="https://nq.games.laohu.com/mjj/iosny/index.html"/>"/>
+	<ANDROID_INTER_BOARD_ADDRESS val="https://nq.games.laohu.com/mjj/adrny/index.html"/>
+
+	<!-- 内部公告版本号 -->
+	<BOARD_WEB_VERSION val="30"/>
+	
+	<!-- 问卷调查 -->
+	<QUEST_WEB val="https://nq.games.laohu.com/lhj/cjydl0928/index.html"/>
+
+	<!-- 是否开启问卷 -->
+	<QUEST_ENABLE val="true"/>
+	
+	
+	<!-- H5活动版本号 -->
+	<HTML_ACTIVITY_VERSION val="2"/>
+		<!-- H5活动地址 -->
+	<HTML_ACTIVITY val="http://m.laohu.com/chinaunicom/ldy/ltzz/index.html?"/>
+
+	<!-- 是否开启H5活动 -->
+	<HTML_ACTIVITY_ENABLE val="true"/>
+
+	<!-- 登录排队最长等待时间(秒) -->
+	<AUTH_QUEUE_TIME_MAX val="60.0"/>
+
+	<!-- 登录排队最大人数显示(伪) -->
+	<AUTH_QUEUE_FAKE_DESC val="1000+"/>
+	
+	<!-- 是否开启礼包码页签 -->
+	<GIFT_CODE_ENABLE val="true"/>
+	<!-- CONFIGLANGUAGE 表的数量 -->
+	<CONFIGLANGUAGE_COUNT val="15"/>
+	<!-- 百度登录是否弹公告 -->
+	<BAIDU_LOGIN_WEB val="false"/>
+</INITIAL>  

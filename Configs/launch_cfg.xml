@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<LaunchShow>  
+	<Desc>
+		<InstallTips text="正在解压资源，此过程不耗流量"/>
+		<InstallError text="解压资源失败，请检查剩余存储空间"/>
+		<DownloadTips text="正在下载资源，请稍候"/>
+		<DownloadError text="下载文件失败，是否断点续传"/>
+		<NetworkNotReach text="无法连接，请检查网络"/>
+		<UseMobileNet text="正在使用移动流量，需要下载{0:F1}MB资源"/>
+		<ForceUpdateApp text="发现新版本，请去应用商店下载"/>
+		<Confirm text="确定"/>
+		<VoiceOptionDesc text="请选择语音包"/>
+		<VoiceOption_1 text="中文"/>
+		<VoiceOption_2 text="日文"/>
+		<InitDataTips text="正在初始化数据，请稍候"/>
+		<CheckCdnTips text="正在检测资源，请稍候"/>
+	</Desc>
+
+	<BGMusic name="mainui_theme"/>
+
+    <Live2D>  
+		<Character name="妙手白扇" res_path="Live2D/models/BaiShan/BaiShan"
+			ui_main_scale="7.0" ui_offset_x="0.0" ui_offset_y="-0.8" mouse_open_extent="11.0"
+			cv_cn="赵岭" cv_jp="细谷佳正" painter="毛团小剑剑" group_id="1094">
+			<Param>
+				<MotionAndVoice motion="1094_2_BaiShan" voice="2"/>
+				<MotionAndVoice motion="1094_3_BaiShan" voice="3"/>
+				<MotionAndVoice motion="1094_4_BaiShan" voice="4"/>
+			</Param>
+		</Character>
+		<Character name="虎头金刀" res_path="Live2D/models/HuTou/HuTou"
+			ui_main_scale="5.0" ui_offset_x="1.2" ui_offset_y="-1.1" mouse_open_extent="11.0"
+			cv_cn="马小骥" cv_jp="山下大辉" painter="三鸠" group_id="429">
+			<Param>
+				<MotionAndVoice motion="429_2_HuTou" voice="2"/>
+				<MotionAndVoice motion="429_3_HuTou" voice="3"/>
+				<MotionAndVoice motion="429_4_HuTou" voice="4"/>
+			</Param>
+		</Character>
+		<Character name="淑女剑" res_path="Live2D/models/ShuNv/ShuNv"
+			ui_main_scale="5.2" ui_offset_x="-0.3" ui_offset_y="-0.8" mouse_open_extent="17.0"
+			cv_cn="张璐" cv_jp="东山奈央" painter="喜喜果" group_id="1296">
+			<Param>		
+				<MotionAndVoice motion="1296_2_ShuNv" voice="2"/>
+				<MotionAndVoice motion="1296_3_ShuNv" voice="3"/>
+				<MotionAndVoice motion="1296_4_ShuNv" voice="4"/>
+			</Param>
+		</Character>
+		<Character name="紫薇软剑" res_path="Live2D/models/ZIWEI/ZIWEI"
+			ui_main_scale="5.7" ui_offset_x="0" ui_offset_y="-0.4" mouse_open_extent="12.0"
+			cv_cn="阿杰" cv_jp="前野智昭" painter="再临" group_id="427">
+			<Param>
+				<MotionAndVoice motion="427_2_ZiWei" voice="2"/>
+				<MotionAndVoice motion="427_3_ZiWei" voice="3"/>
+				<MotionAndVoice motion="427_4_ZiWei" voice="4"/>
+			</Param>
+		</Character>
+    </Live2D>  
+</LaunchShow>  
