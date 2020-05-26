@@ -58,7 +58,7 @@
 	<!-- 是否开启礼包码页签 -->
 	<GIFT_CODE_ENABLE val="true"/>
 	<!-- CONFIGLANGUAGE 表的数量 -->
-	<CONFIGLANGUAGE_COUNT val="15"/>
+	<CONFIGLANGUAGE_COUNT val="17"/>
 	<!-- 百度登录是否弹公告 -->
 	<BAIDU_LOGIN_WEB val="false"/>
 </INITIAL>  

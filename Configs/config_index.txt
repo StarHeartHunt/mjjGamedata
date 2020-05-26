@@ -1,11 +1,11 @@
-BundleDef.bytes 0 66bd8acfaaf51408e09aa01fdd1413d0 0 2827365
+BundleDef.bytes 0 7fa0255c135abd72a320525e88607321 0 2921806
 BundleStrategy.txt 0 ec9378e5abe3b9fe6c20cbef9c35eb20 0 70
 ShareAppChannelInformation.xml 0 10a20b123fcd6f41666b9dae6eee7ae3 0 5946
-badword.bytes 0 d750e9e6fcf4e1cea4abc17e25026a79 0 156172
+badword.bytes 0 20b61e0de1663f8e85f7350ba838f443 0 212813
 battledotweendata.bytes 0 fad1c70bb96ea6d2428f3b28ce1fbbcd 0 4914
 battledotweendata.xml 0 6d0d04d48a07436fa4ba798f649acad3 0 43147
-global_value.xml 0 1af2fe56c517d8555c718e148cc3a067 0 2082
+global_value.xml 0 39d62af63a224fd6031edbec5f60079b 0 2082
 launch_cfg.xml 0 f1be5d9c5deb397333e468c872872983 0 2667
 package_cfg.xml 0 4c19d1477da06891660e0b4f146896ef 0 3131
-server_list.xml 0 c7bc4a37414898ac902e818dfb4ed297 0 5332
+server_list.xml 0 238a683bdf6525f834540a16214ef762 0 5187
 uiipadmatch.txt 0 c5fad4e2bdff3488179799d30660c6b6 0 138
